@@ -4,6 +4,8 @@ Notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant to gi
 
 ## 2023
 
+### The Battle on the Plains
+
 [April 20, 2023 - Back in the City Again](2023-04-20-back-in-the-city-again.md)  
 Having lost a few good paladins, the group finishes their journey back to the city, to deliver Shag-nurab's message.
 
@@ -41,5 +43,28 @@ With trouble sleeping the party discovers the ground is desecrated and another a
 [May 5, 2022 - Night Fight](2022-05-05-night-fight.md)  
 With the alarm raised, the party and paladins are starring down a zombie horde at their campsite.
 
+[April 4, 2022 - Scrying and Undying](2022-04-21-scrying-and-undying.md)  
+Recovering from the attack, Cedric carves up meat and Qa'dat has that feeling that someone is watching.
+
+[April 7, 2022 - Wargy Surprise](2022-04-07-wargy-surprise.md)  
+The party corners a ninja, but that isn't the only surprise the night holds.  
+
+[March 17, 2022 - Chef's (Death) Kiss](2022-03-17-chefs-death-kiss.md)  
+The party makes their way out to journey out with the army, but what and who awaits them?
+
+[March 3, 2022 - Planning Undead Parties](2022-03-03-planning-undead-parties.md)  
+The party tries to devise a plan before then head out to take out a key target and potential artifact.
+
+[January 20, 2022 - Power of the Gods](2022-01-20-power-of-the-gods.md)  
+The newly forming future party is summoned to Guros and questioned. But will they be trusted?
+
 ## 2021
+
+### The Battle on the Plains
+
+[December 16, 2021 - Summonbot Arena](2021-12-16-summonbot-arena.md)  
+The new heroes are asked to prove their skills at the testing grounds, but also take time to enjoy a meal in the city.
+
+[Deceber 2, 2021 - Fresh Faces in the City](2021-12-02-fresh-faces-in-the-city.md)  
+A new set of heroes find themselves in Ur'gench, for some an unfamiliar setting.
 

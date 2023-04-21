@@ -1,4 +1,4 @@
-# May 5, 2022 - night Fight
+# May 5, 2022 - Night Fight
 
 `Qa'dat` fireballs, cedric fire breath, `Lucy` pounce and burn  
 `Halbir` channels energy and takes down swarm  
