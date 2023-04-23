@@ -68,3 +68,20 @@ The new heroes are asked to prove their skills at the testing grounds, but also 
 [Deceber 2, 2021 - Fresh Faces in the City](2021-12-02-fresh-faces-in-the-city.md)  
 A new set of heroes find themselves in Ur'gench, for some an unfamiliar setting.
 
+### The Mountain Ruckus Campaign
+
+[October 7, 2021 - A Perfect Plan](2021-10-07-a-perfect-plan.md)  
+The heroes have a plan, but will it work? And will they survive?  
+
+[September 16, 2021 - Meet and Greet](2021-09-16-meet-and-greet.md)  
+After arriving in Buildhame, the heroes are brought to speak before the council.  
+
+[August 19, 2021 - Into the Mountains: Part Deux](2021-08-19-into-the-mountains-part-deux.md)  
+The heroes attempt to monitor the army as they near the dwarven city of Buildhame.  
+
+[August 5, 2021 - Run and Hide](2021-08-5-run-and-hide.md)  
+The heroes check in with Guros and attempt to lay low after their strike on the army.  
+
+[July 29, 2021 - Look, over there!](2021-07-29-look-over-there.md)  
+The extend heroes ready to try and break and distract the army, with rhinos and fire and spells, oh my!  
+
