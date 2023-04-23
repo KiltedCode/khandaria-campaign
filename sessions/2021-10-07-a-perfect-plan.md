@@ -186,6 +186,6 @@ loses as go out of range
 tunnel did collapse  
 believe killed the `daimio` and the `Prince of Water`  
 
-==Everybody levels up!==  
+> **Everybody levels up!**
 
 [back to table of contents](/sessions/TOC.md)
