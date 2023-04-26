@@ -85,3 +85,8 @@ The heroes check in with Guros and attempt to lay low after their strike on the 
 [July 29, 2021 - Look, over there!](2021-07-29-look-over-there.md)  
 The extend heroes ready to try and break and distract the army, with rhinos and fire and spells, oh my!  
 
+[July 22, 2021 - Late to the Party](2021-07-22-late-to-the-party.md)  
+While successful in their task, the heroes are late, for a very important date, with the other party.  
+
+
+
