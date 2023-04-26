@@ -170,7 +170,7 @@ reaches lip and explodes and fire up the tunnel
 see Asmodeus again but more in pain  
 suddenly stone breaks around picture  
 tents shredded, goblins on back  
-see P`rince of Fire` is hurt bad, nowhere near the circle  
+see `Prince of Fire` is hurt bad, nowhere near the circle  
 see a fragment of gold armor  
 `Faleor` there in time to see `Belsaran` come out of fire  
 
