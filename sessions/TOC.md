@@ -6,87 +6,101 @@ Notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant to gi
 
 ### The Battle on the Plains
 
-[April 20, 2023 - Back in the City Again](2023-04-20-back-in-the-city-again.md)  
+[April 20, 2023 - Back in the City Again](2023/2023-04-20-back-in-the-city-again.md)  
 Having lost a few good paladins, the group finishes their journey back to the city, to deliver Shag-nurab's message.
 
-[April 6, 2023 - Teenage Mutant Ninja Allosaurs](2023-04-06-tmna.md)  
+[April 6, 2023 - Teenage Mutant Ninja Allosaurs](2023/2023-04-06-tmna.md)  
 The group soldiers through the storm, but rest is for those without dino riding ninjas on their trail.
 
-[March 16, 2023 - Dino Fight](2023-03-16-dino-fight.md)  
+[March 16, 2023 - Dino Fight](2023/2023-03-16-dino-fight.md)  
 The group prepares to take on two t-rexes to free some slaves.  
 
-[February 16, 2023 - Snow Day](2023-02-16-snow-day.md)  
+[February 16, 2023 - Snow Day](2023/2023-02-16-snow-day.md)  
 The group makes there way back towards Ur'gench, trying to avoid patrols in the snow.  
 
-[January 19, 2023 - Trail with Purple](2023-01-19-trail-with-purple.md)  
+[January 19, 2023 - Trail with Purple](2023/2023-01-19-trail-with-purple.md)  
 As the group makes their escape they're followed by an unexpected surprise.
 
 ## 2022
 
 ### The Battle on the Plains
 
-[October 20, 2022 - Exploding Skeletons](2022-10-20-exploding-skeletons.md.md)  
+[October 20, 2022 - Exploding Skeletons](2022/2022-10-20-exploding-skeletons.md.md)  
 The armies charge into the undead hoard for glory or death.  
 
-[October 10, 2022 - Into the Fray](2022-10-06-into-the-fray.md)  
+[October 10, 2022 - Into the Fray](2022/2022-10-06-into-the-fray.md)  
 The time has finally come for the Khandarian forces to march on the Qublan army.
 
-[August 18, 2022 - Source of Evil](2022-08-18-source-of-evil.md)  
+[August 18, 2022 - Source of Evil](2022/2022-08-18-source-of-evil.md)  
 After dispatching a ninja ambush, the party takes the path not followed to continue to hunt the source of the problem.  
 
-[August 4, 2022 - Trail of Ninjas](2022-08-04-trail-of-ninjas.md)  
+[August 4, 2022 - Trail of Ninjas](2022/2022-08-04-trail-of-ninjas.md)  
 As the nightime attacks continue, the party has decided to track down the source, with some help from the paladins.
 
-[July 7, 2022 - Mo Zombies, No Problem](2022-07-07-mo-zombies-no-problem.md)  
+[July 7, 2022 - Mo Zombies, No Problem](2022/2022-07-07-mo-zombies-no-problem.md)  
 With trouble sleeping the party discovers the ground is desecrated and another attack is on its way.  
 
-[May 5, 2022 - Night Fight](2022-05-05-night-fight.md)  
+[May 5, 2022 - Night Fight](2022/2022-05-05-night-fight.md)  
 With the alarm raised, the party and paladins are starring down a zombie horde at their campsite.
 
-[April 4, 2022 - Scrying and Undying](2022-04-21-scrying-and-undying.md)  
+[April 4, 2022 - Scrying and Undying](2022/2022-04-21-scrying-and-undying.md)  
 Recovering from the attack, Cedric carves up meat and Qa'dat has that feeling that someone is watching.
 
-[April 7, 2022 - Wargy Surprise](2022-04-07-wargy-surprise.md)  
+[April 7, 2022 - Wargy Surprise](2022/2022-04-07-wargy-surprise.md)  
 The party corners a ninja, but that isn't the only surprise the night holds.  
 
-[March 17, 2022 - Chef's (Death) Kiss](2022-03-17-chefs-death-kiss.md)  
+[March 17, 2022 - Chef's (Death) Kiss](2022/2022-03-17-chefs-death-kiss.md)  
 The party makes their way out to journey out with the army, but what and who awaits them?
 
-[March 3, 2022 - Planning Undead Parties](2022-03-03-planning-undead-parties.md)  
+[March 3, 2022 - Planning Undead Parties](2022/2022-03-03-planning-undead-parties.md)  
 The party tries to devise a plan before then head out to take out a key target and potential artifact.
 
-[January 20, 2022 - Power of the Gods](2022-01-20-power-of-the-gods.md)  
+[January 20, 2022 - Power of the Gods](2022/2022-01-20-power-of-the-gods.md)  
 The newly forming future party is summoned to Guros and questioned. But will they be trusted?
 
 ## 2021
 
 ### The Battle on the Plains
 
-[December 16, 2021 - Summonbot Arena](2021-12-16-summonbot-arena.md)  
+[December 16, 2021 - Summonbot Arena](2021/2021-12-16-summonbot-arena.md)  
 The new heroes are asked to prove their skills at the testing grounds, but also take time to enjoy a meal in the city.
 
-[Deceber 2, 2021 - Fresh Faces in the City](2021-12-02-fresh-faces-in-the-city.md)  
+[Deceber 2, 2021 - Fresh Faces in the City](2021/2021-12-02-fresh-faces-in-the-city.md)  
 A new set of heroes find themselves in Ur'gench, for some an unfamiliar setting.
 
 ### The Mountain Ruckus Campaign
 
-[October 7, 2021 - A Perfect Plan](2021-10-07-a-perfect-plan.md)  
+[October 7, 2021 - A Perfect Plan](2021/2021-10-07-a-perfect-plan.md)  
 The heroes have a plan, but will it work? And will they survive?  
 
-[September 16, 2021 - Meet and Greet](2021-09-16-meet-and-greet.md)  
+[September 16, 2021 - Meet and Greet](2021/2021-09-16-meet-and-greet.md)  
 After arriving in Buildhame, the heroes are brought to speak before the council.  
 
-[August 19, 2021 - Into the Mountains: Part Deux](2021-08-19-into-the-mountains-part-deux.md)  
+[August 19, 2021 - Into the Mountains: Part Deux](2021/2021-08-19-into-the-mountains-part-deux.md)  
 The heroes attempt to monitor the army as they near the dwarven city of Buildhame.  
 
-[August 5, 2021 - Run and Hide](2021-08-5-run-and-hide.md)  
+[August 5, 2021 - Run and Hide](2021/2021-08-5-run-and-hide.md)  
 The heroes check in with Guros and attempt to lay low after their strike on the army.  
 
-[July 29, 2021 - Look, over there!](2021-07-29-look-over-there.md)  
+[July 29, 2021 - Look, over there!](2021/2021-07-29-look-over-there.md)  
 The extend heroes ready to try and break and distract the army, with rhinos and fire and spells, oh my!  
 
-[July 22, 2021 - Late to the Party](2021-07-22-late-to-the-party.md)  
+[July 22, 2021 - Late to the Party](2021/2021-07-22-late-to-the-party.md)  
 While successful in their task, the heroes are late, for a very important date, with the other party.  
 
+[June 17, 2021 - Forest Party](2021/2021-06-17-forest-party.md)  
+After setting off the flood, the party decides to take the risk to go back for the dwarven bodies.
+
+[June 2, 2021 - Dwarven Waterslide](2021/2021-06-02-dwarven-waterslide.md)  
+The heroes venture to the lake to check in on the dwarven party waiting to set off their ambush plan.
+
+[May 6, 2021 - Naked Recon](2021/2021-05-06-naked-recon.md)  
+After the dominating revelation, the heroes need a plan before they continue their recon.  
+
+[April 15, 2021 - Caravan Party](2021/2021-04-15-caravan-party.md)  
+After a successful a successful explosive plan and dicey escape, the heroes must start their journey back towards Ur'gench.  
+
+[April 1, 2021 - Explosive Getaway](2021/2021-04-01-explosive-getaway.md)  
+With their plan in motion and discovered, it is time to make an explosive getaway.  
 
 
