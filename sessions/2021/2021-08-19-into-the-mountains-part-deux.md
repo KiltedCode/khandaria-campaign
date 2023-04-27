@@ -25,7 +25,7 @@ following towards eastern edge
 as he's leading us, hear faint clank of metal behind us  
 worried about `Belsaran` and `Valdran` fitting  
 `Faleor` remembers wand of **reduce person**  
-`Aiya` pops everyone  
+`Eiya` pops everyone  
 dwarf closes up entrance almost cave in like but controlled  
 I was spying on the troops, saw them closing in, but then bumped into us  
 very nervous guy  
@@ -74,7 +74,7 @@ he and `Aya` normally a 2 person crew, lack of healing
 found `Katla` through `Mel`  
 worked out to be a good team  
 `Mel` has tendency to get them into trouble, especially for him as front line  
-`Faleor` flirts with `Aiya`  
+`Faleor` flirts with `Eiya`  
 `Belsaran` and `Faleor` notice `Valdrin` isn't drunk but whiskey is hitting him hard  
 
 [back to table of contents](/sessions/TOC.md)

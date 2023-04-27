@@ -103,4 +103,17 @@ After a successful a successful explosive plan and dicey escape, the heroes must
 [April 1, 2021 - Explosive Getaway](2021/2021-04-01-explosive-getaway.md)  
 With their plan in motion and discovered, it is time to make an explosive getaway.  
 
+[March 25, 2021 - Go Time](2021/2021-03-25-go-time.md)  
+The joint hero task force discusses their plan, because time is running out if they want to act.  
 
+[March 4, 2021 - But I want to Attack](2021/2021-03-04-but-i-want-to-attack.md)  
+After a large discover the heroes must decide their next steps and report back to Guros.  
+
+[February 18, 2021 - Lantern Watch](2021/2021-02-18-lantern-watch.md)  
+After rendezvousing with the other heroes, it is time to get a closer look at the castle ahead.  
+
+[February 4, 2021 - Going on a Bear Hunt](2021/2021-02-04-going-on-a-bear-hunt.md)  
+The heroes ready to leave Stormpeak, but first report intel to Guros.  
+
+[January 21, 2021 - Dwarven Ruckus](2021/2021-01-21-dwarven-ruckus.md)  
+After their battle, the heroes head to Stormpeak, for rest and hopefully aid.
