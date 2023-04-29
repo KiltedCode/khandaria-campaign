@@ -133,3 +133,20 @@ The heroes ready to journey to scout a castle on the edge of Khandaria's border.
 [October 29, 2020 - Breach](2020/2020-10-29-breach.md)  
 The time has come to locate and take down the spy Vilrath.  
 
+[October 15, 2020 - Warring Choices](2020/2020-10-15-warring-choices.md)  
+After scrying sending them to new revelations, the heroes need to find their next move, for Ur'gench and Khandaria.  
+
+[October 1, 2020 - Palace Scrystyle](2020/2020-10-01-palace-scrystyle.md)  
+The party uncovers deeper secrets when scrying on the thief, and they must warn Guros right away.
+
+[September 3, 2020 - Shocking Discoveries](2020/2020-09-03-shocking-discoveries.md)
+The heroes continue clearing out the thieves guild, hoping to avoid any more traps.  
+
+[August 20, 2020 - Judge a Book by its Cover](2020/2020-08-20-judge-a-book-by-its-cover.md)  
+After setting off numerous traps in the thieves guild, the heroes head for air (and spells) before venturing down the stairs.  
+
+[August 6, 2020 - Into the Den](2020/2020-08-06-into-the-den.md)  
+As the heroes continue to try and answer questions about the moss and the location of Serda, they receive word from Guros.  
+
+[July 20, 2020 - City Splitting](2020/2020-07-30-city-splitting.md)  
+The heroes continue to work with Guros to get to the bottom of things, while trying to find a way to rescue the adventurer taken by the duergar.  
