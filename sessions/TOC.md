@@ -150,3 +150,9 @@ As the heroes continue to try and answer questions about the moss and the locati
 
 [July 20, 2020 - City Splitting](2020/2020-07-30-city-splitting.md)  
 The heroes continue to work with Guros to get to the bottom of things, while trying to find a way to rescue the adventurer taken by the duergar.  
+
+[July 2, 2020 - Bards and Booms](2020/2020-07-02-bards-and-booms.md)  
+The heros track down other heroes to help with the scry by night operation.    
+
+[June 18, 2020 - Fact Finding](2020/2020-06-18-fact-finding.md)  
+The party decides to take on the work to try and locate the adventurers taken by the duergar.  
