@@ -118,7 +118,7 @@ The heroes ready to leave Stormpeak, but first report intel to Guros.
 [January 21, 2021 - Dwarven Ruckus](2021/2021-01-21-dwarven-ruckus.md)  
 After their battle, the heroes head to Stormpeak, for rest and hopefully aid.
 
-## 20202
+## 2020
 
 ### The Mountain Ruckus Campaign
 
