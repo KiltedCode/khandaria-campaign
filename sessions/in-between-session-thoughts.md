@@ -2,7 +2,10 @@
 
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
-Before the final battle speech from `Faleor`:
+## Before the final battle
+
+speech from `Faleor`:  
+
 > Soldiers, warriors, adventurers... protectors of Khandaria, hear. me. now!  
 > This is our moment. This is our city. This is our country.  
 > _points towards palace_  
