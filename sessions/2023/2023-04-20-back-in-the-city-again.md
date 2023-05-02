@@ -53,7 +53,7 @@ may have already happened
 know that very powerful spell  
 **true seeing** might not pierce it  
 `Lucy` wants to know how acts in private  
-`Magnus` called `Saurin` his successor and assassin  
+`Magnus` called `Soren` his successor and assassin  
 don't tell anyone else, don't contact the khan, needs delicately  
 `Qa'dat` mentions communing with spirits if can provide holy water and incense  
 mention prince on off hand  

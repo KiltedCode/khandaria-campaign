@@ -1,10 +1,45 @@
-# Khandaria Session Notes
+# The Adventures (and session notes)
 
-Notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant to give slight insight into what happened during that play sessions. Below they are listed in reverse chronological order.
+Below are the adventures of the campaign. A short synopis is found first, followed by the session notes.
+
+The notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant to give slight insight into what happened during that play sessions. Below they are listed in reverse chronological order, with headings for the different sections of the campaign.
+
+## The Adventures
+
+_(in chronologicial order)__  
+
+### Wild Trek: The Motion Pyramid
+
+The adventurers join a large group heading into the Dead Lands in search of the source of the Dead.  What are the mysterious runestones that seem to animate these skeletons?  And what is the secret of the vanishing pyramid deep in the desert?
+
+### Our Kind of Town 
+
+The adventurers journey to a town for information, only to discover it overrun by Orcs and abandoned by its people. After Orc fumigation, the party settles a new town and rebuilds. But will they survive the dangers of the wilds? Will their new neighbors be friends or foes?
+
+### Wild Trek 2: The Path of Khan
+
+After the successful defense of Khanhold, the adventurers receive a worrying message. Khan Magnus has not returned and is not replying to any form of magical messaging. Is the Khan alive? Will the adventurers be able to find him in time? Will the kingdom hold together without him?
+
+### Who Watches the Watcher?
+
+After the tragedy at the coronation, the adventurers want answers. They also may choose to not fully follow the rules laid out in front of them. Mystery, deceit, and an expedition beneath the city. Will the adventurers find the culprit? Will they be able to operate under the Khan?
+
+### The Mountain Ruckus Campaign
+
+After the worrying discovery, the heroes are sent out to scout out the edges of the borders, to a castle that has fallen? How much progress has Qublan made? Can they be pushed back? Or is war on the doorstep? And will they get to say hi to their dwarven friends on the way?
+
+### The Battle on the Plains
+
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help Halbir and the Paladins strike a blow at the heart of the army? Can they survive?
+
+# Session Notes
+
 
 ## 2023
 
 ### The Battle on the Plains
+
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help Halbir and the Paladins strike a blow at the heart of the army? Can they survive?
 
 [April 20, 2023 - Back in the City Again](2023/2023-04-20-back-in-the-city-again.md)  
 Having lost a few good paladins, the group finishes their journey back to the city, to deliver Shag-nurab's message.
@@ -70,6 +105,8 @@ A new set of heroes find themselves in Ur'gench, for some an unfamiliar setting.
 
 ### The Mountain Ruckus Campaign
 
+After the worrying discovery, the heroes are sent out to scout out the edges of the borders, to a castle that has fallen? How much progress has Qublan made? Can they be pushed back? Or is war on the doorstep? And will they get to say hi to their dwarven friends on the way?
+
 [October 7, 2021 - A Perfect Plan](2021/2021-10-07-a-perfect-plan.md)  
 The heroes have a plan, but will it work? And will they survive?  
 
@@ -128,7 +165,9 @@ The heroes are mid fight throwing down (or up) at rocs and their hobgoblin rider
 [December 3, 2020 - Welcome to the Roc](2020/2020-12-03-welcome-to-the-roc.md)  
 The heroes ready to journey to scout a castle on the edge of Khandaria's border.  
 
-### Safety in the City
+### Who Watches the Watcher
+
+After the tragedy at the coronation, the adventurers want answers. They also may choose to not fully follow the rules laid out in front of them. Mystery, deceit, and an expedition beneath the city. Will the adventurers find the culprit? Will they be able to operate under the Khan? Can they keep the city safe inside, out, and below?
 
 [October 29, 2020 - Breach](2020/2020-10-29-breach.md)  
 The time has come to locate and take down the spy Vilrath.  
@@ -156,3 +195,18 @@ The heros track down other heroes to help with the scry by night operation.
 
 [June 18, 2020 - Fact Finding](2020/2020-06-18-fact-finding.md)  
 The party decides to take on the work to try and locate the adventurers taken by the duergar.  
+
+[June 4, 2020 - Mail Call](2020/2020-06-04-mail-call.md)  
+Having discovered a duergar letter about their "contract" for what they've done, the heroes know it is vital to report back to Guros with their findings.  
+
+[May 21, 2020 - Recon Dark Ops](2020/2020-05-21-recon-dark-ops.md)  
+After coming out on top of the ambush, the heroes decide to scout back into the prison for survivors and clues.
+
+[April 30, 2020 - Battle of the Treasure Room](2020/2020-04-30-battle-of-the-treasure-room.md)  
+Having made their way safely to the treasure room to gear back up, the time has come to finish the escape.  
+
+[April 2, 2020 - Door of Destiny](2020/2020-04-02-door-of-destiny.md)  
+The escape is on and the heroes look to find their way into the vault to retrieve their weapons again to fight their way out of the prison.
+
+[March 19, 2020 - Dancing in the Mist](2020/2020-03-19-dancing-in-the-mist.md)  
+Having been put on the chain gang to mine, Pylia continues to refuse to submit and makes like a tree (literally) perhaps as the time to leave?  
