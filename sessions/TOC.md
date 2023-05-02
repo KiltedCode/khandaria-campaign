@@ -209,4 +209,10 @@ Having made their way safely to the treasure room to gear back up, the time has 
 The escape is on and the heroes look to find their way into the vault to retrieve their weapons again to fight their way out of the prison.
 
 [March 19, 2020 - Dancing in the Mist](2020/2020-03-19-dancing-in-the-mist.md)  
-Having been put on the chain gang to mine, Pylia continues to refuse to submit and makes like a tree (literally) perhaps as the time to leave?  
+The heroes have located the missing adventurers and guards, albeit by being captured by the duergar. They're kept awake enough to not regain spells and have been put on the chain gang mining while Pylia continues to refuse to submit and makes like a tree (literally) perhaps as the time to leave?  
+
+[February 6, 2020 - Rubber Warhammers](2020/2020-02-06-rubber-warhammers.md)  
+While working their way forward towards the checkpoints, the party was ambushed. Can they come out on top or will this cavern become their tomb?  
+
+[January 30, 2020 - Crouching Half Orc, Hidden Duergar](2020/2020-01-30-crouching-half-ord-hidden-duergar.md)  
+The heroes head into the sewers and beyond to assist Guros in the situation below the city.  
