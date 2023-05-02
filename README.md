@@ -24,3 +24,7 @@ John
 Notes are named as `yyyy-mm-dd-session-name.md`
 
 For list of sessions see the [sessions table of contents](/sessions/TOC.md).
+
+## End Game Questions
+
+During the course of the campaign, some unanswered questions have started to collect. They are gathered under [end game questions](end-game-questions.md) in hopes of being answered after the completion.
