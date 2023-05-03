@@ -19,6 +19,8 @@ John
 - `Qa'dat`: human shaman (10) of stone fist tribe
     - `Ra'tar`: armadillo familar of Qa'dat
 
+For more details about the player characters as well as NPCs, have a look at the [characters section](/characters/).
+
 ## Session Notes
 
 Notes are named as `yyyy-mm-dd-session-name.md`

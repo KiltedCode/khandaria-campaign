@@ -81,7 +81,7 @@ befriended by the party when he came to town in pain and they removed his hurt t
 
 A sorcerer who adventured with `Belsarin` and `Pylia` before choosing to merge with a wraith and stay behind in the castle  
 
-# <a name="npcs"></a>NPCs
+# NPCs
 
 The heart of a world is it's NPCs. Here find NPCs, strategically grouped by where they can be found, or also just thrown in when otherwise can do no better.
 
