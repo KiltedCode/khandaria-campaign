@@ -216,3 +216,6 @@ While working their way forward towards the checkpoints, the party was ambushed.
 
 [January 30, 2020 - Crouching Half Orc, Hidden Duergar](2020/2020-01-30-crouching-half-ord-hidden-duergar.md)  
 The heroes head into the sewers and beyond to assist Guros in the situation below the city.  
+
+[January 16, 2020 - Shopping Montage](2020/2020-01-16-shopping-montage.md)  
+After some interrogation efforts, the party needs a break with shopping therapy from all that loot.  
