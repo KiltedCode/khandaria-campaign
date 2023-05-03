@@ -77,4 +77,4 @@ does a sending home back to tribe before returning to barracks
 > Search of Orcthak ruins fruitless, looks like Qublans took everything.  
 
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -26,4 +26,4 @@ none of the guards are willing to go
 but some of the other lesser heroes will come with us  
 guards giving us a hard time over it  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -85,4 +85,4 @@ not as much as hoped, but a lot of spider likely got out of the way
 probably made it difficult, not the full hammer blow  
 maybe 25 bodies or so  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

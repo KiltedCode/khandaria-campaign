@@ -40,4 +40,4 @@ also, if it's a revolt, that would be good for thieves, not bad
 based on all this thinks it's BS  
 will release `Rosnick` immediately  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

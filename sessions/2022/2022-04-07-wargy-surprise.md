@@ -60,4 +60,4 @@ rest of the night is uneventful
 `Cedric` decides to get warg steaks  
 `Qa'dat` helps some, preserves 20 steaks (20 pounds) 2x preserve spell  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

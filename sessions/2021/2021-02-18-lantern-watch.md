@@ -91,4 +91,4 @@ ballista launchers are wrecked or empty
 smoke billowing from center  
 one person with livery of Asmodeus on the front center  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

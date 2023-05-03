@@ -92,4 +92,4 @@ says some volcanic rock might be hard enough
 `Pylia` gives him 2 applications worth, leaving us 3  
 `Z` eventually wonders into room, annoyed she was left, eventually pops large, tipping a table  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

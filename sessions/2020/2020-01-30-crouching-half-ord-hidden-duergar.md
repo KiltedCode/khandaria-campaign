@@ -110,4 +110,4 @@ They were all invisible and attack
 all wielding warhammers  
 (5.5 hours in?)  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

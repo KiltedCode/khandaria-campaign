@@ -78,4 +78,4 @@ makes a hole, fills it in, `Pylia` filing off sharp metal as we walk in
 say he knows several wizards here can cast it, but not off hand  
 mentions a spell called about a floating disk, could use as a bowl for acid  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

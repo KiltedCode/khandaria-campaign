@@ -113,4 +113,4 @@ They got a message from city guard that plan has changed
 they are to observe the other army  
 been there two days, caravans periodically, one roc flying down route  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

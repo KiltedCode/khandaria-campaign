@@ -126,4 +126,4 @@ report that we will check on them and trying to connect with stone giants
 > Sent group to speak to giants.  
  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

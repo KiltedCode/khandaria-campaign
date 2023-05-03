@@ -99,4 +99,4 @@ driver or Roc1 breaks out of hold person
 Roc1 flies by, attacks and grabs `Faleor`  
 see these troops have signia for Asmodeus  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

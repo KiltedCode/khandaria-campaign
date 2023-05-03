@@ -75,4 +75,4 @@ the whole thing is to make it look like they're not ready yet
 dwarves have been dead since before the army would have been in the pass  
 probably got ambushed by a small party while they were waiting for army so they could set it off  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -45,4 +45,4 @@ end up getting everyone in and close the door
 ends up taking 45 minutes to get geared up  
 `Pawtrick` was partial out of cage trying to break  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -136,4 +136,4 @@ ask about **scrying**: `Vilnius` and `Zodan` he thinks
 rattles off a list of things he could use that are rare spell components  
 a lot are rare creature parts, some are hard to transport (dark water)  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

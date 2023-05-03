@@ -103,4 +103,4 @@ out back exit, top of mountain glide down
 soverign glue onto tower  
 go slightly north then climb over  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -188,4 +188,4 @@ believe killed the `daimio` and the `Prince of Water`
 
 > **LEVEL UP!**
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

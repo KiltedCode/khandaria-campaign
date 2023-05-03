@@ -25,4 +25,4 @@ invigorating poison to counter
 start killing some   
 `Qa'dat` hexes one to fire  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -135,4 +135,4 @@ goes against the laws of the gods themselves to not interfere
 offers if can help in any way, to ask  
 is in way noting she recognizes `Pylia` as being higher in the church  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

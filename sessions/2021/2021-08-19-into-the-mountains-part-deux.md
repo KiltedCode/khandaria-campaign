@@ -77,4 +77,4 @@ worked out to be a good team
 `Faleor` flirts with `Eiya`  
 `Belsaran` and `Faleor` notice `Valdrin` isn't drunk but whiskey is hitting him hard  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

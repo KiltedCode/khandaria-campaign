@@ -71,4 +71,4 @@ fire giants moving towards the edge, spiders getting underway
 seems like their reaction is charge  
 _roll for initiative:_ 27  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

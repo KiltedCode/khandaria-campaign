@@ -56,4 +56,4 @@ likely all conscripts, but was hard to tell because stretches features
 hate but must obey murderer  
 would be nearby  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

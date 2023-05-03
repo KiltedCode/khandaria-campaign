@@ -55,4 +55,4 @@ he knows everything since the fight
 maggots start cleaning up the hobgoblins  
 it is food for the spider army  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

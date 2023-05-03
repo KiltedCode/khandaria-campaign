@@ -59,4 +59,4 @@ don't tell anyone else, don't contact the khan, needs delicately
 mention prince on off hand  
 
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

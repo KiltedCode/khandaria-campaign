@@ -40,4 +40,4 @@ Vanth casts bestow curse on `Belsaran`, but shrugs it off
 `Belsaran` knocks it back home  
 We fly out of illusion, he's doesn't appear to be following anymore  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

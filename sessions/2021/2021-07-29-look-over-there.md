@@ -56,4 +56,4 @@ worked because spiders are nearly starving
 rocs and remaining troops constantly scanning now  
 probably will be picked up unless completely invisible, and even then  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

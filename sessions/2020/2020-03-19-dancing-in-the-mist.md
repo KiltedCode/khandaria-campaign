@@ -61,4 +61,4 @@ find a giant locked, metal door
 suggest to get rogue to try and pick with knives  
 go to get stuff to pick locks with 6 duergar come down the hallway and spot Pylia  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

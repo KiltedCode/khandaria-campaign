@@ -86,4 +86,4 @@ spells:
     - [charm person](https://aonprd.com/SpellDisplay.aspx?ItemName=Charm%20Person)
 
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -71,4 +71,4 @@ the druid from near khanhold
 
 a druid shouldn't be able to send the spell  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

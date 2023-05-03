@@ -100,4 +100,4 @@ spook the rhinos?
 if do when `Prince` not outside, easier to get away  
 what about the dust for moss?!?!  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

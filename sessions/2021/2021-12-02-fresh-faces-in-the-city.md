@@ -88,4 +88,4 @@ going around listening, sees people kicked off university grassy areas trying to
 kicked out assumed to be with them  
 sees swill carts again and thinks they are slaves, not just a punishment  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

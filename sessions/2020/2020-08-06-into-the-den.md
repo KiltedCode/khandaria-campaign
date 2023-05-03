@@ -138,4 +138,4 @@ check, table is poison, dagger with poison is taped to bottom
 remove and take it with scabbard  
 prop open the stairs  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

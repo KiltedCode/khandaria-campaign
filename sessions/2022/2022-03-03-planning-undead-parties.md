@@ -36,4 +36,4 @@ weather spell is predicting snow
 
 `Qa'dat` can **commune** with spirits for answers  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

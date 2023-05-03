@@ -150,4 +150,4 @@ maybe move food to there then teleport down
 `Belsaran` can use holy and unholy water a cure light wounds  
 down 3 ki points  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

@@ -147,4 +147,4 @@ need to get to `Guros` and warn him immediately
 
 > **LEVEL UP!**
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

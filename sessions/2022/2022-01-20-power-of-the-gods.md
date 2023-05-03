@@ -45,4 +45,4 @@ Khandaria seen as exotic
 they went out to investigate the undead  
 
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

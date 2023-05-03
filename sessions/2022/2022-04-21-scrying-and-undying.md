@@ -43,4 +43,4 @@ swarm like zombie creature
 put a wall of fire around it which is very damaging  
 not normal zombies, have shrieking attack  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

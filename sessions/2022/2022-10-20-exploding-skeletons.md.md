@@ -39,4 +39,4 @@ sitting with head down on dinosaur
 one group of conscripts yanking off colar  
 nearing target but battle is not going well  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

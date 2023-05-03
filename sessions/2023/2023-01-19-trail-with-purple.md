@@ -80,4 +80,4 @@ would need to remove while temporarily disabled
 purple man was not wounded at all  
 
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

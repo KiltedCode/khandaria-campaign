@@ -136,4 +136,4 @@ Deth of Kan
 offer up _3 bags of dust_ to help get past tunnel, pays _250 gp_ each
 didn't seem to buy reasoning but doesn't seem to care
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

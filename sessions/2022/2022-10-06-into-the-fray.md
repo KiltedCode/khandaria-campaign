@@ -61,4 +61,4 @@ shocks all humans in neck and they go forward 20 feet
 all have collars, compelled forward  
 they're crying  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

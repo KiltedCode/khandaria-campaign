@@ -56,4 +56,4 @@ finds two bodies that were stone fist in central, and 5 in the other bodies
 an undead accelerator  
 something wrong with bodies on left, missing parts  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

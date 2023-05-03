@@ -92,4 +92,4 @@ we want to talk to `Rosnick`, set him up with `Hadvar`
 possibly could help take him down tomorrow if possible  
 after that going to go for castle scouting  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

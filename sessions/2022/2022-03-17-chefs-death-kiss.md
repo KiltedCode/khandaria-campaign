@@ -93,4 +93,4 @@ stone in ground
 detects magic, strong magic  
 out pops a ninja  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)

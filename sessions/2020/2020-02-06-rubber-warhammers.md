@@ -89,4 +89,4 @@ tries to punch them, gets knocked out
 wakes up tied and gagged back in cage  
 `Pawtrick` is missing from the cage next to her  
 
-[back to table of contents](/sessions/TOC.md)
+[back to table of contents](/sessions/README.md)
