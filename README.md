@@ -23,7 +23,7 @@ John
 
 Notes are named as `yyyy-mm-dd-session-name.md`
 
-For list of sessions see the [sessions table of contents](/sessions/README.md).
+For list of sessions see the [sessions table of contents](/sessions/).
 
 ## End Game Questions
 
