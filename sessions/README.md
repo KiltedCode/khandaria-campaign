@@ -251,3 +251,12 @@ After the successful defense of Khanhold, the adventurers receive a worrying mes
 [August 22, 2019 - Coronation Day](2019/2019-08-22-coronation-day.md)  
 After meeting again with `Magnus` in their house as `Rin`, the time has come for `Soren`'s coronation, which the heroes have earned and invite to attend.  
 
+[August 1, 2019 - Rin about Town](2019/2019-08-01-rin-about-town.md)  
+The heroes have found their way back home from Mechanis, to a surprise house guest.  
+
+[July 25, 2019 - Bad Attitude Buffing](2019/2019-07-25-bad-attitude-buffing.md)  
+The heroes continue their way through a game of Dungeon & Modrons. How far can they survive?  
+
+[June 27, 2019 - Ref Dungeon Sub Adventurers](2019/2019-06-27-ref-dungeon-sub-adventurers.md)  
+The heroes find them in places unknown, certainly not the Watcher. How will they get out of there and back home?
+
