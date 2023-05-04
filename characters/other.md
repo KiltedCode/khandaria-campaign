@@ -8,7 +8,7 @@ Other NPCs that are harder to fit into the larger page categories
 all around bad guy  
 lead adventuring group to a vault, locked `Faleor` and `Beltirn` inside, then attempted to assassinate the `Khan Magnus` with arrows from vault  
 later found with tribes moving to attack Khanhold, had been leader in town before abandoned, killed by `Khan Magnus` in dragon form  
-brought body back to Ur'gench to be questions, was raised as undead before questioning, dusted  
+brought body back to Ur'gench to be questions, was raised as undead before questioning secretly by `Korin`, dusted  
 
 `Subatai`  
 Qublan  
