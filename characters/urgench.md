@@ -96,6 +96,7 @@ gang thug
 
 `Vilrath` 🔒  
 connected to gang? had pictures throughout the guild he can see and hear through, stole magic items from `Hadvar`, appears to be working with Qubla, in custody  
+[image of Vilrath used for spying](/assets/hidden-face.webp)  
 
 `Drovor` 🔒  
 warrior with dreadlocks, seen protecting `Vilrath` as he entered images to spy, heavy built, dreadlocks, great sword, in custody  

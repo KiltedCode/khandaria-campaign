@@ -116,6 +116,8 @@ pry off the wood to get to the picture
 square piece of paper with a man's face, completely bald, symbol on his forehead, soul patch  
 symbol is a V shape with a dot  
 
+![unknown man](/assets/hidden-face.webp)
+
 Next room is a nice office  
 desk with multiple scorch marks  
 secret door to bedroom  
