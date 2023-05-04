@@ -95,22 +95,22 @@ Ur'gench is the capital city of the Khandarian Empire. Holding the palace for th
 
 Tucked in the mountains north of Ur'gench the first dwarven settlement you'll find is Buildhame, known also for its nearby lake. It is also accessible with a teleportation ring from the Mages' District, making it the first jumping point for the mountains.  
 
-Through the teleportation circle!
+[Through the teleportation circle!](buildhame.md)  
 
 ## Stormpeak
 
 Tucked in the mountains north of Ur'gench is the dwarven settlement of Stormpeak, named for the mountain it finds itself within.   
 
-Into the mountain!
+[Into the mountain!](stormpeak.md)  
 
 ## Khanhold
 Once a town lead by an evil cleric, now a town of new birth. This town was settled and raised by the adventuring party.  
 
-A farmer's life for me!
+[A farmer's life for me!](khanhold.md)  
 
 ## Everyone else
 
 Ok, let's be honest, not everyone has a tidy little group to fit into. However that doesn't mean they're not important. Find villians, adventurers, and traveling giants. All the rest of the still valuable NPCs here.  
 
-Why not?
+[Why not?](other.md)  
 
