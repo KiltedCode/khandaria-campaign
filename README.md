@@ -2,7 +2,16 @@
 
 **Pathfinder 1e** campaign run by Marcus in his home brew world of Khandaria.  
 
-## Players and characters
+## History
+
+The best place to start is in the beginning . So why not start with a brief history of Khandaria itself?  
+
+[Crack open the books.](history-of-khandaria.md)  
+
+
+## Meet the Party
+
+Belsarin, Pylia, Faleor. The names of (soon to be) legends. Meet the adventurers, read their stories, meet their companions.
 
 Marc
 - `Belsarin`: human unchained monk (10)
@@ -21,11 +30,20 @@ John
 
 For more details about the player characters as well as NPCs, have a look at the [characters section](/characters/).
 
+
+## Supporting Cast
+
+Who are adventurers without supporting characters? They flesh out the world, add color, and add conflict. Learn about the NPCs the adventurers have encountered.   
+
+[Tell me more.](/characters/README.md#npcs)
+
+
 ## Session Notes
 
 Notes are named as `yyyy-mm-dd-session-name.md`
 
 For list of sessions see the [sessions table of contents](/sessions/).
+
 
 ## End Game Questions
 
