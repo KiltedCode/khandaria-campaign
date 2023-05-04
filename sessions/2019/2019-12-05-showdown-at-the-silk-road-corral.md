@@ -7,7 +7,7 @@ Two up front, one leader of `Belsarin`'s old gang `Craddock Blackbeard`
 archers are up on the buildings  
 thieves coming in and out of buildings looting and loading women into caged wagons  
 `Craddock` steps up  "Well well well, isn't it little Belsy?"  
-Hear `Madam Ruby`'s voice behind us telling them to keep him busy (with **ventriloquism** spell)  
+Hear `Madame Ruby`'s voice behind us telling them to keep him busy (with **ventriloquism** spell)  
 She starts casting a spell and touches a bead on her necklace  
 realize it was **hold person**, guy frozen, turns blunt end of knife to her neck  
 next guy is a little twitchy, **hold person** while looking over shoulder  
@@ -19,10 +19,10 @@ takes dagger and stabs him in the gut
 last guy yells "Hey!" as `Ruby` gets last spell off  
 
 roll for initiative  
-`Craddock` realizes what's happening and tells `Oaf` to kill `Madam Ruby`  
+`Craddock` realizes what's happening and tells `Oaf` to kill `Madame Ruby`  
 She casts **color spray** at them  
 `Belsarin` gets held by cleric  
-`Lonny` goes after `Madam Ruby`  
+`Lonny` goes after `Madame Ruby`  
 the cleric is `Pelture`'s old assistant  
 big old fight  
 `Belsarin` kills `Craddock`  

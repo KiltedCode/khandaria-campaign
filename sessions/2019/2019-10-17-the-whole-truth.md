@@ -119,7 +119,7 @@ tell him we were trying to protect him from being implicated
 asks us to lay low for several days  
 
 Head towards avenue of silk market, hear screams  
-looting bordellos, knives at women's throat, including `Madam Ruby` and 3 of prettiest girls  
+looting bordellos, knives at women's throat, including `Madame Ruby` and 3 of prettiest girls  
 in the front is leader of `Belsarin`'s old gang  
 about 15 guys behind looting places  
 

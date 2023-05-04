@@ -72,14 +72,14 @@ cleric of Sarenrae, stationed with thieves guild hideout, patching up the "moron
 
 ## Ladies of Silk Road
 
-`Madam Ruby`  
+`Madame Ruby`  
 head mistress of House of the Midnight Sun, highest class bordello  
 
 `Yang`  
-One of `Madam Ruby`'s girls, killed several thugs during showdown with `Craddock`  
+One of `Madame Ruby`'s girls, killed several thugs during showdown with `Craddock`  
 
 `Susie`  
-One of `Madam Ruby`'s girls, returned scarf to her  
+One of `Madame Ruby`'s girls, returned scarf to her  
 
 
 ## Criminals
