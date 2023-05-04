@@ -6,7 +6,7 @@ The notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant t
 
 ## The Adventures
 
-_(in chronologicial order)__  
+_(in chronologicial order)_  
 
 ### Wild Trek: The Motion Pyramid
 
@@ -219,3 +219,23 @@ The heroes head into the sewers and beyond to assist Guros in the situation belo
 
 [January 16, 2020 - Shopping Montage](2020/2020-01-16-shopping-montage.md)  
 After some interrogation efforts, the party needs a break with shopping therapy from all that loot.  
+
+## 2019
+
+### Who Watches the Watcher
+
+[December 19, 2019 - Loot the Day](2019/2019-12-19-loot-the-day.md)  
+Victorious against the gang, it's time for the time honored tradition of looting the bodies.  
+
+[December 5, 2019 - Showdown at the Silk Road Corral](2019/2019-12-05-showdown-at-the-silk-road-corral.md)  
+The heroes are trying to stay out of trouble but trouble came yelling.  
+
+[October 17, 2019 - The Whole Truth](2019/2019-10-17-the-whole-truth.md)  
+After investigating the tracks, the heroes return to check the campsite at `Guros`' request.  
+
+[October 3, 2019 - Trail to Nowhere](2019/2019-10-03-trail-to-nowhere.md)  
+The heroes continue their covert tracking, with `Guros` by their side.
+
+[September 12, 2019 - CSI Watcher](2019/2019-09-12-csi-watcher.md)  
+The heroes have been given new insight into the Watcher, as well as asked for help on a dwarven plan. What will they decide to do next? 
+
