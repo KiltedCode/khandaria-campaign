@@ -41,3 +41,5 @@ knack for digging dirt quickly
 
 `Valdig`  
 captain of the guard  
+
+[back to characters](/characters/README.md#npcs)  

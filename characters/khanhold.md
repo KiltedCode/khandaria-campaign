@@ -47,3 +47,5 @@ likes to be treated with respect and fawned over as he believes an ambassador sh
 
 `Bat'tar`  
 member of the Stone Fist tribe, big tough guy  
+
+[back to characters](/characters/README.md#npcs)  

@@ -70,3 +70,5 @@ suspected prince (but only to players)
 
 `Kaevictus`  
 Wizard of Irori pictured on unfinished murals in the temple on Stormpeak. Believed to have opened portal that had released many ice elementals and destroyed the temple.  
+
+[back to characters](/characters/README.md#npcs)  

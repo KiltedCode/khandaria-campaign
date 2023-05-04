@@ -35,3 +35,5 @@ dwarven cleric of Erastil, originally duergar disguised self as Orset to try and
 
 `Hactvus`  
 acolyte of Erastil, Faleor crashed with him after drinking night after becoming Inquisitor  
+
+[back to characters](/characters/README.md#npcs)  
