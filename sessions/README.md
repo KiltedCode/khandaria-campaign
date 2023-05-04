@@ -30,7 +30,7 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?  
 
 ---
 
@@ -260,3 +260,5 @@ The heroes continue their way through a game of Dungeon & Modrons. How far can t
 [June 27, 2019 - Ref Dungeon Sub Adventurers](2019/2019-06-27-ref-dungeon-sub-adventurers.md)  
 The heroes find them in places unknown, certainly not the Watcher. How will they get out of there and back home?
 
+[May 30, 2019 - Cone of Portal](2019/2019-05-30-cone-of-portal.md)  
+The heroes look to work their way deeper into the temple, to find the cause of what happened here. What will they find?  
