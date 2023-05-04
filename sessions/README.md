@@ -18,7 +18,7 @@ The adventurers journey to a town for information, only to discover it overrun b
 
 ### Wild Trek 2: The Path of Khan
 
-After the successful defense of Khanhold, the adventurers receive a worrying message. Khan Magnus has not returned and is not replying to any form of magical messaging. Is the Khan alive? Will the adventurers be able to find him in time? Will the kingdom hold together without him?
+After the successful defense of Khanhold, the adventurers receive a worrying message. `Khan Magnus` has not returned and is not replying to any form of magical messaging. Is the Khan alive? Will the adventurers be able to find him in time? Will the kingdom hold together without him?
 
 ### Who Watches the Watcher?
 
@@ -238,4 +238,14 @@ The heroes continue their covert tracking, with `Guros` by their side.
 
 [September 12, 2019 - CSI Watcher](2019/2019-09-12-csi-watcher.md)  
 The heroes have been given new insight into the Watcher, as well as asked for help on a dwarven plan. What will they decide to do next? 
+
+[September 5, 2019 - Fetch Belsarin](2019/2019-09-05-fetch-belsarin.md)  
+The Watcher has fallen and the Khan is dead. Where do the heroes start, to uncover what really happened?  
+
+### Wild Trek 2: The Path of Khan
+
+After the successful defense of Khanhold, the adventurers receive a worrying message. `Khan Magnus` has not returned and is not replying to any form of magical messaging. Is the Khan alive? Will the adventurers be able to find him in time? Will the kingdom hold together without him?
+
+[August 22, 2019 - Coronation Day](2019/2019-08-22-coronation-day.md)  
+After meeting again with `Magnus` in their house as `Rin`, the time has come for `Soren`'s coronation, which the heroes have earned and invite to attend.  
 
