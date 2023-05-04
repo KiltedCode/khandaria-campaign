@@ -1,6 +1,6 @@
 # The Adventures (and session notes)
 
-Below are the adventures of the campaign. A short synopis is found first, followed by the session notes.
+Below are the adventures of the campaign. A short synopsis is found first, followed by the session notes.
 
 The notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant to give slight insight into what happened during that play sessions. Below they are listed in reverse chronological order, with headings for the different sections of the campaign.
 
@@ -30,7 +30,9 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help Halbir and the Paladins strike a blow at the heart of the army? Can they survive?
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?
+
+---
 
 # Session Notes
 
@@ -39,10 +41,10 @@ The Qublan army is on the move, slowly approaching the city. Can a new group of 
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help Halbir and the Paladins strike a blow at the heart of the army? Can they survive?
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?
 
 [April 20, 2023 - Back in the City Again](2023/2023-04-20-back-in-the-city-again.md)  
-Having lost a few good paladins, the group finishes their journey back to the city, to deliver Shag-nurab's message.
+Having lost a few good paladins, the group finishes their journey back to the city, to deliver `Shag-nurab`'s message.
 
 [April 6, 2023 - Teenage Mutant Ninja Allosaurs](2023/2023-04-06-tmna.md)  
 The group soldiers through the storm, but rest is for those without dino riding ninjas on their trail.
@@ -79,7 +81,7 @@ With trouble sleeping the party discovers the ground is desecrated and another a
 With the alarm raised, the party and paladins are starring down a zombie horde at their campsite.
 
 [April 4, 2022 - Scrying and Undying](2022/2022-04-21-scrying-and-undying.md)  
-Recovering from the attack, Cedric carves up meat and Qa'dat has that feeling that someone is watching.
+Recovering from the attack, `Cedric` carves up meat and Qa'dat has that feeling that someone is watching.
 
 [April 7, 2022 - Wargy Surprise](2022/2022-04-07-wargy-surprise.md)  
 The party corners a ninja, but that isn't the only surprise the night holds.  
@@ -91,7 +93,7 @@ The party makes their way out to journey out with the army, but what and who awa
 The party tries to devise a plan before then head out to take out a key target and potential artifact.
 
 [January 20, 2022 - Power of the Gods](2022/2022-01-20-power-of-the-gods.md)  
-The newly forming future party is summoned to Guros and questioned. But will they be trusted?
+The newly forming future party is summoned to `Guros` and questioned. But will they be trusted?
 
 ## 2021
 
@@ -144,13 +146,13 @@ With their plan in motion and discovered, it is time to make an explosive getawa
 The joint hero task force discusses their plan, because time is running out if they want to act.  
 
 [March 4, 2021 - But I want to Attack](2021/2021-03-04-but-i-want-to-attack.md)  
-After a large discover the heroes must decide their next steps and report back to Guros.  
+After a large discover the heroes must decide their next steps and report back to `Guros`.  
 
 [February 18, 2021 - Lantern Watch](2021/2021-02-18-lantern-watch.md)  
 After rendezvousing with the other heroes, it is time to get a closer look at the castle ahead.  
 
 [February 4, 2021 - Going on a Bear Hunt](2021/2021-02-04-going-on-a-bear-hunt.md)  
-The heroes ready to leave Stormpeak, but first report intel to Guros.  
+The heroes ready to leave Stormpeak, but first report intel to `Guros`.  
 
 [January 21, 2021 - Dwarven Ruckus](2021/2021-01-21-dwarven-ruckus.md)  
 After their battle, the heroes head to Stormpeak, for rest and hopefully aid.
@@ -176,7 +178,7 @@ The time has come to locate and take down the spy Vilrath.
 After scrying sending them to new revelations, the heroes need to find their next move, for Ur'gench and Khandaria.  
 
 [October 1, 2020 - Palace Scrystyle](2020/2020-10-01-palace-scrystyle.md)  
-The party uncovers deeper secrets when scrying on the thief, and they must warn Guros right away.
+The party uncovers deeper secrets when scrying on the thief, and they must warn `Guros` right away.
 
 [September 3, 2020 - Shocking Discoveries](2020/2020-09-03-shocking-discoveries.md)
 The heroes continue clearing out the thieves guild, hoping to avoid any more traps.  
@@ -185,7 +187,7 @@ The heroes continue clearing out the thieves guild, hoping to avoid any more tra
 After setting off numerous traps in the thieves guild, the heroes head for air (and spells) before venturing down the stairs.  
 
 [August 6, 2020 - Into the Den](2020/2020-08-06-into-the-den.md)  
-As the heroes continue to try and answer questions about the moss and the location of Serda, they receive word from Guros.  
+As the heroes continue to try and answer questions about the moss and the location of `Serda`, they receive word from Guros.  
 
 [July 20, 2020 - City Splitting](2020/2020-07-30-city-splitting.md)  
 The heroes continue to work with Guros to get to the bottom of things, while trying to find a way to rescue the adventurer taken by the duergar.  
@@ -209,7 +211,7 @@ Having made their way safely to the treasure room to gear back up, the time has 
 The escape is on and the heroes look to find their way into the vault to retrieve their weapons again to fight their way out of the prison.
 
 [March 19, 2020 - Dancing in the Mist](2020/2020-03-19-dancing-in-the-mist.md)  
-The heroes have located the missing adventurers and guards, albeit by being captured by the duergar. They're kept awake enough to not regain spells and have been put on the chain gang mining while Pylia continues to refuse to submit and makes like a tree (literally) perhaps as the time to leave?  
+The heroes have located the missing adventurers and guards, albeit by being captured by the duergar. They're kept awake enough to not regain spells and have been put on the chain gang mining while `Pylia` continues to refuse to submit and makes like a tree (literally) perhaps as the time to leave?  
 
 [February 6, 2020 - Rubber Warhammers](2020/2020-02-06-rubber-warhammers.md)  
 While working their way forward towards the checkpoints, the party was ambushed. Can they come out on top or will this cavern become their tomb?  
@@ -240,7 +242,7 @@ The heroes continue their covert tracking, with `Guros` by their side.
 The heroes have been given new insight into the Watcher, as well as asked for help on a dwarven plan. What will they decide to do next? 
 
 [September 5, 2019 - Fetch Belsarin](2019/2019-09-05-fetch-belsarin.md)  
-The Watcher has fallen and the Khan is dead. Where do the heroes start, to uncover what really happened?  
+The Watcher has fallen and the `Khan` is dead. Where do the heroes start, to uncover what really happened?  
 
 ### Wild Trek 2: The Path of Khan
 
