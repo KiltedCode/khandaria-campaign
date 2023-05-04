@@ -3,7 +3,8 @@
 Below are questions that have come up during the course of the campaign. These are collected in the hopes that the wise, benevolent, handsome game master will answer them once the story is complete.
 
 1. Whatever happened to the villagers, since Wernick came back for the battle? Did they go to Qubla?
-1. Wo or what bounced us off of the Watcher?
+1. Who or what bounced us off of the Watcher?
+    - dimensional lock?
 1. Was the falling Watcher actually Asmodeus that Pylia saw?
 1. Why the second ur'grosh by the ambassador, when one should be enough to point to the duergar?
 1. Is there really an evil cult? Was Wernick tricked or was he knowingly evil or something else?
