@@ -62,6 +62,9 @@ Hear yelling "they dare, they dare!"
 lightning out his eyes  
 picture of necklace stops  
 lightning still around his body  
+
+![lightning trap](/assets/scry-lightning.webp)  
+
 `Belsaran` puts hand on shoulder, try to absorb  
 course up his hand, up his arm  
 might be able to channel into a portal, not sure where to  
