@@ -43,7 +43,7 @@ guard at the front check point under the city
 half-elf, guarding thieves guild hideout  
 
 `Lieutenant Leonard`  
-Lieutenant in barracks, ordered to give room to `Qa'dat`, instead `Qa'dat` only wants for talking to spirits  
+Lieutenant in barracks, ordered to give room to `Qa'dat`, instead `Qa'dat` only wants for talking to spirits, recommended an ok BBQ joint    
 
 `Halbir`  
 Head on knights, flashy armor, avatar of his deity, power to damage undead just by being near them    
