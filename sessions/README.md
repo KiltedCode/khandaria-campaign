@@ -262,3 +262,6 @@ The heroes find them in places unknown, certainly not the Watcher. How will they
 
 [May 30, 2019 - Cone of Portal](2019/2019-05-30-cone-of-portal.md)  
 The heroes look to work their way deeper into the temple, to find the cause of what happened here. What will they find?  
+
+[April 19, 2019 - Rise of the Temple](2019/2019-04-19-rise-of-the-temple.md)  
+After successfully help fix and issue they caused, the party planes to get a look at the ruins on the top of the mountain.  
