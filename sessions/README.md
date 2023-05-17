@@ -266,3 +266,8 @@ The heroes look to work their way deeper into the temple, to find the cause of w
 [April 19, 2019 - Rise of the Temple](2019/2019-04-19-rise-of-the-temple.md)  
 After successfully help fix and issue they caused, the party planes to get a look at the ruins on the top of the mountain.  
 
+[April 4, 2019 - The Reverse Ambush Plan](2019/2019-04-04-the-reverse-ambush-plan.md)  
+The heroes head out to scout for a location to execute their ambush plan to solve an ogre problem.  
+
+[March 21, 2019 - Throw Mamma from teh Ogre](2019/2019-03-21-throw-mamma-from-the-ogre.md)  
+The heroes continue their planning with the dwarves to fix their mistake.  
