@@ -38,11 +38,32 @@ Who are adventurers without supporting characters? They flesh out the world, add
 [Tell me more.](/characters/README.md#npcs)
 
 
-## Session Notes
+## Adventures
+
+You know the who, now read the what. Adventures love nothing more than a great story. Especially bards. Getting them to not tell a story is a real trick. Read the chronicles of these fearless adventurers for the glory of Khandaria and their gods.  
+
+Onward!
+
+_coming soon_  
+
+### Session Notes
 
 Notes are named as `yyyy-mm-dd-session-name.md`
 
 For list of sessions see the [sessions table of contents](/sessions/).
+
+
+## Ur'guench
+
+The glorious capital city of Khandaria is the hub of most of our party's adventures.  The bounds of mystery and adventure are endless, and the party learns more about the city with each passing day.  Learn the ins and outs of this amazing city.  
+
+[The Capital!](/locations/urgench.md)  
+
+## Other Locales
+
+The realm of Khandaria is vast, but you can't hardly have adventures without some traveling. Well you can, but then you need the danger to come to you. Let's look at the wheres of Khandaria.  
+
+[Travel now!](/locations/)  
 
 
 ## End Game Questions
