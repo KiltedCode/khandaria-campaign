@@ -265,3 +265,4 @@ The heroes look to work their way deeper into the temple, to find the cause of w
 
 [April 19, 2019 - Rise of the Temple](2019/2019-04-19-rise-of-the-temple.md)  
 After successfully help fix and issue they caused, the party planes to get a look at the ruins on the top of the mountain.  
+
