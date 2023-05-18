@@ -13,3 +13,4 @@ Below are questions that have come up during the course of the campaign. These a
     - If they are not for the moss, what could we grow and cultivate it in to make more?
 1. What did Faleor miss on castle recon?
 1. Can we save Serda (or someone) from duergar?
+1. When meeting with Magnus in meadow, one of "proposed" things we could do was to go to Qubla for information. How would that have played out?
