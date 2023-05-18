@@ -33,7 +33,7 @@ intolerant worshiper of Sarenrae, told duergar about explosives in the Watcher, 
 `Orset Moonheart`  
 dwarven cleric of Erastil, originally duergar disguised self as Orset to try and blame the dwarves for falling of the Watcher  
 
-`Hactvus`  
-acolyte of Erastil, Faleor crashed with him after drinking night after becoming Inquisitor  
+`Hactvus Foekiller`  
+acolyte of Erastil, `Faleor` crashed with him after drinking night after becoming Inquisitor  
 
 [back to characters](/characters/README.md#npcs)  
