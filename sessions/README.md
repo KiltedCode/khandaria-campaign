@@ -271,3 +271,15 @@ The heroes head out to scout for a location to execute their ambush plan to solv
 
 [March 21, 2019 - Throw Mamma from teh Ogre](2019/2019-03-21-throw-mamma-from-the-ogre.md)  
 The heroes continue their planning with the dwarves to fix their mistake.  
+
+[February 21, 2019 - Sunny Side of the Cave](2019/2019-02-21-sunny-side-of-the-cave.md)  
+As `Faleor` passes the test on the first try, so it's time to celebrate in the name of his god, while `Pylia` creates a consecrated place for hers.
+
+[February 7, 2019 - Dreaming with Dwarves](2019/2019-02-07-dreaming-with-dwarves.md)  
+The heroes have messed up the dwarven ambush plan, but are still welcomed into the mountain hold of Stormpeak.
+
+[January 17, 2019 - Ogre Here](2019/2019-01-17-ogre-here.md)  
+The heroes have accomplished their mission in locating Magnus, but with their orders to not report in, what will they do next?  
+
+[January 3, 2019 - A Blast from the Pass](2019/2019-01-03-a-blast-from-the-pass.md)  
+Having narrowly survived a flash flood, the heroes continue onward towards Blast Pass to try locate `Magnus`.  
