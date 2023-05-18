@@ -42,9 +42,7 @@ Who are adventurers without supporting characters? They flesh out the world, add
 
 You know the who, now read the what. Adventures love nothing more than a great story. Especially bards. Getting them to not tell a story is a real trick. Read the chronicles of these fearless adventurers for the glory of Khandaria and their gods.  
 
-Onward!
-
-_coming soon_  
+[Onward!](/adventures/)
 
 ### Session Notes
 
