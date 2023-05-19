@@ -23,6 +23,46 @@ find undead
 find letter from `Rin` to `Endirin`  
 reach city, asked to stay outside  
 
+> High Lord Endirin  
+> Chamberlain to His Majesty Magnus the Dragon Khan  
+> Ur’guench  
+>   
+> From Rin Kohli,  
+> Sorceress Extraordinare  
+>   
+> My Lord Endirin:  
+>   
+> I'm sure my friends have told you of the recent small property I inherited from my cranky uncle.  
+>   
+> While it is not necessarily the location I would have preferred, I find the property itself suits me, and I have decided to stay rather than sell it.  
+>   
+> I know my uncle and yourself did not get along, and I am hoping that I can mend that breach and restore good feelings between my house and yours.  
+>   
+> In cleaning the place up, I have come across a few small items that I thought might interest you for your personal art collection.  
+>   
+> My friends could tell you more about them, I am sure.  
+>   
+> I do find that the estate is a bit lacking in creature comforts and our harvest is notably poor this year, so I'm hoping you might be able to put together a few supplies for me, in exchange for some of these artworks.  
+>   
+> Very few merchants come this way; only one this season, in fact, and he was lacking in foodstuffs.  
+>   
+> I am unable to leave the property at this time (so much to do! It's endless) so I have sent this messenger to you.  
+>   
+> He's one of my tenants, and a simpleton and mute, but he will follow simple directions well, once you identify yourself.  
+>   
+> He knows what you and my friends look like.  
+>   
+> Feel free to assign him any simple tasks you desire.  
+>   
+> He was beaten as a child by a priest and now has a bit of a fear of them, though.  
+>   
+> I look forward to hearing from you, and will await your reply.  
+>   
+> If it is not too presumptuous, please give my warm greetings to His Majesty as well.  
+>   
+> Sincerely,  
+> Rin  
+
 30 palace guards escort us  
 `Gronk` in a pen, take off howda and examine  
 Cat and `Wolfdog` in menagerie  
