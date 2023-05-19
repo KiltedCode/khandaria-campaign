@@ -283,3 +283,37 @@ The heroes have accomplished their mission in locating Magnus, but with their or
 
 [January 3, 2019 - A Blast from the Pass](2019/2019-01-03-a-blast-from-the-pass.md)  
 Having narrowly survived a flash flood, the heroes continue onward towards Blast Pass to try locate `Magnus`.  
+
+## 2018
+
+### Wild Trek 2: The Path of Khan
+
+[December 20, 2018 - Slip and Mud Slide](2018/2018-12-20-slip-and-mud-slide.md)  
+After a meeting with the Stone Giants, the heroes continue their way forward, past the lake and Stormpeak Pass.  
+
+[December 5, 2018 - On Shoulders of Stone Giants](2018/2018-12-05-on-the-shoulders-of-stone-giants.md)  
+After checking in on Buildhame, the heroes look to continue onward.  
+
+[November 28, 2018 - Into the Mountains](2018/2018-11-28-into-the-mountains.md)  
+The heroes are ready to set out into the mountains in search of Khan `Magnus`.  
+
+[November 1, 2018 - Truth, Justice, and the Undead Way](2018/2018-11-01-truth-justice-and-the-undead-way.md)  
+Having delivered the body of `Wernick` and receiving a request for help from `Endirin`, the heroes head home to find out what is next.  
+
+[October 18, 2018 - Help: I Need Somebody](2018/2018-10-18-help-i-need-somebody.md)  
+Having saved a traveling circus, the party continues their journey to Ur'gench, body in tow.
+
+[October 4, 2018 - Traveling Circus](2018/2018-10-04-traveling-circus.md)  
+Having received troubling news about the Khan, the heroes set out for Ur'gench and find a circus along the way.  
+
+[September 20, 2018 - Cleanup Aisle Two](2018/2018-09-20-cleanup-aisle-two.md)  
+Having successfully defended their town, with some late aid from Khan Magnus, the heroes look over the aftermath of the battle.  
+
+[August 16, 2018 - A Good Day to Die](2018/2018-08-16-a-good-day-to-die.md)  
+The day for war has come, as the heroes and their small band of troops stand ready to defend Khanhold.  
+
+[August 2, 2018 - Scout No More](2018/2018-08-02-scout-no-more.md)  
+Tensions are high in Khanhold as a battle seems to be looming.  
+
+[The Older Notes](2018/the-older-notes.md)  
+Further notes about Khanhold rebuilding. There were not gathered by session and just from larger overall notes.  
