@@ -2,6 +2,10 @@
 
 This town was once under the leadership, and presumed deception, of the villain `Wernick`. After he and the people abandoned it, the adventuring party cleared raiding orcs and resettled the town, giving it the name of Khanhold. It is now the home of many more growing [townsfolk](/characters/khanhold.md).
 
+Other names:
+- Faithhold village: name previously called by villages, per Stone Fist tribe
+- Kiva-ral: what Stone Fist and Black Feathers call village
+
 [![map of Khanhold](/assets/map-khanhold.webp)](/assets/map-khanhold.webp)  
 _A map of the town of Khanhold_  
 
