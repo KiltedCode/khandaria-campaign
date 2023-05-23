@@ -12,6 +12,8 @@ Belsarin is a flowing monk that annoys the enemies as much with punches to the f
 
 Half-orc Cleric of Sarenrae (?) / Druid (?)  
 
+![Pylia, the cleric of Sarenrae and druid of the green](/assets/pylia.webp)
+
 Pylia served first as a cleric of Saranrae, believing in the opportunity of redemption. She later learned the power of nature, gaining powers from nature as a druid.  
 Her father was discovered to be an Orc Chieftan, who had attacked the town that would become Khanhold.  
 
