@@ -29,6 +29,8 @@ His preferred weapon is his Ohm Bow, a +1 Shock Composite Longbow. He uses it to
 
 He has a love for the drink, primarily whiskey. So much that he has branched into distilling his own, though he prizes his several bottles of dwarven whiskey from Stormpeak.  
 
+Learn more about his history and meeting `Pawtrick` through [Faleor's backstory](/characters/faleor-notes/backstory.md).  
+
 
 ## The Animal Companions
 
