@@ -86,7 +86,7 @@ lost trail, not sure if magically erased or just lost over rocks
 very smooth face, almost like a knife, dwarves said most likely mining explosives to get that  
 **detect magic** for "overwhelming aura" that deflected our portal  
 `Guros` might be able to use some pull, but heard about our screw up with `Soren`  
-`Guros` said you might not have been wrong, rumors about `Kurzag the Cruel`  
+`Guros` said you might not have been wrong, rumors about `Kulug the Cruel`  
 Warns that `Soren` is less tolerant about a lot of things than `Magnus` was  
 
 `Guros` leads us to palace, talks to `Pellum` about spell  

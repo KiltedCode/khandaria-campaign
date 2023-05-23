@@ -13,6 +13,10 @@ Deceased, advisor to `Khan Magnus`, died during dropping of the Watcher
 `Soren`  
 current Khan, son of `Magnus`  
 
+~~`Kulug the Cruel`~~ 💀  
+ great-great-great-great-great-grandfather of `Magnus`, Khan that had the Watcher created, killed and exiled dwarves from Khandaria  
+ `Pylia` insulted `Soren` bringing up his potential worship of `Asmodeus` from rumor    
+
 
 ## Guards / Soldiers
 
