@@ -12,13 +12,18 @@ He learned to shoot bow from his "cousin" `Vicben` who is a half elf as well. `F
 
 `Faleor` became an adventurer to prove his worth and skills. He became a ranger because he had a natural knack for the skills required and he wanted to carry on my father's work of protecting the land and animals. He hopes too that one day his skills may lead him to the truth of his mother and her people.  
 
+
 ## Meeting Pawtrick
 
 As `Faleor`'s skills as a ranger grew, so did is connection to the animal world. While roaming the mountains of Khandaria, he felt drawn by a supernatural force. He followed that pull until he approached a small brook trickling down the mountain from the snow above. As he crossed he misjudged the stability of some of the rocks that started to roll, causing Faleor to fall into the water and down the slope about 50 feet. As he gathered himself, he saw a small but powerful wolf approach with a low growl. His knee was pretty hurt, so he couldn't immediately stand. As he reached his hand slowly towards his hatchet he keeps on his hip, they locked eyes. Both could feel a connection made. The wolf lowered his head, almost as in a nod, and approached `Faleor`, laying next to him to warm him from his cold wetness. `Faleor` pulled some meat from his pack to share, that the wolf was grateful for. He was able to wrap his knee enough to get around and build a fire to keep them warmer until he was ready to move on in a day or two. From that moment the two were joined by an unspoken and supernatural bond. `Faleor` stated by referring to him as `Wolf Dog`, but would later learn through **speak with animals** that he prefers the name `Pawtrick Stewart`.
 
+
 ## Other Notes
 
-Faloer likes a good drink and puns.
+`Faleor` likes a good drink and puns.  
+
+His favorite food is a nice roasted venison, turned over an open fire, and a side root vegetables and potatoes roasted with a bit of olive oil and herbs.  
+
 
 ## Physical Description
 
