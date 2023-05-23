@@ -68,4 +68,18 @@ Maintains position between us and rhinos
 We go back around the way we came, closer to lake  
 Go back to cave again for the night  
 
+Sending to `Endirin`
+
+> Progress north to Highland Pastures.  
+> Stone Giants confirm dragon Magnus and another dragon in area of Blast Pass.  
+> Proceeding through Stormpeak Pass next.  
+> Pylia Out!  
+
+> Well, at least we know he's alive.  
+> Stone Giants, interesting.   
+> Good work getting something out of them.  
+> They must like you (or Magnus).  
+> Keep moving.  
+
+
 [back to table of contents](/sessions/README.md)
