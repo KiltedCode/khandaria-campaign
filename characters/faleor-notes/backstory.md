@@ -1,4 +1,4 @@
-# `Faleor`'s Backstory
+# Faleor's Backstory
 
 `Faleor`'s parents are a human father and full elf mother, which is decidedly more rare for half-elves. `Faleor` doesn't know much about his mother other than her name: `Caraphimbes` (meaning red hair). His father doesn't talk much of her. `Faleor` assumes it is too tough, but wants to know more. He doesn't know if she just left, or if she is dead, or anything in between. 
 
