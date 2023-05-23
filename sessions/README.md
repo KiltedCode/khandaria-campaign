@@ -306,6 +306,10 @@ Having saved a traveling circus, the party continues their journey to Ur'gench, 
 [October 4, 2018 - Traveling Circus](2018/2018-10-04-traveling-circus.md)  
 Having received troubling news about the Khan, the heroes set out for Ur'gench and find a circus along the way.  
 
+### Our Kind of Town 
+
+The adventurers journey to a town for information, only to discover it overrun by Orcs and abandoned by its people. After Orc fumigation, the party settles a new town and rebuilds. But will they survive the dangers of the wilds? Will their new neighbors be friends or foes?
+
 [September 20, 2018 - Cleanup Aisle Two](2018/2018-09-20-cleanup-aisle-two.md)  
 Having successfully defended their town, with some late aid from Khan Magnus, the heroes look over the aftermath of the battle.  
 
