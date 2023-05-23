@@ -10,7 +10,7 @@ Belsarin is a flowing monk that annoys the enemies as much with punches to the f
 
 ## Pylia ☀️  
 
-Half-orc Cleric of Sarenrae (?) / Druid (?)  
+Half-orc Cleric of Sarenrae (5) / Druid (5)  
 
 ![Pylia, the cleric of Sarenrae and druid of the green](/assets/pylia.webp)
 
