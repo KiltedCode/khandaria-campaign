@@ -33,7 +33,7 @@ grabs a horse and is off
 `Guros` says we're all going to the palace  
 need to walk because we dont have horses  
 
-As we walk, `Guros` gets `Belsaran` to be on `Legdas` other side  
+As we walk, `Guros` gets `Belsarin` to be on `Legdas` other side  
 `Legdas` says "we need to spread the word"  
 `Faleor` distracts him with "how many songs would it take to tell our story of the fight in the town that I told you?"  
 say we need to see the `Khan` immediately  
@@ -118,11 +118,11 @@ could get wand of **resist energy**
 get wards to help identify  
 in mean time will get us quarters at the palace  
 `Guros` is worried about us going anywhere without him  
-`Belsaran` and `Faleor` walk back, `Pylia` flies  
+`Belsarin` and `Faleor` walk back, `Pylia` flies  
 `Pylia` arrives back, tries to get in through window, gets talon stuck  
 `Z` looking from other side of window  
 turns back into person  
-gather our gear, `Belsaran` starts trying to design a new bird window  
+gather our gear, `Belsarin` starts trying to design a new bird window  
 
 Come back to palace  
 guards warned about us and animal  

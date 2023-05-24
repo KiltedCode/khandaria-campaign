@@ -72,7 +72,7 @@ no activity, don't appear spotted at all
 lose time trying to find way back  
 takes 80 minutes to get back  
 gone almost an hour and a half  
-`Belsaran` goes to check, after leaves `Faleor` comes back  
+`Belsarin` goes to check, after leaves `Faleor` comes back  
 becomes visible and says "potato"  
 comes in and takes a drink and shares  
 says took long enough  
@@ -102,7 +102,7 @@ if not a spell problem, may be done tonight, but not until after dark, she think
 `Mel` goes for food and elder  
 guard with food comes and coffee  
 `Pylia` info dumps on him, he's very confused
-after 5 minutes `Mel` returns with elder and has to tell her all over again  
+after 5 minutes `Mel` returns with elder and has to tell them all over again  
 
 `Faleor` stops by church for thank you prayer  
 grabs food and a walking ale  
@@ -125,7 +125,7 @@ Do sending while down to avoid interrupting
 > Good luck with next step.  
 
 `Pylia` gets feeling the "here's" instead of "here" is because so jubilant and very pleased  
-huge weight off his shoulders that troups made it back  
+huge weight off his shoulders that troops made it back  
 day goes on  
 get the impression they're getting ready to head out, but not nearly ready  
 probably plan to leave in morning  
@@ -137,7 +137,7 @@ about 4 in the morning `Pylia` loses the spell
 goes and sees the explosives  
 prays and gets spells at about hour and half because started too early  
 
-In the morning, `Belsaran` sees guards in full armor at the door  
+In the morning, `Belsarin` sees guards in full armor at the door  
 Valig says they are accepting they councils decision  
 but ready in case the attack  
 then guard realizes that never know if will collapse or make opening to city, so wants guards prepared in case  
@@ -146,7 +146,7 @@ circle is not yet complete but working on it
 casters have finished but clean up crew is detailing  
 two council members show up: brewmaster and high priest of torag  
 getting crowded, send high priest out some, `Faleor` goes as well  
-then `Belsaran` goes further  
+then `Belsarin` goes further  
 prince yelling at people, tents coming down  
 gold guy tent untouched  
 wonder out loud about army  
@@ -162,7 +162,7 @@ big blue glow
 appears the prince of water  
 step onto circle and to greet him  
 `Faleor` uses expeditious retreat and starts running  
-`Belsaran` blinks to other tunnel and runs down  
+`Belsarin` blinks to other tunnel and runs down  
 sees leader of diggers relighting fuse  
 grabs digger, runs with him and haste boots  
 reaches lip and explodes and fire up the tunnel  
@@ -172,7 +172,7 @@ suddenly stone breaks around picture
 tents shredded, goblins on back  
 see `Prince of Fire` is hurt bad, nowhere near the circle  
 see a fragment of gold armor  
-`Faleor` there in time to see `Belsaran` come out of fire  
+`Faleor` there in time to see `Belsarin` come out of fire  
 
 `Pylia` sees them healing a lot now  
 healing up the `prince`  

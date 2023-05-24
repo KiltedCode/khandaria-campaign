@@ -41,7 +41,7 @@ substantial troops
 mostly looking at the sky, spider riders with bows, giants with bows and spears  
 stealthily look at brush, four large barrels, well constructed, warning high explosive  
 equipment is more barrels  
-`Belsaran` traces ditch, becomes a tunnel  
+`Belsarin` traces ditch, becomes a tunnel  
 large, well dug tunnel, dwarven construction, keeps sloping down, turns to west  
 find two barrels at the end and a rock wall with two holes at dwarven eye height  
 see ditch, maybe only foot and a half of rock  
@@ -59,11 +59,11 @@ Plan
 - `Pylia` will spark  
 - fly to by other barrels  
 - spark when explosion  
-- `Faleor` and `Belsaran` will take 10 feet for other barrels  
+- `Faleor` and `Belsarin` will take 10 feet for other barrels  
 - keep 20 feet of fuse rope  
 - when explosions, will move other two and set off  
 
-`Belsaran` sets up fuses  
+`Belsarin` sets up fuses  
 `Faleor` waiting at other edge  
 1 minute to stealth up  
 spark, fly  

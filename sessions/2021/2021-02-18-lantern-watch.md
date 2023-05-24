@@ -5,7 +5,7 @@ sounded urgent
 their trip up here was boring  
 they want to just fly high, we convince them to be stealthy  
 
-`Belsaran` notices no traces of any more caravans  
+`Belsarin` notices no traces of any more caravans  
 also nobody on main trade road to the east  
 `Eiya` is flying around which could draw attention  
 approaching the castle in the distance  
@@ -22,8 +22,8 @@ what to do about magic detection?
 signs of goat and a mountainous snake  
 `Mel` can cast **invisibility** repeatedly  
 `Valdrin` is not really stealthy  
-`Katla` casts **status** on `Mel` and `Belsaran`  
-casts r**esist energy** on `Mel` and `Belsaran`  
+`Katla` casts **status** on `Mel` and `Belsarin`  
+casts r**esist energy** on `Mel` and `Belsarin`  
 other group will be behind mountain on the side near the extra building  
 will use both wounded as status to come  
 taking cauldron because smaller  

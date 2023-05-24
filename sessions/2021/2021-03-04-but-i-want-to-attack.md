@@ -1,9 +1,9 @@
 # March 4, 2021 - But I want to Attack
 
 Tell everyone what `Faleor` sees  
-`Belsaran` sees through  
+`Belsarin` sees through  
 guard on patrol heading our way  
-`Belsaran` hears some sort of animal noise  
+`Belsarin` hears some sort of animal noise  
 back down the path a little  
 we are downwind of the castle (scent and voice carry less)  
 smell mountain rhino  
@@ -13,7 +13,7 @@ share information
 `Faleor` borrows broom to fly invisible  
 everyone in her group is astonished she is lending it to me  
 `Pylia` will be on mountain for whispering gloves  
-`Belsaran` ready to **abundant step** in  
+`Belsarin` ready to **abundant step** in  
 broom throws `Faleor`  
 rides up and dumps  
 tries to spin but holds on  

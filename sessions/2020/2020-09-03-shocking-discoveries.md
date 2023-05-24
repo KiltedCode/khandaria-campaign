@@ -13,7 +13,7 @@ V shaped scratches, opening towards the tile area
 there are more like it, very faint  
 wondering if need to put the weight somewhere specific to trigger something  
 try torch with grappling hook  
-`Belsaran` goes along wall, feels dip  
+`Belsarin` goes along wall, feels dip  
 move chest into place, loud click  
 long corridor, continual light torches  
 before we go in, identify _wand as wand of reduce person_ (quite a few charges)  
@@ -65,12 +65,12 @@ lightning still around his body
 
 ![lightning trap](/assets/scry-lightning.webp)  
 
-`Belsaran` puts hand on shoulder, try to absorb  
+`Belsarin` puts hand on shoulder, try to absorb  
 course up his hand, up his arm  
 might be able to channel into a portal, not sure where to  
 took some small damage  
 `Pylia` burst healing  
-there was a lightning trap, `Belsaran` is trying to put through to a portal  
+there was a lightning trap, `Belsarin` is trying to put through to a portal  
 blasts lightning into ground, floor catches fire  
 `Hadvar` says "just... wait..."  
 

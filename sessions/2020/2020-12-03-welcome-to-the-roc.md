@@ -11,7 +11,7 @@ Loot
 - Belt of Incredible Dexterity +4  
 - Ring of Protection +2  
 
-`Belsaran`  
+`Belsarin`  
 - Ring of Protection +3  
 - Cloak of Resistance +3  
 - Potion of Cure Serious x2  
@@ -53,7 +53,7 @@ they're clearly alert for hazards, from the ground it's carpet with some heads p
 they come together for defense, but smart enough to stay far enough apart to avoid blast radius from AOE  
 
 head up towards High Lake to overlook High Pastures  
-`Belsaran` recognizes two columns of stone are actually stone giant wooly rhino herders  
+`Belsarin` recognizes two columns of stone are actually stone giant wooly rhino herders  
 about 2 hours in, head towards Stormpeak Pass  
 spot two Griffons, ease right to avoid their territory  
 see the lake is brim-full, like when it flooded us  
@@ -70,7 +70,7 @@ can't make it out, probably a predator
 head towards Blast Pass  
 mid afternoon by now  
 trying to make it to meadow for a break  
-heading towards pass, `Belsaran` spots two huge shapes on peak launch off in the air - Rocs  
+heading towards pass, `Belsarin` spots two huge shapes on peak launch off in the air - Rocs  
 wind picks up as we go downward, colder this time around  
 there is a smaller flat area on the mountain we could land  
 going to use the wind to try and get there quickly  
@@ -81,19 +81,19 @@ Come in closer and see they are hobgoblins
 fire off 3 arrows into the front roc from 330ft away  
 surprise the crap out of it  
 150ft away  
-`Belsaran` moves up ready to charge  
+`Belsarin` moves up ready to charge  
 hurt Roc 70ft away  
-firing on `Belsaran`  
+firing on `Belsarin`  
 they are troops from Qubla, highly trained  
 militaristic, LE  
 try to take out driver of Roc2 with slaying arrow, but makes his save  
-Roc2 charges `Belsaran`   
-but `Belsaran` (with _potion of fly_) charges first  
-Roc2 grabs `Belsaran`  
+Roc2 charges `Belsarin`   
+but `Belsarin` (with _potion of fly_) charges first  
+Roc2 grabs `Belsarin`  
 Roc1 pilot hit by hold person  
 `Faleor` catches arrow that would have crit (right in front of face)  
 Roc1 sweeps in close, volley of missing arrows  
-`Belsaran` and Roc2 beat each other up  
+`Belsarin` and Roc2 beat each other up  
 both looking pretty bad  
 driver or Roc1 breaks out of hold person  
 Roc1 flies by, attacks and grabs `Faleor`  

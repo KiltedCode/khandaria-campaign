@@ -42,9 +42,9 @@ waterfall makes it nice and cool despite being summer sun
 dwarven ambassador approaches, first to swear oath to khan of his people  
 not flashy but silver pieces are mithral  
 
-In marches guards with `Soren`, `Endirin`, and `Belsaran`'s old monk master  
+In marches guards with `Soren`, `Endirin`, and `Belsarin`'s old monk master  
 Ask `Rin` who the other guy is: `Jin`, master of the guard  
-`Belsaran` says "thats what he's calling himself", I'll tell you later  
+`Belsarin` says "thats what he's calling himself", I'll tell you later  
 `Rin` guess "you're one of his protege's"  
 He likes to go on walkabout and train promising young recruits  
 `Pelture` comes in as head of church, begins the ceremony  

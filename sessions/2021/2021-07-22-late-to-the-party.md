@@ -4,13 +4,13 @@ Loot to be determined
 nothing too good or magical  
 
 Just in the morning, realize hobgoblin is replying to a sending  
-wake `Belsaran` up "go punch that guy"  
+wake `Belsarin` up "go punch that guy"  
 intimidate to tell us what they said  
 
 Try to handle the roc  
 with feeding, get it to indifferent  
 hobgoblins try to tell it to fly  
-`Belsaran` jumps and beats them  
+`Belsarin` jumps and beats them  
 `Faleor` grabs wand of **speak with animals**, casts and tells it to stay, that we'll feed it and treat it well  
 comes over to our side  
 feed it a dead hobgoblin without armor, eats him whole  
@@ -40,7 +40,7 @@ rendezvous, impressed we have a roc
 but annoyed we are late  
 stone giant moved heard into position  
 `Faleor` and `Pylia` in roc  
-`Belsaran` and someone on carpet  
+`Belsarin` and someone on carpet  
 give chime of opening to `Mel` as option  
 
 Roc staying back while others are going forward  

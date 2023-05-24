@@ -40,7 +40,7 @@ strips down to just his kilt
 toned, very elf physique  
 all clear  
 
-`Belsaran` next  
+`Belsarin` next  
 very muscular  
 do see magic, but lingering aura from strong spell  
 see it disipate as we watch  

@@ -4,22 +4,22 @@
 "Listen here, Roc! Just because I use a bow doesn't mean you should take me for granite. I have some boulder tricks up my sleeve."  
 draws his rapier and drains his con (just a little)  
 Roc2 goes after `Pylia` and grabs her away  
-`Belsaran` goes after Roc2, beats him up bad and it drops `Pylia`  
-`Pylia` wild shapes into an eagle while `Belsaran` jumps onto it's back  
+`Belsarin` goes after Roc2, beats him up bad and it drops `Pylia`  
+`Pylia` wild shapes into an eagle while `Belsarin` jumps onto it's back  
 hobgoblins pull out their great axes and attack  
 Roc1 attacks `Faleor` but doesn't let go  
-hobgoblins decide to shoot at `Belsaran` on Roc2, and 1 arrow hits the roc, killing it  
+hobgoblins decide to shoot at `Belsarin` on Roc2, and 1 arrow hits the roc, killing it  
 `Faleor` drains 6 more con  
 Roc1 drops `Faleor` and dives to get away  
 `Pylia` tries to pull `Faleor` towards carpet, gets Z to fly a little towards  
-`Belsaran` teleports onto Roc1's neck  
-2 hobgoblins jump out and attack `Belsaran`  
+`Belsarin` teleports onto Roc1's neck  
+2 hobgoblins jump out and attack `Belsarin`  
 one misses the attack and falls off after losing his balance  
 `Faleor` plucks one arrow in from 380 ft away  
-`Belsaran` trips the other hobgoblin and kicks him over the edge  
-driver hobgoblin charges `Belsaran`, gets tripped, kicked, grabs the feathers but is hanging  
-`Belsaran` punches Roc1 until it breaks its neck  
-`Belsaran` tries to bring back body to stabilize but too late  
+`Belsarin` trips the other hobgoblin and kicks him over the edge  
+driver hobgoblin charges `Belsarin`, gets tripped, kicked, grabs the feathers but is hanging  
+`Belsarin` punches Roc1 until it breaks its neck  
+`Belsarin` tries to bring back body to stabilize but too late  
 
 Check the howdas  
 - _+1 arrows_ x60  

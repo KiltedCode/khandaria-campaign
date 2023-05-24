@@ -9,8 +9,8 @@ could protect against air or ground but not both well
 think about animals could be or teleport  
 roc goes overhead close, scanning close  
 hear a stick snaps  
-`Belsaran` sees a leaf move aside  
-`Belsaran` sweeps and takes down small creature  
+`Belsarin` sees a leaf move aside  
+`Belsarin` sweeps and takes down small creature  
 smog bombs a dwarf  
 `Faleor` sweeps a detect evil  
 
@@ -19,11 +19,11 @@ smog bombs a dwarf
 "are you the heroes?"  
 follow me, in a hurry to leave  
 he seems to be behaving oddly but not sure if hiding or weird  
-apprehensive about `Belsaran`  
+apprehensive about `Belsarin`  
 wont stop and keeps walking  
 following towards eastern edge  
 as he's leading us, hear faint clank of metal behind us  
-worried about `Belsaran` and `Valdran` fitting  
+worried about `Belsarin` and `Valdran` fitting  
 `Faleor` remembers wand of **reduce person**  
 `Eiya` pops everyone  
 dwarf closes up entrance almost cave in like but controlled  
@@ -66,15 +66,15 @@ smoked gouda for `Pylia`
 `Mel` also not impressed  
 `Valdrin` loves it, gets a (branded) tankard for the road  
 `Pylia` chats up `Katla`  
-`Valdrin` chats up `Belsaran`  
+`Valdrin` chats up `Belsarin`  
 `Valrin` express changed feelings about the dwarves  
 good food, impressive city, not standoff-ish, impressed how helping Khandaria  
-`Belsaran` asks about where he often is  
+`Belsarin` asks about where he often is  
 he and `Aya` normally a 2 person crew, lack of healing  
 found `Katla` through `Mel`  
 worked out to be a good team  
 `Mel` has tendency to get them into trouble, especially for him as front line  
 `Faleor` flirts with `Eiya`  
-`Belsaran` and `Faleor` notice `Valdrin` isn't drunk but whiskey is hitting him hard  
+`Belsarin` and `Faleor` notice `Valdrin` isn't drunk but whiskey is hitting him hard  
 
 [back to table of contents](/sessions/README.md)
