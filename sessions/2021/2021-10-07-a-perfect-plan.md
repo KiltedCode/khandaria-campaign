@@ -159,15 +159,15 @@ after 10 minutes, circle starts to glitter
 have one minute and `Mel` sends to set it off  
 
 big blue glow  
-appears the prince of water  
+appears the `Prince of Water`  
 step onto circle and to greet him  
-`Faleor` uses expeditious retreat and starts running  
+`Faleor` uses **expeditious retreat** and starts running  
 `Belsarin` blinks to other tunnel and runs down  
 sees leader of diggers relighting fuse  
-grabs digger, runs with him and haste boots  
+grabs digger, runs with him and _haste boots_  
 reaches lip and explodes and fire up the tunnel  
 `Pylia` sees enormous explosion  
-see Asmodeus again but more in pain  
+see `Asmodeus` again but more in pain  
 suddenly stone breaks around picture  
 tents shredded, goblins on back  
 see `Prince of Fire` is hurt bad, nowhere near the circle  
@@ -175,16 +175,16 @@ see a fragment of gold armor
 `Faleor` there in time to see `Belsarin` come out of fire  
 
 `Pylia` sees them healing a lot now  
-healing up the `prince`  
+healing up the `Prince of Fire`  
 goblins getting out of tower see her image  
-`prince` is having them form up in ranks to count  
+`Prince` is having them form up in ranks to count  
 probably took out half  
 most of higher ups are killed  
 `Pylia` sees goblin face, then folded up  
 get impression they are forming up expecting attack from Buildhame  
 loses as go out of range  
 tunnel did collapse  
-believe killed the `daimio` and the `Prince of Water`  
+believe killed the `Daimio` and the `Prince of Water`  
 
 > **LEVEL UP!**
 
