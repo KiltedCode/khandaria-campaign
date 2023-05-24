@@ -8,21 +8,22 @@ BAB +1
 Ref +1  
 Teamwork feat, share with `Pawtrick`  
 +1 first level spell / day  
+class bonus: ~~? or~~ extra skill
 
 Spells known:
 - 0: detect poison
-- class bonus: ~~? or~~ extra skill
 - 1: lucky number
-- Skill: 6+2
-    1. perception (max)
-    2. survival (max)
-    3. stealth
-    4. diplomacy 
-    5. intimidate
-    6. diplomacy ~~or bluff~~
-    7. diplomacy
-    8. linguistics: "Pawtrick"
-    9. bonus: linguistics: Qublan ~~sense motive, knowledge planes or bluff or knowledge local or linguistics (gain qublan or goblin)~~
+
+Skill: 6+2
+1. perception (max)
+2. survival (max)
+3. stealth
+4. diplomacy 
+5. intimidate
+6. diplomacy ~~or bluff~~
+7. diplomacy
+8. linguistics: "Pawtrick"
+9. bonus: linguistics: Qublan ~~sense motive, knowledge planes or bluff or knowledge local or linguistics (gain qublan or goblin)~~
 
 ## Pawtrick
 

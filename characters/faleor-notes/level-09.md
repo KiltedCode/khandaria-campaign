@@ -17,7 +17,7 @@ Track +1 (does it stack? answer: yes)
 Spells known:
 - 0: stabilize
 - class bonus: ~~detect poison or~~ oath of anonymity
-- 1: burst bonds or heighten awareness or fallback strategy or keep watch
+- 1: ~~burst bonds or~~ heighten awareness ~~or fallback strategy or keep watch~~
 
 Skill: 6+2
 1. perception (max)
