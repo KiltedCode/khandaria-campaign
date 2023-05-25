@@ -1,7 +1,7 @@
 # December 5, 2019 - Showdown at the Slik Road Corral
 
 Didn't see the guy who ran ahead to warn them  
-Two up front, one leader of `Belsarin`'s old gang `Craddock Blackbeard`  
+Two up front, one leader of `Belsaran`'s old gang `Craddock Blackbeard`  
 `Lonny` (rogue), `Oaf` (fighter), magician, cleric (robes of Sarenrae)  
 3 more thugs, then 4 women with knives at throat  
 archers are up on the buildings  
@@ -15,21 +15,21 @@ second girl looks around and catches `Ruby`'s eye and stops
 third guy **hold person** as looking at second guy  
 girl takes a few seconds to notice and pokes him  
 takes dagger and stabs him in the gut  
-`Craddock` says `Belsarin` should come with them  
+`Craddock` says `Belsaran` should come with them  
 last guy yells "Hey!" as `Ruby` gets last spell off  
 
 roll for initiative  
 `Craddock` realizes what's happening and tells `Oaf` to kill `Madame Ruby`  
 She casts **color spray** at them  
-`Belsarin` gets held by cleric  
+`Belsaran` gets held by cleric  
 `Lonny` goes after `Madame Ruby`  
 the cleric is `Pelture`'s old assistant  
 big old fight  
-`Belsarin` kills `Craddock`  
+`Belsaran` kills `Craddock`  
 `Lonny` tries to run but get caught  
 capture `Oaf`, cleric, and one thug  
 kill mage, several other thugs / archers, 3 got away  
-`Belsarin` takes `Lonny`'s boots  
+`Belsaran` takes `Lonny`'s boots  
 `Faleor` searches `Craddock` for stuffs  
 
 Girls all give us "credit" for future, from multiple bordellos  

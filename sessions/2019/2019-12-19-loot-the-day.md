@@ -51,10 +51,10 @@ he is shocked about the evil items we received
 he's ok with us going in so long as we are controlled  
 `Guros` ask `Rosnick` if there was supposed to be a second and `Rosnick` says `Pylia` is representing  
 leads across the plaza to the jail facility  
-meet `Ingmar`, the inquisitor who questioned `Belsarin` and one of her assistants `Ronald`  
+meet `Ingmar`, the inquisitor who questioned `Belsaran` and one of her assistants `Ronald`  
 `Ronald` doesn't speak much, seems awkward at the attention he's getting  
 `Ingmar` says she'll do the questioning, give to her ahead of time or write during interrogation  
-`Belsarin` remembered `Korin`'s mace looked peace bound but was not real  
+`Belsaran` remembered `Korin`'s mace looked peace bound but was not real  
 
 Interrogation room 1  
 4 guards bring him from cell, manacle him to the floor  

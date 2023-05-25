@@ -112,7 +112,7 @@ exit to laundry room or kitchen
 hear they say "we should talk in private"  
 `Faleor` comes in the front to get their attention  
 asks to pray at altar, as distraction  
-while `Pylia` and `Belsarin` go out the back  
+while `Pylia` and `Belsaran` go out the back  
 dwarf mashing potatoes, one cleaning pans  
 walk through and ask for a turnip  
 

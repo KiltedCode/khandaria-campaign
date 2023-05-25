@@ -72,7 +72,7 @@ no activity, don't appear spotted at all
 lose time trying to find way back  
 takes 80 minutes to get back  
 gone almost an hour and a half  
-`Belsarin` goes to check, after leaves `Faleor` comes back  
+`Belsaran` goes to check, after leaves `Faleor` comes back  
 becomes visible and says "potato"  
 comes in and takes a drink and shares  
 says took long enough  
@@ -137,7 +137,7 @@ about 4 in the morning `Pylia` loses the spell
 goes and sees the explosives  
 prays and gets spells at about hour and half because started too early  
 
-In the morning, `Belsarin` sees guards in full armor at the door  
+In the morning, `Belsaran` sees guards in full armor at the door  
 Valig says they are accepting they councils decision  
 but ready in case the attack  
 then guard realizes that never know if will collapse or make opening to city, so wants guards prepared in case  
@@ -146,7 +146,7 @@ circle is not yet complete but working on it
 casters have finished but clean up crew is detailing  
 two council members show up: brewmaster and high priest of torag  
 getting crowded, send high priest out some, `Faleor` goes as well  
-then `Belsarin` goes further  
+then `Belsaran` goes further  
 prince yelling at people, tents coming down  
 gold guy tent untouched  
 wonder out loud about army  
@@ -162,7 +162,7 @@ big blue glow
 appears the `Prince of Water`  
 step onto circle and to greet him  
 `Faleor` uses **expeditious retreat** and starts running  
-`Belsarin` blinks to other tunnel and runs down  
+`Belsaran` blinks to other tunnel and runs down  
 sees leader of diggers relighting fuse  
 grabs digger, runs with him and _haste boots_  
 reaches lip and explodes and fire up the tunnel  
@@ -172,7 +172,7 @@ suddenly stone breaks around picture
 tents shredded, goblins on back  
 see `Prince of Fire` is hurt bad, nowhere near the circle  
 see a fragment of gold armor  
-`Faleor` there in time to see `Belsarin` come out of fire  
+`Faleor` there in time to see `Belsaran` come out of fire  
 
 `Pylia` sees them healing a lot now  
 healing up the `Prince of Fire`  

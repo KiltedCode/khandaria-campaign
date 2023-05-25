@@ -3,7 +3,7 @@
 Loot:  
 - _mithral heavy shield_ - sell  
 - _ring of climbing_ (+5 climb) - `Faleor`  
-- _dusty rose prism ion stone_ (+1 AC insight) - `Belsarin`  
+- _dusty rose prism ion stone_ (+1 AC insight) - `Belsaran`  
 - _elixir of tumbling_ (+10 acrobat for 1 hour)  
 - _ever smoking bottle_  
 - _+1 javelins_ x5 - `Faleor`  
@@ -42,9 +42,9 @@ waterfall makes it nice and cool despite being summer sun
 dwarven ambassador approaches, first to swear oath to khan of his people  
 not flashy but silver pieces are mithral  
 
-In marches guards with `Soren`, `Endirin`, and `Belsarin`'s old monk master  
+In marches guards with `Soren`, `Endirin`, and `Belsaran`'s old monk master  
 Ask `Rin` who the other guy is: `Jin`, master of the guard  
-`Belsarin` says "thats what he's calling himself", I'll tell you later  
+`Belsaran` says "thats what he's calling himself", I'll tell you later  
 `Rin` guess "you're one of his protege's"  
 He likes to go on walkabout and train promising young recruits  
 `Pelture` comes in as head of church, begins the ceremony  
@@ -65,7 +65,7 @@ the watcher face is falling forward
 the Watcher, with fire from his eyes, smoke and flame around, crushes front half of patio  
 `Soren` goes flying off patio  
 `Faleor` casts **Urban Grace** and jump to catch him, make it and wraps arms around him  
-`Belsarin` misses `Khan`  
+`Belsaran` misses `Khan`  
 `Pylia` gets hit by boulder and is staggered,  
 slips from grasp, he breaks his leg, guards swarming look up at me but `Khan` calls them off  
 there's a creak and dwarves yell to clear the roof!  
@@ -74,7 +74,7 @@ collapses under `Pylia`, she grabs woman as it happens
 entire middle part of castle collapses  
 `Pylia` lands on top of rubble, calms woman  
 dwarf calls down to her, tries to find way to get them out   
-help set `Khan`'s leg with cleric that `Belsarin` finds  
+help set `Khan`'s leg with cleric that `Belsaran` finds  
 get out `Pylia` out shortly thereafter, woman was wife of first noble, was in crush zone  
 
 Will take days to dig out, **raise dead** is only good for a number of day  
@@ -92,7 +92,7 @@ due to my current good side with him, it diffuses the situation a little
 `Pylia` leads him to almost say that the dwarves may be to blame because they built it  
 the speculation thing did not play well  
 
-`Belsarin` realizes `Endirin` was worried about portal being diverted, were trying to go to the Watcher  
+`Belsaran` realizes `Endirin` was worried about portal being diverted, were trying to go to the Watcher  
 
 Want to send some glass jars to Khanhold  
 

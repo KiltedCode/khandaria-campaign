@@ -15,7 +15,7 @@ The Heroes House
 received as payment for work done for `Khan` (I think)  
 two floors  
 greenhouse in the back  
-forge for `Belsarin`  
+forge for `Belsaran`  
 have a warden `Enson` (half elf) to take live in when gone and take care of house  
 
 Messenger arrives from `Pelture`  
@@ -24,7 +24,7 @@ arrive by 11:30
 
 Go out to a tavern  
 chat up people at the bars  
-`Belsarin` starts two people arguing politics, flips off railing and gets attention  
+`Belsaran` starts two people arguing politics, flips off railing and gets attention  
 a table gives `Pylia` a hard time, intimidated when shines her holy symbol  
 `Faleor` chats up bartender to get good drink, chats about brewing  
 a couple of free drinks when recognize as heroes  
@@ -44,7 +44,7 @@ guards not as wound up as other day
 unwrap and `Wernick` is melting, not normal decomposition  
 `Pelture` leans over and `Wernick` sits up  
 eye balls pop out, skin splits on top of skull, arm (of skeleton) grabs `Pelture`  
-`Belsarin` grabs arm, breaks, `Pylia` blasts holy energy  
+`Belsaran` grabs arm, breaks, `Pylia` blasts holy energy  
 `Wernick` disintegrates  
 Guards tackle the three of them, breaks out the magic handcuffs for “destroying evidence”  
 Gets them to calm down, `Pelture` speaks to let them know he had no part of it  
@@ -52,7 +52,7 @@ Gets them to calm down, `Pelture` speaks to let them know he had no part of it
 guards ask about two acolytes instructed to bring body  
 `Pelture` did not instruct anyone to do so and has no one who looks like them  
 four robes stolen from `Pelture` months ago  
-remember that `Belsarin` was approached by two imposters (one `Sarenrae`, one `Desna`)  
+remember that `Belsaran` was approached by two imposters (one `Sarenrae`, one `Desna`)  
 questioning got suspicious asking about old gang in trial, they left, tried to follow but failed  
 `Pelture` believes he has a spy in his church  
 what if Sarenrae in Eclipse where tricked into worshipping `Asmodeus`?  

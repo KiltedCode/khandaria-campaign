@@ -9,7 +9,7 @@ put case into _bag of holding_
 
 Explain about the paintings  
 ask `Halden` to neutralize poison  
-gives **lesser restoration** to `Faleor` and `Belsarin`  
+gives **lesser restoration** to `Faleor` and `Belsaran`  
 gives us a _scroll of restoration_  
 give him a picture for doing a search for the man  
 we're going back in, asks if we want them to check in on us after a time  
@@ -22,7 +22,7 @@ down the stairs
 half way down see a marking on the wall a circle with arrow pointing  
 no poison, no magic, nothing looking weird  
 step over the step, steps become slide  
-all stop from falling, `Belsarin` catches `Pylia`  
+all stop from falling, `Belsaran` catches `Pylia`  
 `Faleor` shimmies to bottom, deep pit, glimmer at bottom  
 `Faleor` jumps across  
 gets `Pawtrick` to come, uses _dire collar_  
@@ -46,13 +46,13 @@ the blood between the table and the drain, some cross scrapes where wiped to the
 something heavy dragged across it towards near wall  
 `Pylia` pulls lever, resets the stairs and traps  
 
-`Belsarin` reading the middle left bookshelf  
+`Belsaran` reading the middle left bookshelf  
 titles:
 - your doom awaits
 - you're such an idiot
 - the mimic in front of you  
 
-mimic attacks `Belsarin`, gets him with glue  
+mimic attacks `Belsaran`, gets him with glue  
 book near `Faleor` slaps at him, misses, hits the ground  
 all bookshelves and doors start combing  
 
@@ -89,7 +89,7 @@ all white tile, far end jagged spikes with a chest
 seems to have no friction  
 identify boots as 6 pairs of _cat burglar boots_  
 
-Do a two piton rope system to send `Belsarin` to the chest  
+Do a two piton rope system to send `Belsaran` to the chest  
 slowly adjust until gets to chest avoiding spikes  
 wraps legs around  
 go to slowly pull him back  

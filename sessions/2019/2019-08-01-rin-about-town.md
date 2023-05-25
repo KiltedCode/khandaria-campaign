@@ -92,9 +92,9 @@ Loot worth _6,000 gp_
 _potion of cure moderate_, _potion of fire breathing_  
 
 Next day  
-`Belsarin` makes some _shurikens_  
-`Faleor` gets a pouch of forge soot from `Belsarin`  
-`Belsarin` makes rusty pair of tongs into masterwork  
+`Belsaran` makes some _shurikens_  
+`Faleor` gets a pouch of forge soot from `Belsaran`  
+`Belsaran` makes rusty pair of tongs into masterwork  
 `Rin` needs to go see a couple of people  
 city much less threatening at day, but surprisingly empty, impression gearing up for coronation  
 
@@ -110,7 +110,7 @@ _14,000 gp_ unless complicated case
 
 head to Dwarven embassy  
 not on embassy row, have tiny house off on side street  
-`Belsarin` comes to meet us, catches up while finding location  
+`Belsaran` comes to meet us, catches up while finding location  
 Embassy of Stormpeak  
 talk our way past guard  
 waiting room has whiskey and beef jerky  

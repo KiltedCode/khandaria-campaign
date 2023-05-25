@@ -21,10 +21,10 @@ same statue but pattern of blue ice / glass a little different
 connecting line, towards peak of the mountain  
 
 approaching the tree line and see another with no ice  
-get within 20 feet and toad fires tongue at `Belsarin`  
+get within 20 feet and toad fires tongue at `Belsaran`  
 hits him and swallows whole  
 it is a Glacier Toad  
-spits out `Belsarin`  
+spits out `Belsaran`  
 eats him again  
 `Pawtrick` crits and rips the leg off  
 take tongue for professor, piece of hide since it's very hard  
@@ -48,7 +48,7 @@ like tree line is advancing up the mountain
 moved up as much as 50 feet in past 100 years  
 maybe due to warming  
 
-watch order: `Faleor`, `Belsarin`, `Pylia`  
+watch order: `Faleor`, `Belsaran`, `Pylia`  
 uneventful night  
 
 dawn comes early  
@@ -65,9 +65,9 @@ hand on top in center
 
 > "I reject the path of luxury and self indulgence"  
 
-`Belsarin` strips of gear, touches and feels the magic potential under his hand  
+`Belsaran` strips of gear, touches and feels the magic potential under his hand  
 realizes he can "**detect magic**" with hand as supernatural ability  
-`Belsarin` speaks the words, altar pulses and feels go into him  
+`Belsaran` speaks the words, altar pulses and feels go into him  
 white dot on his pinky, notices matches dot on the hand on altar  
 puts on boots and fades  
 
@@ -115,7 +115,7 @@ trail's getting more difficult, rocky
 at top of cliff, blue snowflake comes off and down towards us  
 make like an icicle and freeze   
 feel incredible cold aura from it  
-rapidly goes after `Belsarin`  
+rapidly goes after `Belsaran`  
 chunk breaks off when damaged by max damage arrow  
 destroy with a couple of arrows  
 it was an ice elemental, it's what the other things are flying around  
@@ -133,7 +133,7 @@ points back towards the path to temple
 20 minutes, heading right towards drop off  
 altar right at cliff's edge, 8 feet, windy  
 `Faleor` keeps watch for ice elemental  
-`Belsarin` spends ki for balance  
+`Belsaran` spends ki for balance  
 right hand, cube on pointer finger   
 
 > "I reject the delusion that I alone am worth my own effort."  
@@ -141,7 +141,7 @@ right hand, cube on pointer finger
 realize the "path" to the temple would have lead to this sheer cliff  
 
 wind is now BRUTAL  
-`Belsarin` is starting to suffer from the cold  
+`Belsaran` is starting to suffer from the cold  
 
 20 minutes, see the ruins of the temples close  
 altar right in the middle of a split path  
@@ -162,8 +162,8 @@ door has symbol of `Irori`
 untouched all around us  
 ice elemental over destroyed section of rubble   
 as approaches the door, statue reaches out and puts hand on door  
-`Belsarin` shows hand, statue bows, and breaks door off trying to open  
-allows us to pass after `Belsarin` asks  
+`Belsaran` shows hand, statue bows, and breaks door off trying to open  
+allows us to pass after `Belsaran` asks  
 entrance tunnel, some rubble  
 in center of first room, altar like the rest, open to the sky  
 seems like training area: dummies, equipment  

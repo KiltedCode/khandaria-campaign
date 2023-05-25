@@ -85,7 +85,7 @@ wants to know if `Khan` thinks he was
 Ride check on bush and cloth  
 where it was no one would have done that on accident  
 
-Messenger brings message for `Belsarin`  
+Messenger brings message for `Belsaran`  
 `Guros` would like him to come to Justice Hill  
 questioning guy from outside embassy  
 city is getting more deserted, people traveling in groups  
@@ -93,7 +93,7 @@ atmosphere of fear, no guards other than at gates (less than normal as well)
 
 at Justice Hill, a lot of anger, eyeing up like "are you going to try anything?"  
 said someone paid him to stir up the crowd  
-`Guros` thought `Belsarin` might know him as `Guros` thinks he recognized him  
+`Guros` thought `Belsaran` might know him as `Guros` thinks he recognized him  
 mage is magical sketch artist: casts **silent image** and it's `Lonny`  
 have indication that somewhere in the city is a major crime ring  
 someone is getting weapons into the city that aren't peace bonded  

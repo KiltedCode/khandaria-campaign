@@ -25,7 +25,7 @@ magical mechanisms moving air
 evidence of minor construction  
 as existing, notice people coming in as we're going out  
 meet them and say we forgot a couple of things  
-`Belsarin` asks about the conditions and get the bard talking  
+`Belsaran` asks about the conditions and get the bard talking  
 
 rest of the city is still fairly quiet  
 see a lot of people stumbling home with hangovers  
@@ -37,7 +37,7 @@ Arrive home
 cast **harmless form** and take him outside for a bit to play around  
 changes him into a husky, so still wolf like, doesn't seem to fully mind  
 understands he cant be large because he would scare people being so badass  
-`Belsarin` looks at clockwork droid parts  
+`Belsaran` looks at clockwork droid parts  
 
 Look for _wand_  
 **Carry companion**, not fully charge, thinks more than 40  
@@ -55,16 +55,16 @@ want to look for `Guros`
 swing by Embassy Row on way to Justice Hill  
 hear large crowd outside dwarven embassy, held back by city guards, led by `Guros`  
 behind the gate are some dwarven guards  
-give **urban grace** to `Pylia`, `Belsarin` redirects some people, gets one to throw up  
+give **urban grace** to `Pylia`, `Belsaran` redirects some people, gets one to throw up  
 `Guros` spots us, waves us through the guards  
 crowd angry at this  
 `Pylia` moves through crowd restoring drunk people  
 finds a fighter who seems instigator  
 `Pylia` tries to **hold person**, he draws sword, sets off peace bond  
-guards come forward, `Belsarin` leaps from light post and confronts him  
-he attacks `Belsarin`, gets tripped, grappled, pinned  
+guards come forward, `Belsaran` leaps from light post and confronts him  
+he attacks `Belsaran`, gets tripped, grappled, pinned  
 `Guros` grabs the guy and yells "Who are you?!"  
-tries to say `Belsarin` attacked him  
+tries to say `Belsaran` attacked him  
 more guard attracted by the noise, crowd getting nervous and dispersing  
 `Guros` puts on the handcuffs that go through wrists  
 notice guard doesn't say anything, just rips tape off to get it to stop  
@@ -117,8 +117,8 @@ going to use boat with chains, **ant haul** with **overland flight** from ring
 Meet just before nightfall  
 `Guros` gives out _goggles of night_  
 two guards row us quickly upstream  
-they are trustworthy - watched over `Belsarin` when thought old gang was following him  
-set up `Belsarin` Blimp  
+they are trustworthy - watched over `Belsaran` when thought old gang was following him  
+set up `Belsaran` Blimp  
 land, **pass without trace**  
 **Residual Tracking**:  
 see a mountain pony, `Urseg Moonheart`, the priest of Erastil who granted me my powers  

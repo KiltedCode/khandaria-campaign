@@ -59,7 +59,7 @@ realize area is narrowing
 can see mountain dropping off to main road  
 way off to west and south, see a fire  
 `Faleor` lets `Pawtrick` out to roam  
-casts **Keep Watch** on himself and `Belsarin`  
+casts **Keep Watch** on himself and `Belsaran`  
 
 `Pawtrick` and `Z` find a cave bear heading towards the cave  
 `Z` attacks its back  
@@ -70,7 +70,7 @@ decide to go back to rest with humans
 animals are unusually smug in the morning  
 
 Next morning spell up  
-`Faleor` gives himself and `Belsarin` **endure elements** extended  
+`Faleor` gives himself and `Belsaran` **endure elements** extended  
 turns `Pawtrick` back into statue  
 `Pylia` casts **eagle eye**  
 see castle way in the distance guarding the road  
@@ -105,7 +105,7 @@ gets a little freaked out as she moves away
 out from the grass steps a fox, looking right at `Pylia`  
 leads down the mountain side to a small cave  
 white haired woman from the group  
-waves hello to `Pylia` and `Belsarin`  
+waves hello to `Pylia` and `Belsaran`  
 asks where `Faleor` is, who pops into view  
 rest of group is in the cave  
 

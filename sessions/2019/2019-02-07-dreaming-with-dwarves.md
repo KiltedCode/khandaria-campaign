@@ -7,12 +7,12 @@ Holy day is tomorrow for dwarves
 `Erastil` is about being out and about, so if going to do religious, usually just one day and not even one day  
 `Sarenrae` worship every day at noon in Ur'gench  
 In general, people believe in gods (as they're real) but not as much fervor  
-`Belsarin` asks if it's a yearly, but dwarf is shocked and "No, it's Sunday. We take religion seriously."  
+`Belsaran` asks if it's a yearly, but dwarf is shocked and "No, it's Sunday. We take religion seriously."  
 
 Into cave, it is a large town, not a village like Buildhame  
 same style of cut down in  
 4x larger than Buildhame  
-`Belsarin` buys a crossbow (I'm dumbfounded that I could have made it, will work on masterwork for him)  
+`Belsaran` buys a crossbow (I'm dumbfounded that I could have made it, will work on masterwork for him)  
 no masterwork buckler  
 
 `Pylia` gets lost going to leather shop, finds argument about her  
@@ -85,7 +85,7 @@ both drink potions to go into dream, very alcoholic (potent not good)
 
 `Faleor` finds himself in huge ballroom, chandeliers, dancing area, tables, buffet, balcony  
 `Pawtrick` standing next to him, the size of a horse  
-`Belsarin` and `Pylia` at other end of the room  
+`Belsaran` and `Pylia` at other end of the room  
 two black mists come through the wall, down onto them, into them  
 seem to now be caught in invisble box  
 two shadows have taken on their forms  

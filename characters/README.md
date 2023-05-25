@@ -2,11 +2,11 @@
 
 # The Party
 
-## Belsarin 👊  
+## Belsaran 👊  
 
 Human monk (9+?)  
 
-Belsarin is a flowing monk that annoys the enemies as much with punches to the face as with his trips and stealing weapons from their hands. Speaking of hands, his can crackle with electricity as well as destroy altars. Belsarin was trained in the ways of the monk by `Jin`, later discovered to be a former master of the guard in Ur'gench.  
+Belsaran is a flowing monk that annoys the enemies as much with punches to the face as with his trips and stealing weapons from their hands. Speaking of hands, his can crackle with electricity as well as destroy altars. Belsaran was trained in the ways of the monk by `Jin`, later discovered to be a former master of the guard in Ur'gench.  
 
 ## Pylia ☀️  
 
@@ -83,7 +83,7 @@ befriended by the party when he came to town in pain and they removed his hurt t
 
 ## Rin 👻  
 
-A sorcerer who adventured with `Belsarin` and `Pylia` before choosing to merge with a wraith and stay behind in the castle  
+A sorcerer who adventured with `Belsaran` and `Pylia` before choosing to merge with a wraith and stay behind in the castle  
 
 # NPCs
 

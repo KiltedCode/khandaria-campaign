@@ -69,19 +69,19 @@ clearly something caught fire in kitchen during battle
 get to room of battle  
 still some corpses but duergar seem to have collected most of their dead  
 there are a number of bloody streaks converging  
-`Belsarin` looks down the hallway  
+`Belsaran` looks down the hallway  
 sees glitter under the table, find a very elaborate container, likely a scroll case  
 left corridor is trapped, center is not  
 see rubble, likely where they escaped and dropped it in after  
 go down hole from kennel, leads to trap holes  
-`Belsarin` goes down to get his sword, it's IN the body of the guy that borrowed it  
+`Belsaran` goes down to get his sword, it's IN the body of the guy that borrowed it  
 
 go check storage  
 - mostly dry goods, flour  
 - manacles, pick axes  
 - crates of rocks?  
 `Pylia` suspects this is ore, metal stone  
-`Belsarin` knows it is copper ore  
+`Belsaran` knows it is copper ore  
 
 sorting room appears to be hastily cleared  
 find one uncut _sapphire_ worth 80 gp if you clean it up  

@@ -8,6 +8,6 @@ There is no organized crime per se, but a lot of the young bucks of the village 
 
 A few day's journey to the north is the Rose Road, the main trading road that leads out of Lareven west to the Khandarian capital of Ur'guench.  
 
-This village was the home of a young `Belsarin`, `Pylia`, and `Rin`. However `Belsarin` was actually born in a different village, Osskil, which is a little smaller, but much better farmland and more prosperous before the war. It was closer in toward the capital.  
+This village was the home of a young `Belsaran`, `Pylia`, and `Rin`. However `Belsaran` was actually born in a different village, Osskil, which is a little smaller, but much better farmland and more prosperous before the war. It was closer in toward the capital.  
 
 [_return to locations_](/locations/)  

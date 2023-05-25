@@ -7,7 +7,7 @@ maybe `Zodan` who helped them create a spell
 maybe bards, since they need lower level  
 maybe `Rin` if she's grown in power  
 
-`Belsarin` realizes spiritual weapon can hammer while he holds metal with two hands  
+`Belsaran` realizes spiritual weapon can hammer while he holds metal with two hands  
 
 Things seem calmer about the dwarves, from adventurers know difference between Duergar and dwarves  
 
@@ -101,9 +101,9 @@ as walking `Pylia` talks about helping the area of district we were in
 tell him about what we've been up to  
 says we've been busy when others have rested  
 `Pylia` jokes about a little **restoration**, and he casts **full restoration** on her  
-looks briefly at `Belsarin` and `Faleor`  
+looks briefly at `Belsaran` and `Faleor`  
 `Faleor` thinks he's just checking if we needed **restoration**  
-`Belsarin` and `Pylia` see a smirk like there's a little secret  
+`Belsaran` and `Pylia` see a smirk like there's a little secret  
 rest of walk is uneventful but paranoid  
 group of younger ones look like they'll be in fight before the night's through  
 but recognizes us, and one tells the other to stop fan-boying  

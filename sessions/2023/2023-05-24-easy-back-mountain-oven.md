@@ -8,11 +8,11 @@ won't attack without clear view
 something striking from the outside  
 but not like trying to knock down  
 but both shifted  
-`Faleor` touches `Belsarin` and says "I hope this is our lucky day" and casts **lucky number** 13  
+`Faleor` touches `Belsaran` and says "I hope this is our lucky day" and casts **lucky number** 13  
 feel getting hotter, metal getting red  
 `Pylia` casts water, immediately steam, other mages like the idea and do the same  
 `Belsaran` with smithy knowledge knows will lose shape soon because heat is too much  
-mage starts using **ray of frost** and `Belsarin` realizes that will weaken it with that drastic of a temperature change  
+mage starts using **ray of frost** and `Belsaran` realizes that will weaken it with that drastic of a temperature change  
 starts to taper off  
 almost like a slow **heat metal**  
 door probably not as strong as it used to be, sagged a little bit in and towards center  
@@ -27,7 +27,7 @@ army to get to city in 2-3 days
 around noon  
 after another 45 minutes they stand down  
 have ring patterns to alert breaches in various areas  
-`Belsarin` could teleport in and out  
+`Belsaran` could teleport in and out  
 `Faleor` suggest checking against magical protections  
 come across `Ungrum Barrelbrew`, he likes `Faleor` and his holy whiskey  
 no dimensional anchor, but Stormpeak does, suggests make them invisible    
@@ -38,7 +38,7 @@ debating how long to wait before doing
 `Mel` can cast **invisibility**, has a _spyglass_  
 `Faleor` can cast **hide from animals**  
 `Grumin` ready with **dimensional anchor**  
-`Belsarin` goes 1000' up and out (800' total)  
+`Belsaran` goes 1000' up and out (800' total)  
 army already on the way  
 giants going, spider riders going   
 rocs still flying around  
@@ -70,7 +70,7 @@ would need the council
 **detect magic** doesn't see it  
 should be there and should be aura from the teleportation circle as well because strong magic 
 not sure of how could do that  
-`Belsarin` notices itch in his palm  
+`Belsaran` notices itch in his palm  
 goes away as leaves peephole 
 comes back as goes to door  
 

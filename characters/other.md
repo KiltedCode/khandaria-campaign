@@ -21,7 +21,7 @@ Spellcaster that changed `Subatai`'s name and form to hijack the sending from Kh
 ## Adventurers  
 
 `Beltirn`  
-cleric of Erastil locked with `Faleor` in vault, stayed in city after freed by `Belsarin` and `Pylia`  
+cleric of Erastil locked with `Faleor` in vault, stayed in city after freed by `Belsaran` and `Pylia`  
 
 `Kolchek`  
 fighter found imprisoned by duergar, originally gave `Faleor` some information about what was going on, was in group willing to continue on for additional slaves still captured  

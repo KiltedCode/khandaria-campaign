@@ -14,7 +14,7 @@ potentially enlist stone giants help?
 they will send party to speak with stone giants  
 `Sorgen the Silent` will be good to speak with them  
 we will help track ogres' location  
-**Expeditious retreat** into ion stone for `Belsarin`  
+**Expeditious retreat** into ion stone for `Belsaran`  
 
 `Faleor`'s become a bit of a minor celebrity  
 many buying him a celebratory drink  
@@ -73,7 +73,7 @@ a lot of cold weather monsters up there, like yetis
 some sort of square symbol outside, ask a priest  
 let's wait on griffons before taking further steps  
 
-`Belsarin` asks about temple  
+`Belsaran` asks about temple  
 temple of `Irori`, LN god   
 thinks it was a monk training ground before wiped out  
 was here when old dwarves were here but destroy 100 years before they came back  

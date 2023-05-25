@@ -11,10 +11,10 @@ The best place to start is in the beginning . So why not start with a brief hist
 
 ## Meet the Party
 
-Belsarin, Pylia, Faleor. The names of (soon to be) legends. Meet the adventurers, read their stories, meet their companions.
+Belsaran, Pylia, Faleor. The names of (soon to be) legends. Meet the adventurers, read their stories, meet their companions.
 
 Marc
-- `Belsarin`: human unchained monk (10)
+- `Belsaran`: human unchained monk (10)
 - `Cedric`: human summoner synthesist (10)
 
 Cat

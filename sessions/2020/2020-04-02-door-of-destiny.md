@@ -7,7 +7,7 @@ On us right now
     - _knife_  
 - `Pylia`: 
     - _club_ from bench leg  
-- `Belsarin`: 
+- `Belsaran`: 
     - belt with _mystery sand_
     - _potion of haste_  
 
@@ -28,7 +28,7 @@ try to whistle for `Pawtrick`, having stuff expanding in my mouth, plant taste, 
 dust from the mystery stuff on my hands  
 
 fight continues on  
-`Belsarin` charges as do more with him  
+`Belsaran` charges as do more with him  
 two dwarves charging stop and blow 4 times on whistles  
 they all start grabbling the duergar  
 the captain who attack `Pylia` first is avoid the grapples, hit the hero `Pylia` shielded  
@@ -39,8 +39,8 @@ end up with two lines 10 feet apart
 `Faleor` starts coming down the hall after saying "get this door open"  
 after small stand off, hear "doors open"  
 as `Faleor` goes back, so do others, line collapses  
-`Pylia` attacks on way back, so she ends up at back, `Belsarin` stays with her  
-duergar charge, `Belsarin` trips one  
+`Pylia` attacks on way back, so she ends up at back, `Belsaran` stays with her  
+duergar charge, `Belsaran` trips one  
 end up getting everyone in and close the door  
 ends up taking 45 minutes to get geared up  
 `Pawtrick` was partial out of cage trying to break  

@@ -1,13 +1,13 @@
-# September 5, 2019 - Fetch Belsarin
+# September 5, 2019 - Fetch Belsaran
 
 morning 2nd day after disaster  
 bad sleep, bad dreams  
 
 messenger from palace shows up with troop of palace guards  
-looking for `Belsarin` with sad news  
+looking for `Belsaran` with sad news  
 starting from edges and working in, found body of `Jin`  
 `Jin` was only partially crushed, lived a little longer  
-wrote a message in blood "Fetch `Belsarin`"  
+wrote a message in blood "Fetch `Belsaran`"  
 peace bonds our weapons and we come with him  
 town is quiet, putting on black banners, whole mood of town is different  
 palace is a hive of activity  
@@ -23,7 +23,7 @@ legs can't be saved but could use regeneration, arm may be saved
 get him out, cauterized the wounds, end up needing to amputate the arm too  
 
 take him to the infirmary  
-`Belsarin` puts his hand and says "I am here"  
+`Belsaran` puts his hand and says "I am here"  
 `Jin` awakes, asks what happens  
 says `Endirin` was with him, was dragging him  
 doesn't think he had **dimension door** prepared, hasn't prepared adventure spells for years  
@@ -63,7 +63,7 @@ walks past Me`l`vin who tries to stop her, she says he's disrespectful wearing t
 priest she is looking for is outside dealing with family (`Rosnick`)  
 brings up robes being inappropriate, he says may be will of Sarenrae despite not having conclave  
 says he is higher level then them, believes he's doing it for the families  
-`Faleor` and `Belsarin` notice the line is huge  
+`Faleor` and `Belsaran` notice the line is huge  
 at the back are those in mourning  
 at front, they're clearly bored and over the waiting from all day  
 `Pylia` finds him talking to family, saying they will not likely get to funeral before sun goes down  

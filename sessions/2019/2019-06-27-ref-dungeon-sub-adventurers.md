@@ -72,14 +72,14 @@ holding a sword, standing awkward
 
 knowledge: don't sleep. immune to fortitude, mind effects  
 don't wait and attack while counting  
-one surprise hit from `Belsarin`, one arrow and drops  
+one surprise hit from `Belsaran`, one arrow and drops  
 metal plate opens and gives 20 copper pieces  
 exit door has ladder and says exit one way  
 
 start checking other doors  
 get to another room with wall all the way across  
 20 feet tall, room is 50 feet  
-`Belsarin` climbs wall, sees bag on other side  
+`Belsaran` climbs wall, sees bag on other side  
 bag has 20 copper pieces  
 
 another room, completely blank  
@@ -99,7 +99,7 @@ combat room
 
 hitting with a bunch of arrows  
 party surrounds him  
-`Belsarin` pops off head with uppercut  
+`Belsaran` pops off head with uppercut  
 bag pops out of chest with 50 silver in it  
 
 trap room  

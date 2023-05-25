@@ -32,7 +32,7 @@ wouldn't hurt to help in the sewers
 any easy entrance for `Pawtrick` outside of city to save spell  
 the bottoms, where exits, but guarded, need to go around the city, then nav back up to the main tunnel area  
 
-`Belsarin` remembers fake priests that interviewed him when he had vision  
+`Belsaran` remembers fake priests that interviewed him when he had vision  
 thinks two of them might have been those two, might have been names `Derrius` and `Insed`  
 thinks he could have been pulling on own names  
 also, if it's a revolt, that would be good for thieves, not bad  

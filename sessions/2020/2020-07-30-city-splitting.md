@@ -5,7 +5,7 @@ Need to talk to `Hadvar` (`the Maestro`)
 - any magic to help locate her?
 - interested in helping recover her
 
-`Faleor` and `Belsarin` traveling to see `Guros`  
+`Faleor` and `Belsaran` traveling to see `Guros`  
 
 status report  
 give him status report on what we got out of **scrying**  
@@ -70,7 +70,7 @@ going around one by one, she's looking like this may be her chance, but doesn't
 rock is slightly different color, darker, a different kind of rock  
 more widened cave system, lost contact  
 
-`Faleor` and `Belsarin` circle back to university and `Pelonius`  
+`Faleor` and `Belsaran` circle back to university and `Pelonius`  
 `Pylia` wonders what's under his lab  
 classroom, but ends up being empty  
 makes a hole, fills it in, `Pylia` filing off sharp metal as we walk in  

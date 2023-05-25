@@ -19,7 +19,7 @@ also distant footsteps behind us
 tunnel swings to the south  
 opens up into a rather large cave extending east and west, full of rubble, random sized stones in piles  
 a bunch of large perfectly spherical boulders pushed to side, clearly stone shaped so easy to roll  
-on far side see a couple of town guards, recognizes `Belsarin` and `Pylia`  
+on far side see a couple of town guards, recognizes `Belsaran` and `Pylia`  
 say we want to talk to `General Tullius`  
 tunnel into another cavern, full of people (~40)  
 kind of like a barracks: bed, tables with food and benches  
@@ -97,7 +97,7 @@ they pack up their gear
 
 Head with them to checkpoint F  
 route will take about 2 hours  
-`Belsarin` and `Pylia` still up front for detect, `Faleor` and `Pawtrick` in the back  
+`Belsaran` and `Pylia` still up front for detect, `Faleor` and `Pawtrick` in the back  
 travel about 15 minutes, fork, take right, 40 minutes, even `Corporal` says longer than he remembered  
 `Z` seems to smell something  
 get to small cavern and no one is there  

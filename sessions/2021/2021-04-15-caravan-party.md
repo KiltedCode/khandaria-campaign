@@ -3,7 +3,7 @@
 A few minutes later, rearrange setup  
 `Valdrin` gets back into cauldron with `Katla`  
 `Eiya` is on her broom  
-`Mel` is going to stay on carpet with `Faleor` and `Belsarin` and `Zee`  
+`Mel` is going to stay on carpet with `Faleor` and `Belsaran` and `Zee`  
 Decide to head to cave we met other party at to cast a sending  
 Actually going to try and cast on the way, stay low and stealthy for now  
 Will pow wow at the cave  
@@ -32,8 +32,8 @@ all hobgoblins, 12 in total
 +2 on attack and damage competence  
 +2 moral on charm and fear moral  
 `Valdrin` jumps and floats down to attack  
-`Belsarin` jumps on and destroys the back rider  
-Woolly rhino throws `Belsarin` off  
+`Belsaran` jumps on and destroys the back rider  
+Woolly rhino throws `Belsaran` off  
 Other two rhinos get disconnected and start to turn around  
 `Faleor` kills both other drivers with bane arrows  
 `Valdrin` decapitates a hobgoblin and moves onto next  
@@ -49,7 +49,7 @@ One rhino runs off into the plain
 Next rhino looks pissed  
 `Eiya` hypnotizes the last hobgoblin  
 
-`Belsarin` was dominated by the `Prince` but able to shake it off then
+`Belsaran` was dominated by the `Prince` but able to shake it off then
 he knows everything since the fight  
 
 maggots start cleaning up the hobgoblins  

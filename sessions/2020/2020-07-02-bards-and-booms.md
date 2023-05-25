@@ -24,9 +24,9 @@ good food, crowd, some come over to chat us up just so they can say they were wi
 `Legdas` starts telling big tales about us  
 start drinking a fair bit, `Legdas` putting them away, does a set at the end of the night  
 stumble back to the house, test _dire collar_ in backyard  
-`Belsarin` tries to climb him, `Pawtrick` doesn't like it  
-`Belsarin` jumps to the house, `Pawtrick` puts his paws up on the house  
-`Pawtrick` feels he's taught `Belsarin` a lesson, `Z` purs next to him, aspiring to his height  
+`Belsaran` tries to climb him, `Pawtrick` doesn't like it  
+`Belsaran` jumps to the house, `Pawtrick` puts his paws up on the house  
+`Pawtrick` feels he's taught `Belsaran` a lesson, `Z` purs next to him, aspiring to his height  
 two guards come running up, shocked at `Pawtirck`'s size  
 `Legdas` thinks it's the greatest thing, he's going to stay the night so we can **scry** in the morning  
 

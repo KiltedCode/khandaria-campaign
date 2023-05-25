@@ -16,10 +16,10 @@ smokey one: made by burning yue wood, add ashes to the mix
 fortitude: 24 and 11, good after first round, but then get hammered, lunch time, no lunch  
 going to be drunk probably until in the evening  
 
-`Pylia` and `Belsarin` go to set up for service  
+`Pylia` and `Belsaran` go to set up for service  
 a group of 5 grumpy dwarves are outside house of `Greenwich`  
 say that she's not welcome to do this here, grumpy dwarf says he is "leader of the church" here  
-argue a little, `Belsarin` says "we ARE going in"  
+argue a little, `Belsaran` says "we ARE going in"  
 `Pylia` sets up candles and starts to pray  
 grump dwarf knocks over candle  
 `Pylia` casts **calm**  
@@ -44,14 +44,14 @@ thinks he may lose them, but wants to pull them back in, help them be more toler
 brings up `Asmodeus` and `Sarenrae` in Eclipse, worried they may be susceptible to suggestion in this state  
 `Greenwich` will be on the watch, stresses him out  
 
-`Belsarin` steps out after about 15 minutes, just as scimitar lights up  
+`Belsaran` steps out after about 15 minutes, just as scimitar lights up  
 blacksmith hammer over entrance, altar shaped like anvil  
 arrives after started but early on  
 priest speaks a lot in blacksmithing analogies  
-a lot of it makes sense to `Belsarin`, it's a lot of "this is the law and how it works"  
+a lot of it makes sense to `Belsaran`, it's a lot of "this is the law and how it works"  
 also that evil is bad in and individual but it is chaos that would rip apart the world  
 priest offers up in anyone wants to convert, no one comes up  
-`Belsarin` gets in long line to pray at altar  
+`Belsaran` gets in long line to pray at altar  
 spot on hand seems to be acting up with contact to altar  
 feels tingle in his finery robes, now +1, +2 on crafting for next week (blessing of `Torag`)  
 talks to priest about more information, gets book of `Torag` for donation (20 gp, overpaid)  

@@ -1,6 +1,6 @@
 # July 29, 2021 - Look, over there!
 
-`Mel` made himself, `Belsarin`, and carpet invisible  
+`Mel` made himself, `Belsaran`, and carpet invisible  
 `Faleor` gives gloves to `Pylia` to tell other roc riders armies to the east  
 going to tell fire giants army on the plateau  
 look to split the army up  
@@ -34,7 +34,7 @@ spiders move more on rhinos, rhinos are no longer winning
 starts throwing boulders at roc, hit by 3, one damages `Faleor`  
 spiders swarm over `Ayia` (maybe?)  
 see some large explosions back near to spiders, larger than fireball spell  
-`Belsarin` can tell there was no blast wave (illusion)  
+`Belsaran` can tell there was no blast wave (illusion)  
 `Faleor` cast **pass without trace** and encourage to go go go  
 flame head jumps ahead and casts **flame strike** on roc  
 `Pylia` cures roc  

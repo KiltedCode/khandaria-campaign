@@ -32,7 +32,7 @@ Ur'gench needs two more days
 Want to fight  
 Spiders are not vermin, wont be effected by this spell  
 Want to raise some ruckus  
-`Belsarin` wants to make a loop to hook a roc  
+`Belsaran` wants to make a loop to hook a roc  
 `Faleor` goes to edge of woods to scout  
 there is debris that `Faleor` hides in their shadow  
 1 fire giant, 4 goblins w/o spiders, 1 hobgoblin on large spider on perimeter  
@@ -41,7 +41,7 @@ they've been adding wood to fire from explosion
 they're patching themselves up  
 caught 3/4 of the troops in explosion  
 spot some pickaxes and sorting table  
-BUFF `Belsarin`  
+BUFF `Belsaran`  
 Big spider is probably faster, tougher, poisonous  
 heard of spiders that can de materialize, not sure if they are one  
 
@@ -56,13 +56,13 @@ hobgoblin runs into the forest
 roc launches itself at `Faleor`  
 hits and grabs him  
 hobgoblins get out  
-throw alchemist's fire, which `Belsarin` hits to hobgoblin  
+throw alchemist's fire, which `Belsaran` hits to hobgoblin  
 other flasks come down from other roc  
 `Faleor` activates dire collar, tells him to attack  
 `Pawtrick` rips off wing of roc  
 Large hobgoblin tries to run, `Pawtrick` bites and trips him  
-``Belsarin`` steps over to fight the large hobgoblin, trips him back down and beats him up  
-`Belsarin` jumps to the roc, gets them to turn around  
+``Belsaran`` steps over to fight the large hobgoblin, trips him back down and beats him up  
+`Belsaran` jumps to the roc, gets them to turn around  
 `Pylia` talks down fire giant  
 `Faleor` leaves `Pawtrick` to protect and chases down other hobgoblins  
 

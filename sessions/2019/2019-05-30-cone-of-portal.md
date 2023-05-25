@@ -6,7 +6,7 @@ one humanoid shape cased like frogs
 shoot arrows with light and they investigate and then stop  
 seem not intelligent  
 distract and get into hallway  
-`Belsarin` loses power grabbing magic blanket  
+`Belsaran` loses power grabbing magic blanket  
 lure small into hallway, kill with crit  
 lure in medium and kill  
 lure large and gets in fight with other medium  
@@ -28,7 +28,7 @@ think this is a portal
 group of men on far side frozen reaching towards the sphere  
 make new stand with stone shape, align one cone  
 shrinks from marble to bird shot size but stabilizes  
-`Belsarin` feels portal interact with it, but not sure what will happen if touches  
+`Belsaran` feels portal interact with it, but not sure what will happen if touches  
 touches portal with 10 foot pole, feel resistance, but then doesn't want to come out, pole is frozen, degraded  
 tries to hit with pole, snaps off, now 9 foot pole  
 move cone and now even smaller, size of bb  
@@ -51,7 +51,7 @@ unfinished has people assembling equipment
 all priest quarters, nicer than monk quarters, but not as many  
 some have private altars  
 find vials of _holy water_ and _powdered silver_  
-`Belsarin`'s hand tingles as approach altar  
+`Belsaran`'s hand tingles as approach altar  
 lines connect to altar from other room  
 hand on altar, struck by insight about self and temple  
 all other altars didn't align to him, this one does Lawful Neutral  

@@ -1,6 +1,6 @@
 # October 17, 2019 - The Whole Truth
 
-`Pylia` loads some spells into `Belsarin`'s ring  
+`Pylia` loads some spells into `Belsaran`'s ring  
 
 `Pylia` takes `Z` out to desert to train on fetch  
 `Z` decides to play hide and seek instead  
@@ -29,24 +29,24 @@ she turns `Gronk` to cross our path, sees tracks in one direction
 Grab gear and `Pawtrick` to head out  
 horses don't like `Pawtrick`, handle them to keep them calm  
 `Pawtrick` will keep his distance for the most part  
-`Belsarin`'s horse gets tired from being more scared of `Pawtrick`, swap horse  
-other horse is more calm for `Belsarin`  
+`Belsaran`'s horse gets tired from being more scared of `Pawtrick`, swap horse  
+other horse is more calm for `Belsaran`  
 mine grows tired, swap  
 end up in a boggy area, strains horses, swap back  
 arrive just before nightfall  
 find one track with sleeping bag on top, not sure if would get it  
 find two tracks overlapping  
-right one is `Belsarin`  
+right one is `Belsaran`  
 use **residual tracking**  
 left one is male Duergar, long gray beard, gray skin, lamear armor, wicked looking ur'grosh (axe)  
 brush away sleeping bag and other print is him as well  
 now nighttime, decide to camp here   
-`Belsarin` hears something coming from the south  
+`Belsaran` hears something coming from the south  
 `Pawtrick` wakes up and they wake `Faleor`  
 hear `Pylia` make the gronk sound  
 `Gronk` excited to see us all, `Pylia` fills us in on `Gronk`'s mate  
 go off to find the horse, find one, rain is beginning to pick back up  
-leave `Belsarin` with nervous horse, find two huddling together  
+leave `Belsaran` with nervous horse, find two huddling together  
 `Pylia` finds the last one  
 back to camp and all the animals are sleeping  
 dawn and starting to let up  
@@ -59,7 +59,7 @@ thanks her for the berries
 `Gronk` takes `Pylia` back to "her nest"  
 back about 4:30  
 
-`Faleor` and `Belsarin` head back to the city  
+`Faleor` and `Belsaran` head back to the city  
 back by mid afternoon  
 take a short rest to wait for `Pylia` to get back before talking to `Guros`  
 
@@ -120,7 +120,7 @@ asks us to lay low for several days
 
 Head towards avenue of silk market, hear screams  
 looting bordellos, knives at women's throat, including `Madame Ruby` and 3 of prettiest girls  
-in the front is leader of `Belsarin`'s old gang  
+in the front is leader of `Belsaran`'s old gang  
 about 15 guys behind looting places  
 
 [back to table of contents](/sessions/README.md)

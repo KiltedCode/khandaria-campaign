@@ -2,16 +2,16 @@
 
 High threat construct  
 rest to reset spell choices  
-pre-buff a lot (**iron beard** on `Belsarin` and `Pawtrick`, **gravity bow**, **aspect of the falcon**, **true strike**)  
+pre-buff a lot (**iron beard** on `Belsaran` and `Pawtrick`, **gravity bow**, **aspect of the falcon**, **true strike**)  
 Gives his speech with his bad attitude  
 
 > "I think I'll kill your dog first. That will make you sad."  
 
 can slam shield into ground and magnetized  
 charges and sunders Ohm bow, broken with 2 hp left  
-keeps slamming shield to block attacks and two handed strikes toe-to-toe with `Belsarin`  
-`Belsarin` full rounds him and looking pretty bad  
-`Belsarin` finishes him off and rips out piece of center  
+keeps slamming shield to block attacks and two handed strikes toe-to-toe with `Belsaran`  
+`Belsaran` full rounds him and looking pretty bad  
+`Belsaran` finishes him off and rips out piece of center  
 bag plops down, full of diamonds and other gems (>10,000 gp)  
 
 next challenge has blizzard and 200 foot cliff  

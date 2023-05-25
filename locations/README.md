@@ -12,7 +12,7 @@ The realm of Khandaria is vast. It spans from the Altai mountains in the north, 
 
 ### Pelachin
 
-Pelachin is a large village not far from the border of Khandaria and the elven kingdom of Lareven to the east. The town is on dryish land with a split of half farming and half lumbering. Even more important, this village was the home of a young Belsarin, Pylia, and Rin.  
+Pelachin is a large village not far from the border of Khandaria and the elven kingdom of Lareven to the east. The town is on dryish land with a split of half farming and half lumbering. Even more important, this village was the home of a young Belsaran, Pylia, and Rin.  
 
 [Hometown Heroes](pelachin.md)
 

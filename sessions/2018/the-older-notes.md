@@ -118,7 +118,7 @@ Painted grey / rock like, leather circlets on head, gauntlet on right had with r
 Say black feather tribe is weak, they raid them  
 Want to trade with us (gems to trade)  
 Arrow skipped off but drew small amount of mud  
-`Belsarin` friendly fight big guy, ended up about to rage (barbarian) before small guy stepped in to stop fight  
+`Belsaran` friendly fight big guy, ended up about to rage (barbarian) before small guy stepped in to stop fight  
 Really excited by offer of glass jars  
 deal of 1 field, 1 orchard, and 50 glass jars for help with Black feathers. when attacked they'll raid tribe and let them know so  they retreat  
 we have smoky signal bonfire, `Pylia` tried to contact but left note   

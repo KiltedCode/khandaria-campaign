@@ -3,7 +3,7 @@
 `Pylia` becomes a large tree  
 guard raises a whistle but doesn't blow  
 prisoners cringed knowing what it will do  
-guy next to `Belsarin` rummages for a rock chip, and palms it  
+guy next to `Belsaran` rummages for a rock chip, and palms it  
 dwarf fell onto his pouch and there is a small hole  
 gray green dust falling onto the floor  
 a little mound forming under bag  
@@ -26,21 +26,21 @@ It's go time
 mist obscures dwarf watching and leader say "yes now"  
 head to wall, hear no whistles  
 get the _pickaxes_  
-`Faleor motions` to strike chains until `Belsarin`'s group has pickaxes  
+`Faleor motions` to strike chains until `Belsaran`'s group has pickaxes  
 move into the fog  
 find two prisoners on a duergar trying to blow whistle  
 `Faleor accidentally` hits a prisoner  
 another group gets to `Pylia` and hits one of them  
-`Belsarin`'s group starts breaking their chains  
+`Belsaran`'s group starts breaking their chains  
 `Pylia` gets knocked out  
 `Faleor` and guy with him kill Duergar  
-`Belsarin` breaks chains and **dimension doors** to `Pylia`, but duergar see him  
-they stand up, `Belsarin` grabs all their whistles  
+`Belsaran` breaks chains and **dimension doors** to `Pylia`, but duergar see him  
+they stand up, `Belsaran` grabs all their whistles  
 `Faleor` finds another guard being held down and attacks  
 Duergar yell out in undercommon  
-`Belsarin` is joined by his chain gang in the fight as he trips a bunch of them  
+`Belsaran` is joined by his chain gang in the fight as he trips a bunch of them  
 takes one down, one runs for help, but into `Faleor`'s group  
-one surrenders to `Belsarin` and gives him his belt after drinking potion  
+one surrenders to `Belsaran` and gives him his belt after drinking potion  
 rest of prisoners rush in tackle rest, work on breaking chains  
 _potion of healing_, another potion, gray green dust  
 

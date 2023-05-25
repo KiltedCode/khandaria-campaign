@@ -7,14 +7,14 @@ Receive reply from `Endirin`
 
 Head up Stormpeak pass  
 had to help horse up path  
-`Belsarin` had to carry pony practically  
+`Belsaran` had to carry pony practically  
 lake by pass has wooly rhinos  
 lake is bigger than map looked like  
 
 Hear rumble from behind us: flash flood  
 `Faleor` quickly mount and ride, fast start  
 `Pylia` shapes rock to create ledge for herself and two horses  
-`Belsarin` climbs pillar, lasso `Pawtrick` and pull up with a little damage  
+`Belsaran` climbs pillar, lasso `Pawtrick` and pull up with a little damage  
 `Faleor` rides further, but have troubles with horse  
 get around corner, horse gets caught in current, `Faleor` cant hold it back and lets it go  
 one horse and `Z` in and out of mud, `Pylia` gets caught at first but pops out  

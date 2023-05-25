@@ -6,10 +6,10 @@ We're going to go out and scout for ambush locations
 going to take a cleric and a couple archers with us  
 
 Get to tree line and two boulders come flying at us  
-`Belsarin` hit, I dodge for half damage  
+`Belsaran` hit, I dodge for half damage  
 `Pylia` bluffs she's a prisoner  
 **hold person** on both  
-Little one takes a lot of damage, then `Belsarin` trips and stomps on head  
+Little one takes a lot of damage, then `Belsaran` trips and stomps on head  
 Big one breaks out of **hold person**, then gets entangled  
 Slowly took down the big one  
 

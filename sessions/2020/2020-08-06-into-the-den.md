@@ -16,7 +16,7 @@ adventurers guild will only pay for one **scrying** per day
 going to do today and skip tomorrow  
 want to let her know she's not alone  
 `Faleor` learned his lesson, etches on his bow  
-`Belsarin` mediates  
+`Belsaran` mediates  
 `Maestro` casts **major image** this time, learned it in a day  
 immediately see not a unique place  
 featureless cave, campfire with bunch of duergar, sleeping, couple keeping watch at ends  
@@ -33,7 +33,7 @@ looks like actually already post dinner leftovers
 he can cast it for 10 hours for a casting  
 can tell he's seeing dollar signs  
 
-`Belsarin` tests on some scrap iron and steel  
+`Belsaran` tests on some scrap iron and steel  
 eats right through both  
 
 `Faleor` starts making some whiskey  
@@ -85,8 +85,8 @@ don't appear trapped, but one on south wall seems made to help hide door
 wood inlay floor and ceiling  
 saw some sort of motion out of corner of eye  
 flicker of magic and fades from ceiling  
-`Belsarin` sees a slot larger than the others  
-`Belsarin` feels for a latch, no latch but good grip  
+`Belsaran` sees a slot larger than the others  
+`Belsaran` feels for a latch, no latch but good grip  
 doesn't slide, rotate, push  
 note to come back here  
 
@@ -103,7 +103,7 @@ does not seem anything out of place for dogs, clearly they were not well cared f
 mosaic at end of the hall, same as fancy ceiling was  
 really nice bedroom off hall, four post bed, nice dressers, table  
 find chest that was clearly heavily trapped, clearly shocked / burned someone  
-`Belsarin` opens drawer and sets off trap of gas, coughing, con damage  
+`Belsaran` opens drawer and sets off trap of gas, coughing, con damage  
 mattress has been ripped open  
 clear the room for dust to settle  
 find a gap in the fancy wall at end of all  

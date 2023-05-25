@@ -86,22 +86,22 @@ Loot:
     - (3x alchemist first, 6x unholy water, 6x tanglefoot bags, 6x smog pellets)
 
 Kurfufle over the unholy water  
-`Pylia` wants to dispose of properly but didn't `Belsarin` to hold onto it, asked `Faleor` too  
-`Belsarin` takes offense  
+`Pylia` wants to dispose of properly but didn't `Belsaran` to hold onto it, asked `Faleor` too  
+`Belsaran` takes offense  
 Goes to put hers into the ground  
 `Faleor` at this points put his away for now  
 
 `Katla` tells `Pylia` she'll bless water in the morning  
 `Katla` seems more happy with `Pylia` after gives her water  
-`Pylia` apologies to `Belsarin`  
+`Pylia` apologies to `Belsaran`  
 theorizes if hand could use water to make portal  
 `Pylia` goes to get water back  
-`Katla` doesn't want to, `Pylia` brings her to talk to `Belsarin`  
+`Katla` doesn't want to, `Pylia` brings her to talk to `Belsaran`  
 asks if he'd use it on angels, and if vow  
 
 `Katla` talks to other group and they set up camp away a little  
-she seems very ticked at `Belsarin` and `Pylia` some  
-we set up watch (`Pylia`, `Belsarin`, `Faleor`)  
+she seems very ticked at `Belsaran` and `Pylia` some  
+we set up watch (`Pylia`, `Belsaran`, `Faleor`)  
 nothing out of ordinary  
 
 Next morning  
@@ -124,7 +124,7 @@ what if they're trying to mend it
 
 `Pylia` casts **augury** on draining unholy water, no answer  
 
-`Belsarin` decides to try portal from water  
+`Belsaran` decides to try portal from water  
 pour vial and concentrates, feels tingle  
 trying to pull energy, feels like could be healing potion  
 tries unholy water, feels tingle  
@@ -147,7 +147,7 @@ why would rebuilding help?
 could connect to meadow  
 maybe move food to there then teleport down  
 
-`Belsarin` can use holy and unholy water a cure light wounds  
+`Belsaran` can use holy and unholy water a cure light wounds  
 down 3 ki points  
 
 [back to table of contents](/sessions/README.md)

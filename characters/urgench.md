@@ -25,14 +25,14 @@ current Khan, son of `Magnus`
 has feelings for `Pylia`, trusts the party  
 
 `Jin`  
-former master of the guard, injured greatly in dropping of the Watcher, rescued by `Belsarin` and the party in the rubble  
-trained `Belsarin` to be a monk  
+former master of the guard, injured greatly in dropping of the Watcher, rescued by `Belsaran` and the party in the rubble  
+trained `Belsaran` to be a monk  
 
 `Pellum`  
 lieutenant in palace guard, guard who brought us to recover `Jin`  
 
 `Igmar`  
-inquisitor of the city, questioned `Belsarin` in the past, questioned `Korin` after incident with `Craddock`'s gang  
+inquisitor of the city, questioned `Belsaran` in the past, questioned `Korin` after incident with `Craddock`'s gang  
 
 `Ronald`  
 `Ingmar`'s assistant, draws  
@@ -90,7 +90,7 @@ One of `Madame Ruby`'s girls, returned scarf to her
 
 ~~`Craddock`~~ 💀  
 gang leader, defeated by party when raiding bordellos  
-formerly in gang with `Belsarin` in younger days  
+formerly in gang with `Belsaran` in younger days  
 
 `Lonny` 🔒  
 gang member, seemed second in command but not fully trusted by `Craddock` because didn't take assassination job, more in charge of raids, in custody  

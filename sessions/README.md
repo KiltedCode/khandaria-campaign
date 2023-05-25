@@ -244,7 +244,7 @@ The heroes continue their covert tracking, with `Guros` by their side.
 [September 12, 2019 - CSI Watcher](2019/2019-09-12-csi-watcher.md)  
 The heroes have been given new insight into the Watcher, as well as asked for help on a dwarven plan. What will they decide to do next? 
 
-[September 5, 2019 - Fetch Belsarin](2019/2019-09-05-fetch-belsarin.md)  
+[September 5, 2019 - Fetch Belsaran](2019/2019-09-05-fetch-Belsaran.md)  
 The Watcher has fallen and the `Khan` is dead. Where do the heroes start, to uncover what really happened?  
 
 ### Wild Trek 2: The Path of Khan
