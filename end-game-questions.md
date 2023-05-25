@@ -14,10 +14,12 @@ Below are questions that have come up during the course of the campaign. These a
 1. Can we save Serda (or someone) from duergar?
 1. When meeting with Magnus in meadow, one of "proposed" things we could do was to go to Qubla for information. How would that have played out?
 1. What is the trap outside Buildhame?
+1. Is there connection between the silver raven figurine from `Craddock`'s loot with command word of _agna_, and `Agna` the fighter, works with `Serda` who got captured?
+
 
 ## Random Thoughts
 
 Times felt ready to die / might die:
 - Battle of Khanhold
 - Stealth mission to get image over circle
-- Charging Qubla army on plains
+- Charging Qublan army on plains
