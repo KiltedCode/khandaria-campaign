@@ -40,6 +40,10 @@ Warehouse - north of the Merchant's District along the east wall, mostly warehou
 [![map of Ur'gench](/assets/map-urgench.webp)](/assets/map-urgench.webp)  
 _A map of the city of Ur'gench_  
 
+Map abbreviations:
+- ASM: Avenue of the Silk Market
+- XR: Crossroads
+- SW: Swill centers
 
 ## Technology of Magic
 
