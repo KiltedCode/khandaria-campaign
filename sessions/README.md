@@ -6,7 +6,7 @@ The notes are named as `yyyy-mm-dd-session-name.md`. The session name is meant t
 
 ## The Adventures
 
-_(in chronologicial order)_  
+_(in chronological order)_  
 
 ### Wild Trek: The Motion Pyramid
 
@@ -32,12 +32,21 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 
 The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?  
 
+### The Final Countdown
+
+The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
+
 ---
 
 # Session Notes
 
+_(reverse chronological order)_  
 
 ## 2023
+
+### The Final Countdown
+
+The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
 [May 24, 2023 - Easy Bake Mountain Oven](2023/2023-05-24-easy-bake-mountain-oven.md)  
 We rejoin our main party in Buildhame, where they have blown the teleportation circle, dealing a huge blow to the army. What comes next? Fight? Return to Ur'gench?
