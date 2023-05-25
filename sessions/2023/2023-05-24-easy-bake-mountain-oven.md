@@ -78,10 +78,10 @@ comes back as goes to door
 
 `Mel` is curious about the "old wound"  
 meta flashback  
-> started with magic storm with elementals that happens occassionally in midsummer in Ur'gench  
+> started with magic storm with elementals that happens occasionally in midsummer in Ur'gench  
 > if they touch you, both take damage, kept coming back  
 > `Belsaran` latched down on one with hand until destroyed one 
-> then when touched evil altar in castle, activated and sucked energy destorying altar  
+> then when touched evil altar in castle, activated and sucked energy destroying altar  
 
 `Belsaran` wants to leave out details of able to suck power from altars  
 but because `Mel` spins such good tale ends up telling more than want to  
