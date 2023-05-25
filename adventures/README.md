@@ -29,3 +29,10 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 ### The Battle on the Plains
 
 The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?  
+
+### The Final Countdown  
+
+The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
+
+Will things ever be the same again?  
+[It's the final countdown!](the-final-countdown.md)  
