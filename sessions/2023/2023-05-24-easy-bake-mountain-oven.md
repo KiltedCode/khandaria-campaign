@@ -10,6 +10,7 @@ but not like trying to knock down
 but both shifted  
 `Faleor` touches `Belsaran` and says "I hope this is our lucky day" and casts **lucky number** 13  
 feel getting hotter, metal getting red  
+`Faleor` draws out statue of `Pawtrick` and releases him  
 `Pylia` casts water, immediately steam, other mages like the idea and do the same  
 `Belsaran` with smithy knowledge knows will lose shape soon because heat is too much  
 mage starts using **ray of frost** and `Belsaran` realizes that will weaken it with that drastic of a temperature change  
@@ -22,7 +23,7 @@ guards on back entrance, tunnel to explosion collapsed
 10 minutes and just hot  
 realize they likely fused door shut on outside  
 
-army to get to city in 2-3 days  
+army could get to city in 2-3 days  
 
 around noon  
 after another 45 minutes they stand down  
@@ -35,15 +36,16 @@ contact `Grumin Stonefist` as soon as come back in, he can cast lock after if sp
 he's on board and has it prepared because he was prepped in case enemies tried it  
 don't want to go straight up, up and out, start at door 
 debating how long to wait before doing  
-`Mel` can cast **invisibility**, has a _spyglass_  
-`Faleor` can cast **hide from animals**  
+`Mel` casts **invisibility**, gives a _spyglass_  
+`Faleor` casts **hide from animals**  
 `Grumin` ready with **dimensional anchor**  
 `Belsaran` goes 1000' up and out (800' total)  
 army already on the way  
 giants going, spider riders going   
 rocs still flying around  
 `Prince of Fire` and mage about 400' out  
-casting a large circular spell over whole area, in and out of pit, up and down mountainside    
+casting a large circular spell over whole area, in and out of pit, up and down mountainside 
+100' diameter, right up to the door     
 almost complete, wouldn't be able to come out without touching  
 in center is large wooden crate, 7' cube  
 not like creature boxes, very solid looking box, darkwood, pattern on top, circular purple flame, completing as he does spell  
@@ -64,10 +66,10 @@ nothing, no box, no purple flames, no mage
 `Prince of Fire` very far away  
 
 might be worth leaving for now, come back if we survive or good luck  
-`Ukulda` distrubed but does not think it should just be left  
+`Ukulda` disturbed but does not think it should just be left  
 think need to perform a counter ritual, high level dispel 
 would need the council  
-**detect magic** doesn't see it  
+`Pylia` tries **detect magic** doesn't see it  
 should be there and should be aura from the teleportation circle as well because strong magic 
 not sure of how could do that  
 `Belsaran` notices itch in his palm  
