@@ -132,7 +132,7 @@ probably plan to leave in morning
 stopped working, but only like 10% left like an hour to do it  
 give word to dwarves who are packing explosives about this  
 `Faleor` goes running around: cant find level 3 pearl of power, or napsack scroll  
-do find scroll of keep watch so can watch through the night  
+do find scroll of **keep watch** so can watch through the night  
 about 4 in the morning `Pylia` loses the spell  
 goes and sees the explosives  
 prays and gets spells at about hour and half because started too early  
