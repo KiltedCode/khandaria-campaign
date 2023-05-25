@@ -1,11 +1,58 @@
 # December 19, 2019 - Loot the Day
 
 Looking through `Craddock`'s loot  
+
+`Craddock`
+- +3 studded leather - `Faleor`
+- Rapier of Puncturing - `Faleor` if we can get rid of evil
+- 3x alchemist's fire - `Pylia` + `Belsaran`
+- belt of incredible dexterity +2 - `Pylia`
+- boots of elvenkind - `Faleor`
+- ring of protection +1
+- universal solvent
+- cloak of resistance +1
+- potion of cure serious wounds - `Belsaran`
+
+`Lonny`
+- quickened fleet boots (modified, swift action to activate) - `Belsaran`
+- +2 padded armor
+- +2 short sword of Cunning
+- silver raven figurine of wondrous power `Faleor`
+- potion of cure serious wounds `Belsaran`
+
+`Korin`
+- +2 mace 
+- +2 breastplate
+- scroll of lesser restoration - `Pylia`
+- potion of protection from evil
+- wand of cure light wounds - `Faleor`
+- Scroll of Animate Undead 
+
+`Oaf`  
+- +2 breastplate
+- +2 longsword
+- +1 heavy mace 
+
+Other
+- +1 rapier - dead mage
+- wand of mage armor - mage
+- +2 Bow - Dropped by archer `Faleor`
+- 3x +1 Bow - archers
+- 14x Human Bane arrows `Faleor`
+- 6x +1 leather - Everybody
+- 346 gp, random denominations - Everybody
+- 3 jeweled brooches, misc., about 50gp each - Thugs
+- 1 diamond hairpin, 60gp - Thug
+- gold-embroidered scarf, 40gp - Thug
+- 2 jeweled necklaces, 80gp and 120gp - Thugs
+
+misc. thief equipment (lots) - oil, hooded lanterns, silk rope, masterwork thieves' tools - Everybody
+
 _Rapier of Puncturing_: may not be the same sword, but was one like it in `Ren`'s castle  
 swap out `Faleor`'s armor for _+3 studded leather armor_  
 what is missing is their treasure they would have if they were leaving town like the said  
 some of the pieces probably belong to girls (diamond hair pin, broaches)  
-_raven figure_: know generally become an animal for a short while, command word: Agna  
+_raven figure_: know generally become an animal for a short while, command word: _Agna_  
 liquidate weapons and gear  
 appraise value, haggle them up on price + heroes of city == 120% of value  
 
