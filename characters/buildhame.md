@@ -33,7 +33,7 @@ absent, in Ur'gench
 
 ## Other  
 
-`Sigmond Fillkiller`  
+`Sigmond Foekiller`  
 in charge of dig under teleportation circle  
 
 `Kereil`  
