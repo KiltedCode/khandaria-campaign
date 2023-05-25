@@ -21,7 +21,7 @@ Her father was discovered to be an Orc Chieftan, who had attacked the town that 
 
 Half-elf Ranger (7) / Sacred Huntsmaster Inquisitor of Erastil (3)  
 
-![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor.webp)
+![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp)
 
 Faleor is pretty tall, around 6’3”. He’s not a rail, more on the lean side. Given he’s a ranger, he's always about the mountains and forest hiking, building survival things, etc, so he has some muscle but it's more toned than bulk. Red hair, sort of shoulder length. More Aragorn than Legolas. He usually has it just down or pulled back if necessary. Never in a man bun. Fair skin and face, you can see more of his elf heritage there. No facial hair. His ears are quite pointy, showing the elf heritage again. They generally show, even when his hair is down. He makes no effort to hide them.  
 
