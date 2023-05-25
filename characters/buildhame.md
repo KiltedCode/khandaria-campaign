@@ -5,7 +5,7 @@ The city of Buildhame is a dwarven settlement in the mountains north of Ur'gench
 ## Leaders  
 
 `Megith Stonefist`  
-matriarch clan head, against attack, hates `Faleor`  
+matriarch clan head, against attack, hates `Faleor`, predjudice against elves  
 
 `Hargida Mountainroot`  
 matriarch clan head  
@@ -18,6 +18,7 @@ trader-prince, male
 
 `Ungrum Barrelbrew`  
 high chief, brewmaster, male  
+like party, enjoyed `Faleor` having holy whiskey    
 
 `Grumin Stonefist`  
 high priest of Erastil, male  
