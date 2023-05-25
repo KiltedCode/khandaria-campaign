@@ -39,6 +39,9 @@ The Qublan army is on the move, slowly approaching the city. Can a new group of 
 
 ## 2023
 
+[May 24, 2023 - Easy Bake Mountain Oven](2023/2023-05-24-easy-back-mountain-oven.md)  
+We rejoin our main party in Buildhame, where they have blown the teleporation circle, dealing a huge blow to the army. What will they do next?
+
 ### The Battle on the Plains
 
 The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?
