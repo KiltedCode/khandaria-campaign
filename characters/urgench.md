@@ -114,7 +114,7 @@ university friend in city, buys weird things, artificer
 noble (elf) who organized dead road expedition, that success helped raise his clout, went from minor to major noble, fussy and pedantic  
 
 `Cervexys`  
-mage, can make amulet for animal to go into like Magnus had, gave list of spell components  
+mage, can make amulet for animal to go into like `Magnus` had, gave list of spell components  
 
 `Zodan`  
 mage, helped make air bubble spell with Rin  
