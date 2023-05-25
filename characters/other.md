@@ -32,7 +32,8 @@ stays at the Portal Inn, has a shop also in the Portal Inn
 helped scry to catch spy who had his stolen magic items  
 
 `Legdas`  
-mouthy half elf bard prisoner, helped scry  
+mouthy half elf bard prisoner, scrys with major image so all can see  
+has upscale garden apartment in Avenue of the Silk Merchants  
 
 `Serda`  
 tall, blond female mage, marked as dead, party believes she is one of captured  
