@@ -40,7 +40,7 @@ Learn more about his history and meeting `Pawtrick` through [Faleor's backstory]
 
 Wolf animal companion (8) of Faleor, size large  
 
-![Pawtrick Steward, dire wolf](/assets/pawtrick.webp)
+![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp)
 
 Formerly known as `Wolf Dog` until with a speak with animals `Faleor` learned he prefers to go by `Pawtrick Stewart`. He has grown to large size. He is currently about 8' long and weighs about 650 lbs. His fur is largely shades of gray with some white mixed in. He has magic fang cast with permanency. He recently acquired a dire collar, allowing him to grow via the animal growth spell. This will yield a `Pawtrick` twice his size and eight times his weight.
 
