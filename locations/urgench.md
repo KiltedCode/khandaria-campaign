@@ -45,6 +45,9 @@ Map abbreviations:
 - XR: Crossroads
 - SW: Swill centers
 
+Specific Places:
+- Edwin's BBQ: just ok BBQ joint recommended to `Qa'dat` by `Leonard` the city guard
+
 ## Technology of Magic
 
 One of the main reasons Ur'guench is such an advanced city is its clever use of persistent magic.  There are paid clerics and mages on the city payroll and they're paid to turn out low-level magic items and effects on a consistent basis.  While high-level magic-users are very rare, the number of smart things that can be done with low-level magic is surprising.  
