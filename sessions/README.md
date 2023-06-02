@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[June 1, 2023 - I Lava You](2023/2023-06-01-i-lava-you.md)  
+The heroes plan to help attempt disarm the trap outside of Buildhame with the council. But what does the trap hold within?  
+
 [May 24, 2023 - Easy Bake Mountain Oven](2023/2023-05-24-easy-bake-mountain-oven.md)  
 We rejoin our main party in Buildhame, where they have blown the teleportation circle, dealing a huge blow to the army. What comes next? Fight? Return to Ur'gench?
 

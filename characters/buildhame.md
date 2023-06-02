@@ -15,6 +15,7 @@ trader-prince, male, traveled with adventurers the first time the teleported to 
 
 `Kotheg Ironshaper`  
 trader-prince, male  
+carries himself like a retired rogue  
 
 `Ungrum Barrelbrew`  
 high chief, brewmaster, male  
