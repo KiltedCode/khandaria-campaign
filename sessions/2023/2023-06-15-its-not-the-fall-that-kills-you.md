@@ -1,4 +1,4 @@
-# June 15, 2023 - 
+# June 15, 2023 - It's Not the Fall that Kills You
 
 `Faleor` searches bodies in area while healing `Belsaran`  
 **detects magic** but most bodies burnt to cinder  
@@ -14,7 +14,7 @@ like elemental core magma or something
 in sphere it looked like it was but probably because it had cooled on outside  
 if had known would have planned differently  
 council drops to ground and puts ear down  
-`Brenag` casts **eagle eye**  
+`Brenog` casts **eagle eye**  
 10 giants coming in from the north  
 says stone giants  
 tell them we're friends, have shared meal  
@@ -148,9 +148,38 @@ thought wanted to stay out of it
 but maybe feeling embarassed that stone giants are fighting  
 `Mel` says hard to imagine 500 year old fued AND on of them being involved  
 `Faleor` says that with stone giants age it is easy to take it for granite  
+`Mel` thinks he went wrong talking to them with the song  
+`Faleor` suggests maybe percussive would work better  
 
+spot a roc in the distance  
+winging up the middle of valley towards Buildhame  
+know will see the giants soon  
+would be problematic if roc reports back to army to cause problem for stone giants  
+alter course to intercept  
+`Mel` jumps to tell others  
+`Valdrin` looks sour  
+2,000 ft away  
+`Pylia` suggests can **call lightning** to try and get their attention  
+`Mel` can cast **silent image** 800 ft away to try and attract attention  
+big bouncing yellow sun  
+roc changes course  
+heading towards the party  
+`Faleor` sees spyglass glint again  
+abruptly swerves away and back down the valley  
 
+`Pylia` gives her **hold animal** into the _ring of spell storing_  
+`Belsaran` going to double teleport to roc then try to **hold animal**  
+one hobgoblin sees and shouts  
+`Belsaran` does **hold animal** and it starts falling  
+slightly over 500ft up  
+`Faleor` hits with arrow  
+hobgoblins all panic  
+`Belsaran` jumps out and lets _ring of feather fall_ take over  
+roc makes its will save as it slams into the ground, 172 dmg  
 
-
+stone giants come walking up  
+"rocs watch. army report"  
+they nod and move on  
+`Faleor` throws a chunk of the roc to `Pawtrick`  
 
 [back to table of contents](/sessions/README.md)
