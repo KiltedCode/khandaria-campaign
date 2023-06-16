@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[June 15, 2023 - It's not the Fall that Kills You](2023/2023-06-15-its-not-the-fall-that-kills-you.md)  
+Having disarmed the trap (mostly) successfully, the time comes to return to Ur'gench, but the dwarves hear approaching large footsteps.  
+
 [June 1, 2023 - I Lava You](2023/2023-06-01-i-lava-you.md)  
 The heroes plan to help attempt disarm the trap outside of Buildhame with the council. But what does the trap hold within?  
 

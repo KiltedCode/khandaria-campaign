@@ -23,7 +23,7 @@ says they're enemies
 but giants live to 800  
 
 `Faleor` tells `Pawtrick` to be ready  
-calls upon `Erastil` to switch teemwork to Blood of the Empire  
+calls upon `Erastil` to switch teamwork to Blood of the Empire  
 see heads come over the ridge  
 see `North` and `Turf`  
 `North` holds up a hand  
@@ -52,15 +52,15 @@ same chatty look from other giants
 little one wants to pet  
 convince `Pawtrick` if make him big  
 youngest giant smiles, gives stony scritches
-elder contiplates for 30 seconds and nods at `Faleor`  
+elder contemplates for 30 seconds and nods at `Faleor`  
 walks towards council  
 `Faleor` comes with him  
 `Pawtrick` licks hand and comes with  
-"wow those taste weird`  
+"wow those taste weird"   
 
 `Grumin Stonefist` comes forward  
 "the council has agreed to formally propose a peace treaty"  
-"ridge boundry"  
+"ridge boundary"  
 nod  
 "no rock throwing"  
 reluctant nod  
@@ -104,7 +104,7 @@ they keep looking back and see clearly we are too close for them to speak
 pretty sure council can hear  
 council getting grimmer and grimmer  
 `Pylia` says hopefully any dwarves wont mess it up  
-sense embarassed  
+sense embarrassed  
 as go in `Ukulda` says in low tone "I think we need a council meeting"  
 all council heads towards chambers  
 `Faleor` with the guards  
@@ -181,5 +181,6 @@ stone giants come walking up
 "rocs watch. army report"  
 they nod and move on  
 `Faleor` throws a chunk of the roc to `Pawtrick`  
+stone giants move on  
 
 [back to table of contents](/sessions/README.md)
