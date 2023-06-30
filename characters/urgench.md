@@ -125,4 +125,9 @@ servant in the palace, put in charge of the party when staying at palace, fright
 `Amberdeen`  
 cleric of Sarenrae in charge of all sendings to defenses, has a pearl necklace with 4 pearls of power on it  
 
+`Enson`  
+came with the house that `Belsaran` and `Pylia` got from `Khan Magnus`  
+lives and cares for house when adventurers are gone  
+
+
 [back to characters](/characters/README.md#npcs)
