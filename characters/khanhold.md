@@ -48,4 +48,10 @@ likes to be treated with respect and fawned over as he believes an ambassador sh
 `Bat'tar`  
 member of the Stone Fist tribe, big tough guy  
 
+`Shag-nurab`  
+member of the Purple Men  
+was caught by Qublan army  
+brought knowledge to `Guros` about plans  
+
+
 [back to characters](/characters/README.md#npcs)  
