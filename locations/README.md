@@ -1,5 +1,8 @@
 # Locations of Khandaria  
 
+[![map of Khandaria with routes between cities](/assets/map-khandaria.webp)](/assets/map-khandaria.webp)  
+_The country of Khandaria, maps showing mountains, water ways, and major roadways between areas._  
+
 ## Ur'gench
 
 The glorious capital city of Khandaria is the hub of most of our party's adventures.  The bounds of mystery and adventure are endless, and the party learns more about the city with each passing day.  Learn the ins and outs of this amazing city.  
