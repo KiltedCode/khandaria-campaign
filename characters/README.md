@@ -51,19 +51,19 @@ Grass cat animal companion (5) of `Pylia`, size medium
 
 # The Second Party
 
-## Cedric
+## Cedric 🐲
 
 human summoner synthesist (10)  
 
 formerly in Ur'gench, sold everything and moved to Khanhold to start restaurant, had a black feather helper, came to city and fighting after village was overrun
 
-## Lucy  
+## Lucy 🐯 🐭  
 
 human shifter (10)  
 
 came long way to investigate an "imbalance"  
 
-## Qa'dat  
+## Qa'dat 🪨   
 
 human shaman (10) of stone fist tribe  
 
