@@ -1,5 +1,7 @@
 # Faleor's Backstory
 
+![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp)
+
 ## Family and early life
 
 `Faleor`'s parents are a human father and full elf mother, which is decidedly more rare for half-elves. `Faleor` doesn't know much about his mother other than her name: `Caraphimbes` (meaning red hair). His father doesn't talk much of her. `Faleor` assumes it is too tough, but wants to know more. He doesn't know if she just left, or if she is dead, or anything in between. 
@@ -14,6 +16,8 @@ He learned to shoot bow from his "cousin" `Vicben` who is a half elf as well. `F
 
 
 ## Meeting Pawtrick
+
+![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp)  
 
 As `Faleor`'s skills as a ranger grew, so did is connection to the animal world. While roaming the mountains of Khandaria, he felt drawn by a supernatural force. He followed that pull until he approached a small brook trickling down the mountain from the snow above. As he crossed he misjudged the stability of some of the rocks that started to roll, causing Faleor to fall into the water and down the slope about 50 feet. As he gathered himself, he saw a small but powerful wolf approach with a low growl. His knee was pretty hurt, so he couldn't immediately stand. As he reached his hand slowly towards his hatchet he keeps on his hip, but then felt that it wasn't needed. As they locked eyes both could feel a connection made. The wolf lowered his head, almost as in a nod, and approached `Faleor`, laying next to him to warm him from the cold of falling in the brook. `Faleor` pulled some meat from his pack to share, that the wolf was grateful for. He was able to wrap his knee enough to get around and build a fire to keep them warmer until he was ready to move on in a day or two. From that moment the two were joined by an unspoken and supernatural bond. `Faleor` stated by referring to him as `Wolf Dog`, but would later learn through **speak with animals** that he prefers the name `Pawtrick Stewart`.
 
