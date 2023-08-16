@@ -73,6 +73,8 @@ human shaman (10) of stone fist tribe
 
 `Qa'dat` has an armadillo familiar known as `Ra'tar`. He doesn't know the common word for "armadillo" so he calls it a "turtle rabbit" as the best translation he has (meta: this is what Aztec word for armadillo translates to). He is 2 feet 7 inches long, weighing only roughly 10 pounds. He enjoys eating insects, grubs, earthworms,  and termites. He is not picky so will eat mushrooms, fruits, seeds, and eggs as well.
 
+Learn more about his history and the tribe through [Qa'dat's backstory](/characters/qadat-notes/backstory.md).  
+
 # Former Party Members
 
 ## Gronk
