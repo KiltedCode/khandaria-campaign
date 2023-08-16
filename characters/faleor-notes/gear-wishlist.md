@@ -40,7 +40,7 @@ i.e. corrosive or frost or distance (220 ft distance for range increment)
 ## Skill
 
 [Lens of Detection](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Lens%20of%20Detection)  
-eye slot  
+eye slot, +5 Perception, +5 Survival for tracking    
 _3,500 gp_  
 
 [Ring of Sacred Mistletoe](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Sacred%20Mistletoe)  
