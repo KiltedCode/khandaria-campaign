@@ -30,6 +30,31 @@ What is left around is a hellscape, but the lava is not too deep. The walls effe
 
 Now that the trap is stopped, the party goes to look at what was done to the front door. It is apparent that the metal was heated until it was malleable, then reshaped to mold the two sides together. However, what is surpsising is _how_ it was molded together. There are large hand prints smearing the metal together! Thankfully is method is likely weak and can easily be broken to get the doors functioning again.
 
+In the aftermath, the party looks for anything salvageable. Under a rock they manage to find a scorched hand with a magical Ring of Protection +3. Afterwards `Ukulda Foekiller`, the high priest of Torag, apologies as it wasn't ordinary laval. With the heat and how it acted, it was more of the likes of elemental core magma, or something else. If they had known, they could have planned differently, but it likely cooled on the outer layers of the sphere, hiding what it truly was.
+
+As they discuss a council member drops to the ground and puts their ear to the ground. `Brenog` cases **eagle eye** and confirms what they suspected... giants are on their way. Ten stone giants from the north. The party tries to explain they are friends of the party but the dwarves insist they are enemies. `Belsaran` recollects tales of them fighting around 500 years ago. However giants can live to 800, so it is not the "distant past" to them. `Faleor` tells `Pawtrick` to be ready, just in case. The party sees `North` and `Turf` approach. `North` holds up a hand and they stop.
+
+The party looks for a dwarf to come with them to talk, and `Brenhog` gets "nominated". They walk part way, as does `North` who then sits. `Faleor` leads the conversation in brief words. He asks why they are here. `North` replies "a decision" and "we fight". The dwarves want to know if it is to fight them, but he replies "for Magnus". `Brenhog` says they have not gotten along in the past, which gets a raised eyebrow from `North` as if to say "no duh" but just stares. `Pylia` asks if this can change to which `North` continues to stare. `Brenhog` says they can agree to that but doesn't like the youth of giants squishing them with rocks. `North` replies simply with "peace". `Faleor` offers the direction they army went, and is lead to the elder giant in robes, clearly a magic user. His name is `Nurf` and asks "army where". `Faleor` replies, in jotun, "morning there" and points. `North` gestures at dwarves and says "peace treaty", getting a look of why so chatty from other giants. One of the little giant clearly looks like he wants to pet `Pawtrick`. `Faleor` is able to make a deal with `Pawtrick` to allow it, if he gets to be larger, so he activates the _dire collar_ to grow to huge size where he enjoes stoney scritches. As this goes on the elder conteplates and after about 30 seconds nods at `Faleor` and walks to the council with him. `Pawtrick` gives a parting lick and just thing "wow those taste weird".
+
+`Grumin Stonefist` comes forward and says  
+> "the council has agreed to formally propose a peace treaty".  
+> "ridge boundary"  
+> nod  
+> "no rock throwing"  
+> reluctant nod  
+> "herds north of ridge"  
+> nod  
+> "in return, right of passage and no mining in Stone Giant areas"  
+> nod  
+> very slow hand shake  
+
+`Nurf` is puzzled by the lava and the party tells him "trap from army". He taps the lava, breaks off a piece and tries a bite.  He looks at the council and ask "Trade?"  `Faleor` explains they want their "fresh crop" of lava. `Nurf` looks around and says "after", likely wanting it for a spice. The giants not goodbye and head into the valley, following the path of the army.
+
+As the dwarves appear to be discussing what they can get for the lava, `Belsaran` notices the council is fracturing into several different attitudes. Three seem to be excited and enthusiastic over concessions they can get from the Stone Giants while four appear to be discussed. The final two appear simply skeptical. The disgusted group starts back over the mountain to the rear entrance to Buildhame. `Belsaran` announces that it is time to head out for Ur'gench and the party is thanked for their help. When questioned if they are coming with, they work hard to control their faces in response. The party makes it clear they need to head to ensure the army fails in Ur'gench and the group simply thanks the party again.  
+
+The heroes see that the one group left arguing, so `Faleor` makes an excuse that he needs to say goodby to the high priest as an excuse to attempt to get closer and hear what is going on. All he catches is "Ukulda", the word for "giants" and she is distinctly upset in saying this. The group periodically look back, clearly seeing that the heroes are too close for them to speak freely without risking being overheard. The heroes wonder if they are upset over the peace with the giants. To combat this, `Pylia` speaks loudly, to ensure they "overhear" her saying that hopefully things will stay will and the giants keep the kids in tow but they say nothing in response, with `Belsaran` attempting to help. The council members say nothing but look grimmer and grimmer. `Pylia` also says that she hopes no dwarves will mess up the treaty, and senses some embarrassment from the group. As they all enter Buildhame, `Ukulda` says in low tone "I think we need a council meeting". All of the council heads towards the chamber. `Faleor` stops to chat up the guards, sharing some of his whiskey with the one that got scorched with some lava. He is impressed with the whiskey and `Faleor` expresses that he is working on his oen, and hopes it will come anywhere close to this dwarven masterpiece. The guard tells him to look him up when it is finished, and `Faleor` gives a goodbye in Qublan, as he has been learning from the other dwarves.
+
+As the collect their gear to travel onward, they heroes stop by the door, where work has begun. `Pylia` offers to help use **make whole** on the door but realizes it won't be helpful until they can first get it separated, and she doesn't have time to wait that long. `Sigmund` is there and thanks `Belsaran` again for saving him and all he has done for the dwarves as a whole. As the party goes to leave, the happen to travel by the council chambers. `Faleor` is able to overhear "the giants are fighting!" He asks the guard how long they may be in there. the guard says when it is that loud, they are usually in there for hours and he is there to protect their privacy. `Faleor` tells him he understands and asks the guard to tell `Grumin` that he says goodbye, as knows he cannot stop in to say it himself while they talk. As they walk, in the background `Mel` is seen busy at work composing the tale of `Belsaran` and the ring of fire.
 
 
 [back to the adventures](/adventures/)  
@@ -45,5 +70,8 @@ The heroes plan to help attempt disarm the trap outside of Buildhame with the co
 
 [June 15, 2023 - It's not the Fall that Kills You](2023/2023-06-15-its-not-the-fall-that-kills-you.md)  
 Having disarmed the trap (mostly) successfully, the time comes to return to Ur'gench, but the dwarves hear approaching large footsteps.  
+
+[June 29, 2023 - Return of the Pyl-eagle](2023/2023-06-29-return-of-the-pyleagle.md)  
+The party must complete their journey to Ur'gench to find out what `Guros` needs them so urgently for.  
 
 [back to the adventures](/adventures/)  
