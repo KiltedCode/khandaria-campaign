@@ -74,4 +74,7 @@ Having disarmed the trap (mostly) successfully, the time comes to return to Ur'g
 [June 29, 2023 - Return of the Pyl-eagle](2023/2023-06-29-return-of-the-pyleagle.md)  
 The party must complete their journey to Ur'gench to find out what `Guros` needs them so urgently for.  
 
+[August 17, 2023 - Planning McPlannerson](2023/2023-08-17-planning-mc-plannerson.md)  
+The party attempts to validate what `Shag-nurab` has told them and make a plan on how to determine if the Khan is the Khan... without getting thrown in jail.
+
 [back to the adventures](/adventures/)  

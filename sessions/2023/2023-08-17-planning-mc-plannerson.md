@@ -1,4 +1,4 @@
-# August 17, 2023 - ?
+# August 17, 2023 - Planning McPlannerson
 
 _Stag Helm_ has arrived, `Faleor` doesn't know yet  
 Free item looking around 10k, but limited options in armory  
