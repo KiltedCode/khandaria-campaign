@@ -213,5 +213,6 @@ head to Justice Hill for `Guros`
 `Jons` has been found murdered wearing a slave collar  
 looks like he was executed  
 `Shag-nurab` is nowhwere to be found or the artifact  
+tell `Guros` to see if `Shag-nurab` checked in later  
 
 [back to table of contents](/sessions/README.md)
