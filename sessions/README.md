@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[August 23, 2023 - Party Palace Time](2023/2023-08-23-party-palace-time.md)  
+The time has come to party... and attempt to determine if the Khan is the Khan or not the Khan, but can they Khan?    
+
 [August 17, 2023 - Planning McPlannerson](2023/2023-08-17-planning-mc-plannerson.md)  
 The party attempts to validate what `Shag-nurab` has told them and make a plan on how to determine if the Khan is the Khan... without getting thrown in jail.
 
