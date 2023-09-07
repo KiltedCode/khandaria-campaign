@@ -54,7 +54,25 @@ As the dwarves appear to be discussing what they can get for the lava, `Belsaran
 
 The heroes see that the one group left arguing, so `Faleor` makes an excuse that he needs to say goodby to the high priest as an excuse to attempt to get closer and hear what is going on. All he catches is "Ukulda", the word for "giants" and she is distinctly upset in saying this. The group periodically look back, clearly seeing that the heroes are too close for them to speak freely without risking being overheard. The heroes wonder if they are upset over the peace with the giants. To combat this, `Pylia` speaks loudly, to ensure they "overhear" her saying that hopefully things will stay will and the giants keep the kids in tow but they say nothing in response, with `Belsaran` attempting to help. The council members say nothing but look grimmer and grimmer. `Pylia` also says that she hopes no dwarves will mess up the treaty, and senses some embarrassment from the group. As they all enter Buildhame, `Ukulda` says in low tone "I think we need a council meeting". All of the council heads towards the chamber. `Faleor` stops to chat up the guards, sharing some of his whiskey with the one that got scorched with some lava. He is impressed with the whiskey and `Faleor` expresses that he is working on his oen, and hopes it will come anywhere close to this dwarven masterpiece. The guard tells him to look him up when it is finished, and `Faleor` gives a goodbye in Qublan, as he has been learning from the other dwarves.
 
-As the collect their gear to travel onward, they heroes stop by the door, where work has begun. `Pylia` offers to help use **make whole** on the door but realizes it won't be helpful until they can first get it separated, and she doesn't have time to wait that long. `Sigmund` is there and thanks `Belsaran` again for saving him and all he has done for the dwarves as a whole. As the party goes to leave, the happen to travel by the council chambers. `Faleor` is able to overhear "the giants are fighting!" He asks the guard how long they may be in there. the guard says when it is that loud, they are usually in there for hours and he is there to protect their privacy. `Faleor` tells him he understands and asks the guard to tell `Grumin` that he says goodbye, as knows he cannot stop in to say it himself while they talk. As they walk, in the background `Mel` is seen busy at work composing the tale of `Belsaran` and the ring of fire.
+As the collect their gear to travel onward, they heroes stop by the door, where work has begun. `Pylia` offers to help use **make whole** on the door but realizes it won't be helpful until they can first get it separated, and she doesn't have time to wait that long. `Sigmund` is there and thanks `Belsaran` again for saving him and all he has done for the dwarves as a whole. As the party goes to leave, the happen to travel by the council chambers. `Faleor` is able to overhear "the giants are fighting!" He asks the guard how long they may be in there. the guard says when it is that loud, they are usually in there for hours and he is there to protect their privacy. `Faleor` tells him he understands and asks the guard to tell `Grumin` that he says goodbye, as knows he cannot stop in to say it himself while they talk. As they walk, in the background `Mel` is seen busy at work composing the tale of "`Belsaran` and the Ring of Fire".
+
+As then depart, `Guros` appears in from of `Pylia` with a message  
+> eta of land army 3 days  
+> return to city now  
+> I need you for something  
+> any news of mountain army  
+> how are dwarves  
+
+She replies  
+> bad trap, disabled last of   
+> stone giants army trailing  
+> blew up exploded  
+> on our way
+> oh! news  
+
+Having forgotten her code word until the end, she exclaimed it, hoping he would understand. The party all readied for their modes of ariel transportation. `Faleor` helps `Pawtrick` be a little more manageable in size with his _wand of harmless form_, but also to make the _flying carpet_ a little less crowded. `Mel` decides to join them on the rug in order to get more "humorous background" on `Belsaran`, much to his chagrin. `Mel` is clearly looking to hit on all the uncomfortable marks of his past, to help him in his composition.
+
+It is early afternoon before they get fully on their way. For some added protection, `Pylia` and `Katla` cast **hide from animals** on all the party members. The plan is to stay higher in order to try and spot the army but stay along the ridge to be a little less obvious. The heroes hope to be able to note the direction of the army to `Guros` when they return to better prepare the city's defenses.
 
 
 [back to the adventures](/adventures/)  
