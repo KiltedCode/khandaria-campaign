@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[October 5, 2023 - Betrayal in Purple](2023/2023-10-05-betrayal-in-purple.md)  
+After the dismissal or suppression of divination magic and the discovery of a murder, there can be only one conclusion: betrayal!  
+
 [August 23, 2023 - Party Palace Time](2023/2023-08-23-party-palace-time.md)  
 The time has come to party... and attempt to determine if the Khan is the Khan or not the Khan, but can they Khan?    
 
