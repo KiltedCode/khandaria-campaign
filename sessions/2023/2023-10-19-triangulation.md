@@ -116,5 +116,8 @@ or at least not damaged
 
 want to try and look for signs of artifact if still here  
 
+try to report back  
+**sending** fizzles  
+evocation  
 
 [back to table of contents](/sessions/README.md)
