@@ -122,4 +122,7 @@ evocation
 
 all the stones are out from continuously  
 
+stole two souls, changed twice  
+switched school and added school
+
 [back to table of contents](/sessions/README.md)
