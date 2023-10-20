@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[October 19, 2023 - Fantasy Triangulation](2023/2023-10-19-fantasy-triangulation.md)  
+After the discover of an edge of the effect, the heroes plan to split up to find multiple edges in hope of finding the center and therefore the artifact.  
+
 [October 5, 2023 - Betrayal in Purple](2023/2023-10-05-betrayal-in-purple.md)  
 After the dismissal or suppression of divination magic and the discovery of a murder, there can be only one conclusion: betrayal!  
 

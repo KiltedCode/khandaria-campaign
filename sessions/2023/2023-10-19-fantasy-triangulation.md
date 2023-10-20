@@ -1,4 +1,4 @@
-# October 19, 2023 - Triangulation
+# October 19, 2023 - Fantasy Triangulation
 
 motion to rename Dead Road district after heroes for making it what it is and causing explosive growth  
 current front runner the Sand Dragon District  
@@ -121,7 +121,9 @@ try to report back
 evocation  
 
 all the stones are out from continuously  
+happened as left Justice Hill  
 
+interesting note:  
 stole two souls, changed twice  
 switched school and added school
 
