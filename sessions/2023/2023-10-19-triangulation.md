@@ -120,4 +120,6 @@ try to report back
 **sending** fizzles  
 evocation  
 
+all the stones are out from continuously  
+
 [back to table of contents](/sessions/README.md)
