@@ -82,3 +82,40 @@ _4,800 gp_
 
 [Belt of Giant Strength +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Giant%20Strength2)  
 _4,000 gp_  
+
+[Belt of Physical Might +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Physical%20Might2)  
+prefer STR + DEX  
+_10,000 gp_  
+
+[Belt of Thunderous Charging](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Thunderous%20Charging)  
+_10,000 gp_  
+
+
+## 10k Reward Item
+
+[Belt of Physical Might +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Physical%20Might2)  
+prefer STR + DEX  
+for `Pawtrick`  
+_10,000 gp_  
+
+[Belt of Thunderous Charging](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Thunderous%20Charging)  
+for `Pawtrick` 
+_10,000 gp_  
+
+[+3 Buckler](https://www.aonprd.com/Rules.aspx?Name=Magic%20Armor&Category=Magic%20Items)  
+Darkwood would be nice just cause fits the ranger motif   
+_9,000 gp_  
+
+[Dark Blue Rhomboid (Normal) Ioun Stone](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dark%20Blue%20Rhomboid)  
+grants alertness feat  
+_10,000 gp_  
+
+[Headband of Inspired Wisdom +4](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Inspired%20Wisdom4)  
+_8,000 gp_
+
+[Headband of Mental Prowess +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Mental%20Prowess2)  
+WIS + INT    
+_10,000 gp_
+
+[Cloak of Resistance +3](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Cloak%20of%20Resistance3)  
+_9,000 gp_  
