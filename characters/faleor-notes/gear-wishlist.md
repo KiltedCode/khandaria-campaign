@@ -110,6 +110,9 @@ _9,000 gp_
 grants alertness feat  
 _10,000 gp_  
 
+[Wand of Ironskin](https://www.aonprd.com/Rules.aspx?Name=Wands&Category=Magic%20Items)    
+_6,000 gp_  
+
 [Headband of Inspired Wisdom +4](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Inspired%20Wisdom4)  
 _8,000 gp_
 
