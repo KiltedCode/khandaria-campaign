@@ -1,4 +1,4 @@
-# December 7, 2023 - ?
+# December 7, 2023 - The Hunt for Purple October
 
 shut down evocation  
 so also divination  
@@ -96,7 +96,9 @@ maybe then feeding into artifact as spell component
 `Halber` comes in, one that picked up died so don't know if he did something to turn off  
 realize could be invisible without them being able to see and fly above then use it on them  
 realize we should ask the Khan about using as weapon versus take away  
-
-
+`Qa'dat` senses extreme embarassment from `Guros` over that should report to Khan and solely their decision  
+also clearly not enough sleep and struggling on decision making  
+`Pylia` touches his hand, says "good thing we had this brainstorming session to think of options for Khan" and gives **restoritive touch**  
+says that could come with to deliver to Khan  
 
 [back to table of contents](/sessions/README.md)
