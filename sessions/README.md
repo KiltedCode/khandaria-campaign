@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[December 7, 2023 - The Hunt for Purple October](2023/2023-12-07-the-hunt-for-purple-october.md)  
+The search for `Shag'nurab` continues, as magic continues to go out.  
+
 [October 19, 2023 - Fantasy Triangulation](2023/2023-10-19-fantasy-triangulation.md)  
 After the discover of an edge of the effect, the heroes plan to split up to find multiple edges in hope of finding the center and therefore the artifact.  
 
