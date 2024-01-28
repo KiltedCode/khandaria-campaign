@@ -1,4 +1,4 @@
-# January 18, 2024
+# January 18, 2024 - War Council
 
 Caught `Shag-nurab`, he shut down divination, conjuration, and evocation  
 Qublans arrive tomorrow  
@@ -106,8 +106,4 @@ end of council
 go to rest and sleep  
 wake up and heal  
 
-
-
-
-
-
+[back to table of contents](/sessions/README.md)
