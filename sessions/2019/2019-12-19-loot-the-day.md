@@ -72,7 +72,7 @@ Pick up _wand_ from mage for **harmless form**
 Head to temple to give the _scroll of animate undead_ and see if they can help with rapier  
 still a line of people waiting for funerals, but it's shorter  
 seems mostly because people know you won't get in  
-funeral up front with `Melvin` leading  
+funeral up front with `Melvyn` leading  
 `Rosnick` is observing  
 go into side to talk  
 he can consecrate it, need a blacksmith to heat it to semi-tempered  
@@ -82,21 +82,21 @@ keep at 650 degrees, within 20 degrees for spell to work
 keeping it will be difficult, long enough to cast **bless** twice  
 going to elect high priest  
 `Korin` was one of `Rosnick`'s advocate so has hurt him  
-they notified `Melvin` and then he told everyone  
-`Melvin` kicked him out two days ago  
+they notified `Melvyn` and then he told everyone  
+`Melvyn` kicked him out two days ago  
 Ask if there is anyway we could help in his support  
 `Korin` is not a restoration cleric, followed traditional route  
 one of more vocal non-restoration clerics  
 not sure if he is the insider or in eclipse at all  
-Offers if we want to come with him and `Melvin` to interrogate `Korin`  
-as pass through the chamber, `Melvin` is still at front and doesn't appear to seem like he's going to leave soon  
+Offers if we want to come with him and `Melvyn` to interrogate `Korin`  
+as pass through the chamber, `Melvyn` is still at front and doesn't appear to seem like he's going to leave soon  
 `Rosnick` doesn't seem to be going to remind him  
 
 Walk up to Justice Hill  
-head to `Guros`' office  
+head to `Gurrus`' office  
 he is shocked about the evil items we received  
 he's ok with us going in so long as we are controlled  
-`Guros` ask `Rosnick` if there was supposed to be a second and `Rosnick` says `Pylia` is representing  
+`Gurrus` ask `Rosnick` if there was supposed to be a second and `Rosnick` says `Pylia` is representing  
 leads across the plaza to the jail facility  
 meet `Ingmar`, the inquisitor who questioned `Belsaran` and one of her assistants `Ronald`  
 `Ronald` doesn't speak much, seems awkward at the attention he's getting  
@@ -145,7 +145,7 @@ doesn't think / know if they had anything to do with Duergar
 said after Duergar invaded they wouldn't be able to smuggle in any more  
 so thinks they may have used same tunnels as them  
 brings up about expulsion from church  
-calls `Melvin` an idiot, was trying to get him to adjust his ridiculous policies about funerals  
+calls `Melvyn` an idiot, was trying to get him to adjust his ridiculous policies about funerals  
 threw in comments about him wearing high priests robes, calls him a moron  
 got in a shouting match and he expelled him from the church  
 he shouldn't be able to do because not high priest, but technically can because he is a circle higher  
@@ -174,7 +174,7 @@ they might have a member of the town guard working for them
 some guy in a lieutenant uniform, fancier uniform  
 do you wish to talk about any more? will come up in trial, no  
 do you have any doubts about `Wernick`? gives a very un-convincing no  
-`Guros` asks for exact location of building in the bottoms  
+`Gurrus` asks for exact location of building in the bottoms  
 
 "In three weeks, the city will be rubble."  
 
@@ -189,7 +189,7 @@ as of now, `Soren` is not happy, but no edicts yet
 `Rupert` has been hired back for sewers  
 he had embezzled, but head died at coronation  
 
-`Guros` feels the rest of thieves guild have likely left the city with who's left  
+`Gurrus` feels the rest of thieves guild have likely left the city with who's left  
 interrogation of `Craddock` and `Lonny` is priority to get more information  
 
 [back to table of contents](/sessions/README.md)

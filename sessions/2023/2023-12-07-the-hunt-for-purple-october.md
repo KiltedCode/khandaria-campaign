@@ -14,11 +14,11 @@ dead person report filed
 standard procedure is to send clean up crew with wagon  
 
 `Pylia` tries to calm crowd trying to push through doors  
-eventually gets `Melvin` to appear who is being a douche  
+eventually gets `Melvyn` to appear who is being a douche  
 doesn't want to open doors  
 doors open and wall of clerics with `Rosnick` in center  
 **calm emotions** on the crowd  
-`Melvin` says grumpy words to `Rosnick`  
+`Melvyn` says grumpy words to `Rosnick`  
 then gives flowerly speech  
 `Pylia` gives `Rosnick` small details  
 `Faleor` gestures about soul stealing  
@@ -82,7 +82,7 @@ moving towards shifting to LG
 conflicts with true lawful currently  
 `Faleor` some walking intimidations to slow looting  
 getting on 11am as arrive  
-find `Guros` at his desk  
+find `Gurrus` at his desk  
 happy we have him and item  
 wants to destory  
 warn against, for sake of souls but also could be dangerous  
@@ -96,7 +96,7 @@ maybe then feeding into artifact as spell component
 `Halber` comes in, one that picked up died so don't know if he did something to turn off  
 realize could be invisible without them being able to see and fly above then use it on them  
 realize we should ask the Khan about using as weapon versus take away  
-`Qa'dat` senses extreme embarassment from `Guros` over that should report to Khan and solely their decision  
+`Qa'dat` senses extreme embarassment from `Gurrus` over that should report to Khan and solely their decision  
 also clearly not enough sleep and struggling on decision making  
 `Pylia` touches his hand, says "good thing we had this brainstorming session to think of options for Khan" and gives **restoritive touch**  
 says that could come with to deliver to Khan  

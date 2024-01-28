@@ -7,7 +7,7 @@ two panicked, one shaken
 find mace that seems to have cursed (hurting and cant let go)  
 finds an amulet with other hand  
 yells that he has it  
-`Halbir` yells stop fighting, defensive positions  
+`Halber` yells stop fighting, defensive positions  
 tells mage to cast spell  
 `Lucy` flies away from `Prince of Earth`  
 `Paladins` form up shield wall  
@@ -20,7 +20,7 @@ angry talk at `Prince of Air`
 `Prince of Air` talks to `Prince of Earth`  
 the paladin with mace is turning to stone  
 other grabs amulet and gets on `Cedric`'s back  
-`Cedric` flies to `Halbir`  
+`Cedric` flies to `Halber`  
 casts **mass invisibility** on all in `Paladin` group except `Lucy`  
 enemies converge but all miss  
 `Lucy` wants to warn guards about collars  

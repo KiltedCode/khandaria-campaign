@@ -1,6 +1,6 @@
 # March 3, 2022 - Planning Undead Parties
 
-going to help `Halbir`  
+going to help `Halber`  
 army with siege engines, protected from illusionary magic  
 likely artifact with high level undead or prince  
 going to try and take that out then use fake dragons to scare off things pulling engines  
@@ -13,7 +13,7 @@ dinos on left, undead in center, conscripts on the right
 have seen invisibility and illusions go away once close enough  
 don't think anti magic, but more like a projected true sight  
 
-`Guros` talks about a scrying war going on between armies  
+`Gurrus` talks about a scrying war going on between armies  
 a lot of protection on each side between **detect scrying** and **nondetection**  
 most occur at night when not moving, because takes an hour  
 **slyvan hideway** makes extra dimensional space, which would give bonus against scrying  
@@ -30,7 +30,7 @@ nothing recent
 so not show off big powers even on way  
 expectation is they will come down the rose road  
 
-word from `Guros`  
+word from `Gurrus`  
 army has reached Rose Road  
 weather spell is predicting snow  
 

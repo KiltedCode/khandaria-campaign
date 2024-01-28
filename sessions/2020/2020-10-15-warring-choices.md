@@ -8,9 +8,9 @@ replaced every year to help prevent bribes
 some died during coronation  
 
 **Scrying** happened at noon  
-`Guros` is going to report to the `Khan`  
+`Gurrus` is going to report to the `Khan`  
 Wants us to meet him in office at 3pm  
-`Faleor` clarifies not in his office, `Guros` says to ask for the conference room  
+`Faleor` clarifies not in his office, `Gurrus` says to ask for the conference room  
 going to need to take action and not going to be able to hide it  
 don't go looking for spy until he gets back from the `Khan`  
 
@@ -44,7 +44,7 @@ clearly they seem not understand her being tolerating
 start **detecting evil**  
 `Faleor` casts back on them, then **detect good** for good measure  
 Try elven and sylvan to see if they speak  
-go in and `Guros` is waiting for us  
+go in and `Gurrus` is waiting for us  
 been meeting with `Khan` and `General` for past 2.5 hours  
 feel spy is reporting too much information to be worth feeding too much information  
 want to find out how he's reporting, and use it or at least cut them off  

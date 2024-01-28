@@ -28,7 +28,7 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?  
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halber` and the Paladins strike a blow at the heart of the army? Can they survive?  
 
 ### The Final Countdown  
 

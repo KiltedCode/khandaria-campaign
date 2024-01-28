@@ -1,6 +1,6 @@
 # April 20, 2023 - Back in the City Again
 
-`Halbir` heals `Qa'dat's` ability damage  
+`Halber` heals `Qa'dat's` ability damage  
 `Shag-nurab's` mount ran off  
 asks `Lucy` if she can try and find it  
 
@@ -34,20 +34,20 @@ as walk, `Qa'dat` uses scroll to call home
 
 `Qa'dat` specifically floats as pass people waiting outside the gates  
 cheering but then get quite as realize how few came back  
-meet `Guros` who has translator with him  
+meet `Gurrus` who has translator with him  
 `Qa'dat` warns them about scrying on translator  
 `Qa'dat` talks of `Shag-nurab` and say he is purpleman and hiding in shame  
 throws in he did help in fights on way home  
-`Shag-nurab` says he wants to speak with `Guros`  
-`Halbir` does say that he risked a lot, and endorses him  
+`Shag-nurab` says he wants to speak with `Gurrus`  
+`Halber` does say that he risked a lot, and endorses him  
 
 head to Justice Hill  
-invites 3 of us, `Halbir`, translator, `Shag-nurab` and Habirs 2nd in command  
+invites 3 of us, `Halber`, translator, `Shag-nurab` and Habirs 2nd in command  
 `Shag-nurab` says he had way with languages and spied as they didn't know he spoke language  
 they have theft of identity magic  
-`Guros` says he knows  
+`Gurrus` says he knows  
 `Shag-nurab` says that ninjas have positioned self near gates to open when they arrive  
-`Guros` says he also knows this  
+`Gurrus` says he also knows this  
 `Shag-nurab` says there is plan to replace Khan with shapeshifter  
 may have already happened  
 know that very powerful spell  

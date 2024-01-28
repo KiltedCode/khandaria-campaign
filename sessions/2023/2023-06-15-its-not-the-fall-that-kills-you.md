@@ -123,7 +123,7 @@ and there to protect the privacy
 `Faleor` asks him to tell `Grumin` that he said goodbye, knows he cant stop in to say goodbye while they talk  
 `Mel` busy composing tale of `Belsaran` and the ring of fire  
 
-`Guros` appears with message  
+`Gurrus` appears with message  
 > eta of land army 3 days  
 > return to city now  
 > I need you for something  

@@ -36,12 +36,12 @@ ask for location of meat
 recommends Edwin's BBQ  
 
 guards came with `Lucy` to see fight  
-then take her to see `Guros` when she talks about what she has fought  
-`Guros` questions her about things that have gone on  
+then take her to see `Gurrus` when she talks about what she has fought  
+`Gurrus` questions her about things that have gone on  
 she immediately asks about slavery  
 finds out she was the tree  
 and wanted to go into palace to see what kind of person the khan is  
-`Guros` explains laws and punishment  
+`Gurrus` explains laws and punishment  
 asks why she is here  
 heard about the Watcher from guards down south  
 coincided with "the balance" being off  

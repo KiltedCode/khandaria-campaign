@@ -56,7 +56,7 @@ The heroes see that the one group left arguing, so `Faleor` makes an excuse that
 
 As the collect their gear to travel onward, they heroes stop by the door, where work has begun. `Pylia` offers to help use **make whole** on the door but realizes it won't be helpful until they can first get it separated, and she doesn't have time to wait that long. `Sigmund` is there and thanks `Belsaran` again for saving him and all he has done for the dwarves as a whole. As the party goes to leave, the happen to travel by the council chambers. `Faleor` is able to overhear "the giants are fighting!" He asks the guard how long they may be in there. the guard says when it is that loud, they are usually in there for hours and he is there to protect their privacy. `Faleor` tells him he understands and asks the guard to tell `Grumin` that he says goodbye, as knows he cannot stop in to say it himself while they talk. As they walk, in the background `Mel` is seen busy at work composing the tale of "`Belsaran` and the Ring of Fire".
 
-As then depart, `Guros` appears in from of `Pylia` with a message  
+As then depart, `Gurrus` appears in from of `Pylia` with a message  
 > eta of land army 3 days  
 > return to city now  
 > I need you for something  
@@ -72,7 +72,7 @@ She replies
 
 Having forgotten her code word until the end, she exclaimed it, hoping he would understand. The party all readied for their modes of ariel transportation. `Faleor` helps `Pawtrick` be a little more manageable in size with his _wand of harmless form_, but also to make the _flying carpet_ a little less crowded. `Mel` decides to join them on the rug in order to get more "humorous background" on `Belsaran`, much to his chagrin. `Mel` is clearly looking to hit on all the uncomfortable marks of his past, to help him in his composition.
 
-It is early afternoon before they get fully on their way. For some added protection, `Pylia` and `Katla` cast **hide from animals** on all the party members. The plan is to stay higher in order to try and spot the army but stay along the ridge to be a little less obvious. The heroes hope to be able to note the direction of the army to `Guros` when they return to better prepare the city's defenses.
+It is early afternoon before they get fully on their way. For some added protection, `Pylia` and `Katla` cast **hide from animals** on all the party members. The plan is to stay higher in order to try and spot the army but stay along the ridge to be a little less obvious. The heroes hope to be able to note the direction of the army to `Gurrus` when they return to better prepare the city's defenses.
 
 
 [back to the adventures](/adventures/)  
@@ -90,7 +90,7 @@ The heroes plan to help attempt disarm the trap outside of Buildhame with the co
 Having disarmed the trap (mostly) successfully, the time comes to return to Ur'gench, but the dwarves hear approaching large footsteps.  
 
 [June 29, 2023 - Return of the Pyl-eagle](2023/2023-06-29-return-of-the-pyleagle.md)  
-The party must complete their journey to Ur'gench to find out what `Guros` needs them so urgently for.  
+The party must complete their journey to Ur'gench to find out what `Gurrus` needs them so urgently for.  
 
 [August 17, 2023 - Planning McPlannerson](2023/2023-08-17-planning-mc-plannerson.md)  
 The party attempts to validate what `Shag-nurab` has told them and make a plan on how to determine if the Khan is the Khan... without getting thrown in jail.

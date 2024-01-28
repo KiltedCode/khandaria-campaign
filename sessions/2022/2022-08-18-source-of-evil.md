@@ -2,10 +2,10 @@
 
 the fight continues  
 fire guy 3 / 10 rounds  
-halbir moves up to be closer to `Lucy`, knowing she's hurting  
+Halber moves up to be closer to `Lucy`, knowing she's hurting  
 `Lucy` bites and burns everyone  
-halbir and `Qa'dat` vomitting  
-halbir also poisoned  
+Halber and `Qa'dat` vomitting  
+Halber also poisoned  
 one gets away but `Lucy` chases down one  
 
 loot the bodies  

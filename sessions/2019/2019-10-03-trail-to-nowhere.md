@@ -2,15 +2,15 @@
 
 Found out `Orseg Moonheart` and the acolyte were on the trail  
 Relay to everyone that he's in full regalia  
-Relay to `Guros` we want to keep this quiet until we get more information  
+Relay to `Gurrus` we want to keep this quiet until we get more information  
 Think about why palace guards wouldn't have shown us  
-`Guros` thinks they wouldn't want us contacting them  
+`Gurrus` thinks they wouldn't want us contacting them  
 questions why we were at the embassy when looking for him  
 ambassador didn't say if they sent anyone to Watcher or not, vague about it  
 
 Have 4 hours on spell but going up over the mountain  
 not towards Buildhame or Stormpeak  
-decide to fly down `Guros` and keep tracking  
+decide to fly down `Gurrus` and keep tracking  
 get to rocky area, they've slowed down  
 they're covering their tracks  
 light rain tomorrow afternoon  
@@ -56,13 +56,13 @@ Passing through transitional area
 passing some farms, but not great for growing  
 finally about night time make it home  
 
-`Pylia` goes to see `Guros`  
+`Pylia` goes to see `Gurrus`  
 tells him about tracking and **pass without trace**  
 why make tracks to there just to then cast it?  
 
-Next morning `Guros` still on why?  
+Next morning `Gurrus` still on why?  
 what if they met someone  
-`Guros` says they found weapons of Duergar in the rubble  
+`Gurrus` says they found weapons of Duergar in the rubble  
 no reason for axe to be under all that rubble  
 dwarves found the war axe pieces  
 any ties between Cleric and Duergar?  
@@ -86,14 +86,14 @@ Ride check on bush and cloth
 where it was no one would have done that on accident  
 
 Messenger brings message for `Belsaran`  
-`Guros` would like him to come to Justice Hill  
+`Gurrus` would like him to come to Justice Hill  
 questioning guy from outside embassy  
 city is getting more deserted, people traveling in groups  
 atmosphere of fear, no guards other than at gates (less than normal as well)  
 
 at Justice Hill, a lot of anger, eyeing up like "are you going to try anything?"  
 said someone paid him to stir up the crowd  
-`Guros` thought `Belsaran` might know him as `Guros` thinks he recognized him  
+`Gurrus` thought `Belsaran` might know him as `Gurrus` thinks he recognized him  
 mage is magical sketch artist: casts **silent image** and it's `Lonny`  
 have indication that somewhere in the city is a major crime ring  
 someone is getting weapons into the city that aren't peace bonded  

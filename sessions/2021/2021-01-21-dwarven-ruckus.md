@@ -69,7 +69,7 @@ have not directed ambassador to communicate
 uncharacteristically hesitant about saying this  
 if Khan were to reach out without asking, that would be a powerful symbol  
 
-Send to `Guros`  
+Send to `Gurrus`  
 > word that Khanhold has fallen from trusted druid  
 > dwarves are fighting internally  
 > if Khan offers protection like Magnus could sway them for knowledge and arms  

@@ -1,23 +1,23 @@
 # August 23, 2023 - Party Palace Time
 
-`Guros` was invited but turned down because knew was expected to do so  
+`Gurrus` was invited but turned down because knew was expected to do so  
 too close to the battle  
 
 plan to do **sending** then **true seeing**  
 plan is excuse that if caught, blame on ninjas  
 is a truth from `Qa'dat`, just not whole truth  
 
-Go see `Halbir` to see if can have telepathic bond without him in it  
+Go see `Halber` to see if can have telepathic bond without him in it  
 use ninja excuse  
 says no time for big spell, many people needs more time, one hour  
 only 5  
-`Guros`, `Faleor`, `Pylia`, `Belsaran`, `Lucy`    
+`Gurrus`, `Faleor`, `Pylia`, `Belsaran`, `Lucy`    
 casts now and will last over 2 hours  
-`Halbir` asks now that I can speak what are you up to?  
+`Halber` asks now that I can speak what are you up to?  
 play off that want to be prepared in case of anyone attempting anything at gathering of adventurers  
 then speaks to `Lucy` directly  
 she says it is about hidden enemy, so not full truth but result is the same  
-`Halbir` argues he should know because should make his paladins ready  
+`Halber` argues he should know because should make his paladins ready  
 says that if wrong, should not act  
 says I think you will approve of us in the end  
 asks to be told immediately  
@@ -27,8 +27,8 @@ to everyone else, he's getting ready to go, even speaking to 2nd in command
 
 **_time to party!_**  
 joined by paladins  
-`Guros` says "gods speed, keep me informed" to all but `Halbir`  
-`Belsaran` notices only 8 but heard 9 made it out with `Halbir`  
+`Gurrus` says "gods speed, keep me informed" to all but `Halber`  
+`Belsaran` notices only 8 but heard 9 made it out with `Halber`  
 `Qa'dat` and `Cedric` notice one is missing  
 halfway down joined by other party (`Eiya`, `Catla`, `Mel`, `Valdrin`)  
 notice Eiya has her small fox familiar with her  
@@ -40,9 +40,9 @@ walks up the right hand side as everyone walks and goes to the left
 they say you are guest of honor and asks about others  
 he yells for them, tells noble "not you"  
 waves largely, adventurers come up but not paladins  
-then march after `Halbir`  
+then march after `Halber`  
 at gate, one guard says "there's supposed to be two more a purple man and paladin"  
-`Halbir` says purple man is indisposed and his paladin Jons is attending him  
+`Halber` says purple man is indisposed and his paladin Jons is attending him  
 says he is cursed  
 `Jons` is his third in command  
 let into palace grounds proper  
@@ -51,7 +51,7 @@ have `Qa'dat` remove gauntlets
 one guy with crystal  
 lights up and he looks through it  
 very unusual and not sure what it is doing  
-`Faleor` mentally asks `Guros`, thinks it may be **true seeing**  
+`Faleor` mentally asks `Gurrus`, thinks it may be **true seeing**  
 the fox does get through, `Eiya` is made to swear will stay with her the whole time  
 know it means nothing  
 the other line is objecting to being processed  
@@ -120,7 +120,7 @@ herald steps out and `Mel` immediately stops but does it sounding naturally
 everyone takes a knee, even `Lucy`  
 music playing and he steps out  
 aura is neutral good, which is not the right alignment  
-`Pylia` messages `Guros` directly  
+`Pylia` messages `Gurrus` directly  
 says could be due to duties but could be faked in which case may have gotten it wrong  
 `Soren` tells everyone to stand, gives a speech thanking everyone but leaves out `Jons` and `Shang-nurab`  
 `Faleor` notices not as polished as his father, doesn't have natural charisma  
@@ -138,7 +138,7 @@ guard leads us there, 4 minutes
 wait a couple minutes for someone to finish sending  
 noble looks harrassed, true neutral  
 
-sending to `Guros`    
+sending to `Gurrus`    
 > party is lovely.  
 > food could be better.  
 > we will be sure to return in time to prepare city defenses.  
@@ -171,20 +171,20 @@ a bunch of people suddenly excuse themselves
 guards are still invisible  
 `Soren` is in middle of conversation about grain cartels  
 he is very comfortable in this conversation  
-`Pylia` comes to `Faleor` that asks where's `Halbir` and see they're ready for battle  
-`Halbir` says has not effect all their magic, just link, her eyes that were permanent, and if we did that true sight thing  
+`Pylia` comes to `Faleor` that asks where's `Halber` and see they're ready for battle  
+`Halber` says has not effect all their magic, just link, her eyes that were permanent, and if we did that true sight thing  
 
-sending from `Guros`  
+sending from `Gurrus`  
 > Pylia my telepathic link is down
 > did something happen to you?
-> did something happen to Halbir
+> did something happen to Halber
 
 replies that ok but not sure why and if should read in guards  
 sent like almost immediately after happened as about 11 minutes after  
 all three lost were divination spells  
 the artifact from the lich was anti-magic against illusion  
 `Jons` is carrying that artifact  
-`Halbir` is going to check on him  
+`Halber` is going to check on him  
 want to tell a guard  
 one of guards near khan is one we've spoke with when housing animals  
 see two captains near khan and one captain near entrance  
@@ -209,10 +209,10 @@ clear others are not getting through
 escorting everyone out  
 but two guards lead `Lucy` all the way to front gate  
 see guards running about the grounds  
-head to Justice Hill for `Guros`  
+head to Justice Hill for `Gurrus`  
 `Jons` has been found murdered wearing a slave collar  
 looks like he was executed  
 `Shag-nurab` is nowhwere to be found or the artifact  
-tell `Guros` to see if `Shag-nurab` checked in later  
+tell `Gurrus` to see if `Shag-nurab` checked in later  
 
 [back to table of contents](/sessions/README.md)

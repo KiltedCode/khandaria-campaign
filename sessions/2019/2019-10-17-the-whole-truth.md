@@ -61,27 +61,27 @@ back about 4:30
 
 `Faleor` and `Belsaran` head back to the city  
 back by mid afternoon  
-take a short rest to wait for `Pylia` to get back before talking to `Guros`  
+take a short rest to wait for `Pylia` to get back before talking to `Gurrus`  
 
-Decide to go report to `Guros`  
+Decide to go report to `Gurrus`  
 still not a lot of guards around the city  
 people not as scared, but still off  
 not a lot of guards or adventurers at Justice Hill  
-find `Guros` in his office, duergar are making a big push underground  
+find `Gurrus` in his office, duergar are making a big push underground  
 even some palace guards down there  
 tell him I confirmed a duergar, describe him  
 there's been an incident with dwarven ambassador  
 caught carrying a ur'grosh into the palace  
 he's refusing to speak, some crimes that means you're just found guilty  
 if something involving conspiracy, you're tortured until you speak  
-`Guros` will report it to the palace, `Faleor` will probably be called to testify  
+`Gurrus` will report it to the palace, `Faleor` will probably be called to testify  
 ask if he'll be telling everything, and probably will because `Khan` needs to know everything  
 
 `Pylia` has message on door frame asking her to come to temple `from Rosnick`  
 people look angry and unhappy about the whole process  
-`Melvin` is in head regalia, not doing much but walking around saying brief words  
+`Melvyn` is in head regalia, not doing much but walking around saying brief words  
 people stamping their feet in frustration as he walks away  
-funeral in progress - that `Melvin` is not in attendance  
+funeral in progress - that `Melvyn` is not in attendance  
 `Rosnick` waves her to the back  
 says he found out she may have had a visitation during the dropping of the Watcher  
 leads her to his office, overflowing with stuff (books, scrolls, etc) but not dusty  
@@ -101,7 +101,7 @@ the split with Sarenrae in Eclipse was few years later
 thanks for testimony but without effect can't really classify as a "visitation"  
 however he does believe Asmodeus is involved  
 `Pylia` asks if he heard any of `Pelture`'s investigation into the raising of `Wernick`  
-she implies she's thinks it's `Melvin`  
+she implies she's thinks it's `Melvyn`  
 
 Just as `Pylia` arrives at home, another messenger walking up  
 message to come to the palace to testify  
@@ -112,10 +112,10 @@ step into circle
 tell them everything. try to dance around questions  
 tells `Faleor` he may leave, they will call if I need to testify further or be thrown in jail  
 
-`Guros` asks if we trusted him  
+`Gurrus` asks if we trusted him  
 tell him we were trying to protect him from being implicated  
-`Guros` takes the remaining scrolls  
-`Guros` asks us to just leave everything along with dwarves  
+`Gurrus` takes the remaining scrolls  
+`Gurrus` asks us to just leave everything along with dwarves  
 asks us to lay low for several days  
 
 Head towards avenue of silk market, hear screams  

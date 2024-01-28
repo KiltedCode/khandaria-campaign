@@ -7,7 +7,7 @@
 `Qa'dat` can cast **fear**  
 `Qa'dat` uses **eagle eye** to see them coming  
 
-`Halbir` casts **bless** for +1 attack and weapon damage  
+`Halber` casts **bless** for +1 attack and weapon damage  
 as they approach slaves in front  
 hobgoblins shout as get closer  
 t-rexes start to charge forward, humans scatter  
@@ -30,11 +30,11 @@ hobgoblin drivers jump off away from `Lucy`
 humans run mostly  
 sticks and stones kneel before hobgoblin  
 kills sticks  
-`Halbir` commands to protect humans  
+`Halber` commands to protect humans  
 `Qa'dat` stabilizes dying human  
-`Halbir` gets swallowed whole  
+`Halber` gets swallowed whole  
 `Cedric` kills rex  
-`Halbir` rips way out  
+`Halber` rips way out  
 
 2 cure light  
 1 cure moderate  

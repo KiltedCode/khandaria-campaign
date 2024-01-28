@@ -1,6 +1,6 @@
 # August 5, 2021 - Run and Hide
 
-Sending from `Guros`  
+Sending from `Gurrus`  
 > army status needed.  
 > report size, speed, direction, contents, estimated arrival  
 > Avoid contact at all costs, intelligence says army knows who you are.  
@@ -13,7 +13,7 @@ Sending from `Guros`
 > Delay further or return for defense?  
 > Continued.  
 
-sending from `Guros`  
+sending from `Gurrus`  
 > Aside from today, scout until midmorning, then return Ur'guench.  
 > Roc is visible, consider ditching.  
 > Buildhame, Stormpeak fortified, no backup troops coming.  
@@ -119,7 +119,7 @@ rocs are spiraling out
 don't see number of people changing  
 
 `Mel` finishes his sending  
-`Guros` says dwarves said this side was destroyed, so doesn't make sense  
+`Gurrus` says dwarves said this side was destroyed, so doesn't make sense  
 what if they're trying to mend it  
 
 `Pylia` casts **augury** on draining unholy water, no answer  
@@ -134,7 +134,7 @@ tries to push through and takes 15 points of damage
 uses two to heal himself  
 roc flies overhead  
 
-`Guros`  
+`Gurrus`  
 > Here portal deactivated.  
 > Dwarves say Buildhame portal not utterly destroyed, probable enemy rebuilding it.  
 > If you can, scout them and try to determine when rebuilt.  

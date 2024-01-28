@@ -5,27 +5,27 @@ current front runner the Sand Dragon District
 
 have a map of Ur'gench  
 re-enter the city  
-sent `Lucy` to go talk to `Guros` about what found  
+sent `Lucy` to go talk to `Gurrus` about what found  
 guards not going to necessarily listen to her, not as recognized  
 wants to try and slip in as mouse  
 slips in  
-well lit hallway, see two guards at a door a couple doors down from `Guros`' office  
+well lit hallway, see two guards at a door a couple doors down from `Gurrus`' office  
 go along beams, slip through gap at top  
-`Guros` is asleep  
-becomes human, tries to gently wake `Guros`  
+`Gurrus` is asleep  
+becomes human, tries to gently wake `Gurrus`  
 heavy sleeper  
 holds  his nose closed, wakes up with a scream  
-guards rushes in, `Guros` grabs a sword  
+guards rushes in, `Gurrus` grabs a sword  
 `Lucy` says `Pylia` wanted to get you  
 says something about triangulation, found border, to try and find artifact  
 asks for a moments  
 guard glares and asks how got in there  
 says sneaky, that's why you hired me  
-guard tells her that she's lucky `Guros` vouches for you  
+guard tells her that she's lucky `Gurrus` vouches for you  
 after comes out explains the border and going to come back to meet here  
 says near house makes sense, they're trouble magnets  
 says already short on sleep, talk to `Pellum` as night leutenant to handle  
-`Pellum` is curious how she talked to `Guros`, said he was up for 20 straight hours  
+`Pellum` is curious how she talked to `Gurrus`, said he was up for 20 straight hours  
 `Lucy` fills `Pellum` in  
 `Pellum` said he didn't think to look for edge  
 thought it was just a curse on the city  
@@ -34,7 +34,7 @@ offers to hang out here
 asks if knows well enough to do a **sending**  
 "what's a sending?"  
 share stories  
-`Pellum` got moved up when `Guros` was promoted  
+`Pellum` got moved up when `Gurrus` was promoted  
 was there when `Belsaran` got jumped by gang members  
 
 plan is `Belsaran` and `Pylia` go across to Unagi Gate  
@@ -74,7 +74,7 @@ not really recognized by the guard
 still a line going in, probably going to need to wait  
 guard warns not to travel the roads as Qublan army is attacking  
 `Qa'dat` says "I know. I fought them. With the Paladins. For your city."  
-`Cedric` mentions that trying to find edges and need to get back into `Guros`  
+`Cedric` mentions that trying to find edges and need to get back into `Gurrus`  
 diplomacy to sell them on adventurers  
 they will let us back in if they come to them  
 get a hit a couple minutes down the rose road  

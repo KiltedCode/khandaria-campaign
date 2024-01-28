@@ -53,13 +53,13 @@ would need place nearby to hide to cast as well before becoming animal
 `Qa'dat` would rather `Lucy` than him as doesn't want to hurt this tribe's standing  
 `Cedric` sees her as party member and doesn't want to see her carted away  
 
-`Guros` comes back and has scroll of **blood biography**  
+`Gurrus` comes back and has scroll of **blood biography**  
 investigators have it as part of their kit  
 sent someone for arrow but likely won't be tonight to find it  
 can't draw more attention to it  
-plan to tell them `Qa'dat` needs to do sending to `Guros`  
+plan to tell them `Qa'dat` needs to do sending to `Gurrus`  
 and sensitive to only `Qa'dat` in room  
 have `Lucy` as mouse form  
-try and get `Halbir` to do mind link  
+try and get `Halber` to do mind link  
 
 [back to table of contents](/sessions/README.md)

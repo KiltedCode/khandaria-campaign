@@ -4,7 +4,7 @@
 `Qa'dat` spots target in the back  
 **evil eyes** a mage (saving throws -4)  
 `Cedric` cast slow up ahead  
-`Halbir` commands knights to heal as soon as out of cloud  
+`Halber` commands knights to heal as soon as out of cloud  
 skeletons start to charge in, disintegrate into dust  
 other skeletal ones don't seem effected completely  
 fireball at `Qa'dat`  

@@ -5,7 +5,7 @@ babbling to get out of the city
 calling for an evacuation  
 
 `Pylia` wildshapes into a eagle  
-tie note to her leg to ask `Guros` to come out and talk to messenger  
+tie note to her leg to ask `Gurrus` to come out and talk to messenger  
 flies down and gives to a guard  
 albino knights seem interested, cast **detect evil** on her  
 talk in foreign language with each other  
@@ -17,7 +17,7 @@ pulls him in, bard instincts kick in
 starting to work music out for parts of the story  
 seems to be into it enough, can reveal `Magnus` crisping `Wernick`  
 
-`Guros` comes out with asks if way to talk with her  
+`Gurrus` comes out with asks if way to talk with her  
 cocks her head side to side at other people  
 he offers arm and she hops on  
 takes her into a room and closes door  
@@ -30,26 +30,26 @@ who knows? thinks `Legdas` will blab, need to go take us all to palace now
 Arconians are the pale paladins from across the Deadlands, merchant is translating for them  
 seems to be a peace envoy  
 grabs a horse and is off  
-`Guros` says we're all going to the palace  
+`Gurrus` says we're all going to the palace  
 need to walk because we dont have horses  
 
-As we walk, `Guros` gets `Belsaran` to be on `Legdas` other side  
+As we walk, `Gurrus` gets `Belsaran` to be on `Legdas` other side  
 `Legdas` says "we need to spread the word"  
 `Faleor` distracts him with "how many songs would it take to tell our story of the fight in the town that I told you?"  
 say we need to see the `Khan` immediately  
 they get 6 guards to escort us because of our power  
 throne room has the usual contingent of nobles to see the `Khan`  
 `Khan` currently talking to the Qublan ambassador  
-`Legdas` yells "by Sarenrae" `Guros` covers his mouth and drags him out  
+`Legdas` yells "by Sarenrae" `Gurrus` covers his mouth and drags him out  
 help to usher `Legdas` out  
 guards converge  
 but `Hadvar` subtly stays behind  
-`Guros` yells "you will keep your bloody mouth shut!"  
+`Gurrus` yells "you will keep your bloody mouth shut!"  
 tells a guard to keep him hear and not let him talk to anyone else  
 tells us to wait with `Hadvar` as if we're there to see the `Khan`  
 don't look at him more than anyone else  
 don't interact with him  
-`Guros` lets slip "`Pylia` you're with me"  
+`Gurrus` lets slip "`Pylia` you're with me"  
 `Belsaran` and `Faleor` go back in  
 Qublan ambassador is gesturing large to the `Khan`, was doing it in a way to watch the room  
 notice he sees us come back in  
@@ -103,8 +103,8 @@ can increase guard routes outside city back to "normal" patrols
 could send some to Khanhold and scout from there  
 `Corval` strong on **scry**, going to start with northern most (Northwind Keep)  
 Next sending to Northwind is tomorrow at noon, should **scry** at that time  
-suggest to `Guros` "Wouldn't it be good for `Legdas` to stay here to help with the scrying for a few days?"  
-`Hadvar` leaves and just three of us with `Guros`  
+suggest to `Gurrus` "Wouldn't it be good for `Legdas` to stay here to help with the scrying for a few days?"  
+`Hadvar` leaves and just three of us with `Gurrus`  
 
 Just three of us  
 hope `Hadvar` is ok being left out  
@@ -117,7 +117,7 @@ perhaps could **scry** again to get more information with where to look
 could get wand of **resist energy**  
 get wards to help identify  
 in mean time will get us quarters at the palace  
-`Guros` is worried about us going anywhere without him  
+`Gurrus` is worried about us going anywhere without him  
 `Belsaran` and `Faleor` walk back, `Pylia` flies  
 `Pylia` arrives back, tries to get in through window, gets talon stuck  
 `Z` looking from other side of window  
@@ -142,15 +142,15 @@ night passes uneventfully
 Next day starts  
 large breakfast spread  
 some Qublan imported fruits  
-messenger from `Guros` to come to a Multipurpose Room 3  
-`Guros` has a large contingent of people present  
+messenger from `Gurrus` to come to a Multipurpose Room 3  
+`Gurrus` has a large contingent of people present  
 some are nobles, most are city guard, still waiting on 5  
 see the townhouses, bald guy is asleep  
 see the outside and whats around  
 4 or 5 people think it's the warehouse district  
 maybe vaults, but usually more upscale  
 maybe northern merchants district  
-trying to figure out what `Guros` could say in his office  
+trying to figure out what `Gurrus` could say in his office  
 maybe receive news that the Farmer's Gate is rusted and can't shut it  
 thanks everyone for participating  
 nobles ask if they're square, clearly on there for that  
@@ -158,11 +158,11 @@ tells any guards in warehouse district to see him at 4 bells
 
 Almost noon, going to **scry** on Northwind Keep  
 tell `Legdas` to go enjoy the comforts of the palace  
-`Guros` ends up telling him it's secrets of the palace guard, so need to keep it as minimal as purpose  
+`Gurrus` ends up telling him it's secrets of the palace guard, so need to keep it as minimal as purpose  
 `Hadvar` casts again, seems to be fine doing a whole second hour  
 casting **scry** based on a picture drawn of the palace commander  
 they have images of palace commanders to aid in **sendings** to them  
-`Guros` goes and gets the woman who is going to do the sending so timing can be right  
+`Gurrus` goes and gets the woman who is going to do the sending so timing can be right  
 vaguely familiar to `Pylia`  
 `Ambereen`, designated sender for outposts of Khandaria  
 wearing an elaborate pearl necklace, has 4 _pearls of powers_ on it  

@@ -1,6 +1,6 @@
 # July 18, 2020 - Fact Finding
 
-Decide we want to work on scrying for `Guros`  
+Decide we want to work on scrying for `Gurrus`  
 need Bard 7, Cleric 8, Sorcerer 8  
 know there are some higher level sorcerers (maybe `Vilneas`)  
 maybe `Zodan` who helped them create a spell  
@@ -107,10 +107,10 @@ looks briefly at `Belsaran` and `Faleor`
 rest of walk is uneventful but paranoid  
 group of younger ones look like they'll be in fight before the night's through  
 but recognizes us, and one tells the other to stop fan-boying  
-lead back into the church, see Melvin pontificating to people (priests or acolytes)  
+lead back into the church, see Melvyn pontificating to people (priests or acolytes)  
 odd that it's in the main sanctuary  
-`Rosnick` hopes `Melvin` can have the stamina for the long haul of being a symbol of `Sarenrae`  
-`Rosnick` tries to put `Pylia` at ease over Melvin as high priest, don't have another `Pelture`  
+`Rosnick` hopes `Melvyn` can have the stamina for the long haul of being a symbol of `Sarenrae`  
+`Rosnick` tries to put `Pylia` at ease over Melvyn as high priest, don't have another `Pelture`  
 `Rosnick` still finds it strange he's given this gift now by `Sarenrae`  
 probably because he managed the church in the disaster  
 give him back the bag  
@@ -124,7 +124,7 @@ her skills are rare and better off served doing what no one else can do
 she doesn't fully agree, suggests she spend time with the clerics who help with the swill carts  
 agrees he will cast **scrying** if can't find anyone else  
 
-As leaving `Z` suddenly grows, while in the sanctuary, causing `Melvin` to jump and stare  
+As leaving `Z` suddenly grows, while in the sanctuary, causing `Melvyn` to jump and stare  
 
 Head to Mages district  
 go to pick up the _dire collar_ from `Cervexys`  

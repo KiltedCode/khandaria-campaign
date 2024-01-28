@@ -47,7 +47,7 @@ all these creatures can handle mountainous terrain well
 clearly one force meant for the mountains  
 appear to be camped not mobilized  
 
-fly back down to crop of trees to do sending to `Guros`  
+fly back down to crop of trees to do sending to `Gurrus`  
 > killed hobgoblin scouts on rocs blast pass  
 > symbols Asmodeus Qubla  
 > over 500 army of spiders goblin ogres fire giants beyond  

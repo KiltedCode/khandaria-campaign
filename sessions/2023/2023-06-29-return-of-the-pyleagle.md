@@ -30,7 +30,7 @@ arriving at about 4pm
 two guards fly up and challenge party  
 allow party to pass  
 as fly to Justice Hills, ballista point at flying  
-land, talk to guards and they'll get `Guros` know  
+land, talk to guards and they'll get `Gurrus` know  
 request to see all  
 debriefs other party first  
 `Mel` goes full epic tale  
@@ -39,12 +39,12 @@ but no music for it yet but some lines rhyme
 servant brings in ale  
 then popcorn at request of `Eiya`  
 
-`Guros` asks some clarifying questions  
+`Gurrus` asks some clarifying questions  
 thanks other group  
 says they'll be rewarded with magic item as choice up to limit  
-`Belsaran` notices that `Guros` is clearly not fully enthralled by story and something is bothering him or worrying him  
+`Belsaran` notices that `Gurrus` is clearly not fully enthralled by story and something is bothering him or worrying him  
 `Belsaran` asks what is going on in the city  
-`Guros` says there is a problem  
+`Gurrus` says there is a problem  
 other group brought back a former prisoners, a purple man  
 note they fought town  
 
@@ -53,7 +53,7 @@ he brought back news
 - already ninjas in Ur'gench ready to attack doors (we knew and found)
 - says plot to replace `Soren` and may already have happened with shape shifter 
 
-`Guros` can't investigate  
+`Gurrus` can't investigate  
 would be catastrophic if got out  
 but could give bad orders at the wrong time  
 can't tell guards  
@@ -62,13 +62,13 @@ need outside group that can trust
 could try to catch him in a lie  
 are there any ways to detect a shape shifter  
 
-`Guros` sends for other that know  
+`Gurrus` sends for other that know  
 tells general story of what happened to other party  
 can tell this bothers him professionally, as loyalty should be to Khan  
 `Belsaran` can tell he isn't sure if this is right course of action or not, law in the way  
 
 other group comes in  
-`Guros` tells them he trusts us deeply  
+`Gurrus` tells them he trusts us deeply  
 `Qa'dat` suggests **true seeing**  
 introduce to each other  
 `Qa'dat` says he knows them, and owe glass  
@@ -77,7 +77,7 @@ skilled at silently assassinating and replacing
 no true sight because inherently no form  
 may work on lesser  
 more powerful could learn memories  
-`Guros` says harem may know but if recent may not notice  
+`Gurrus` says harem may know but if recent may not notice  
 `Madame Ruby` could maybe contact them, well tied in  
 
 `Faleor` tests `Shag-nurab` on his qublan  

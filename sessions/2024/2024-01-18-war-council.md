@@ -11,24 +11,24 @@ want to have a napstack napsack magic item
 going to the Khan  
 `Faleor` gets a quiver of 20 arrows  
 `Lucy` wants to go "make like a tree and leave"  
-`Guros` pressures `Pylia` to come with and not go sleep yet  
+`Gurrus` pressures `Pylia` to come with and not go sleep yet  
 everyone is coming along  
-`Guros` sends messenger ahead to let Khan know we're coming with urgency  
+`Gurrus` sends messenger ahead to let Khan know we're coming with urgency  
 bringing artifat with but unsure about taking it all the way to the Khan  
 `Darius` is with us, guard that was on night watch  
 
 get to palace  
-`Guros` introduces us
+`Gurrus` introduces us
 tells chief of palace guard about artifact to decide  
 says he's unsure if should bring before the Khan  
 plan to put in a secure room to lock up  
 admitted to palace and escorted to sitting room to wait for the Khan  
 says will be seen "within the hour"  
-after about 40 minutes, `Rosnic` and `Melvin` walk in  
+after about 40 minutes, `Rosnic` and `Melvyn` walk in  
 `Gurrus` bows, slightly more deeply to `Rosnic`  
 it is a very formal thing to do, and would only be at a formal meeting  
 but `Melvyn` is the kind that would expect it more often  
-`Belsaran` and `Faleor` realize `Guros` may be doing it to tweek `Melvin`  
+`Belsaran` and `Faleor` realize `Gurrus` may be doing it to tweek `Melvyn`  
 then they sit and wait as well  
 another 10 minutes  
 finally servant asks to follow them  
@@ -43,7 +43,7 @@ oath of loyalty to the Khan and that not helping the enemies in any way
 the dwarven ambassador `Kilgore` comes in  
 `Bertim` is unable to speak the oath  
 says they have his family and he's so sorry  
-if does not contact every day with some information about `Guros` or otherwise they will kill family members one at a time  
+if does not contact every day with some information about `Gurrus` or otherwise they will kill family members one at a time  
 breaks easy  
 now notice a **zone of truth** built into the floor  
 

@@ -33,7 +33,7 @@ not sure if can make another spot before night
 making plan  
 see dino at far grove and other people around  
 false trail has confused them  
-`Halbir` **neutralizes poison** on `Cedric`  
+`Halber` **neutralizes poison** on `Cedric`  
 heal up with wand  
 scout in tree that heading our way  
 people on foot are behaving oddly  
@@ -42,13 +42,13 @@ but staggering, so maybe undead
 might be controlled people  
 guy on dino is weird, weird armor  
 purple matte, purple man  
-`Halbir` sets up for a charge  
+`Halber` sets up for a charge  
 purple man finds trail and then investigates the grove  
 waves hand and all the people fall down  
 rides closer and looks around  
 clearly spotted a paladin and he waves, 200 feet out  
 rides closer and keeps waving  
-`Halbir` has paladin march out, purple man rides towards  
+`Halber` has paladin march out, purple man rides towards  
 see he has on stone fist gauntlets  
 has two metal collars around his neck, don't quite fit  
 
@@ -63,14 +63,14 @@ confident he has magic left and we do not
 says wants relations  
 `Qa'dat` does not fully trust on why he wants to talk  
 
-brings back to `Halbir`  
+brings back to `Halber`  
 heal them  
 detects evil and is not evil  
 purple man picks up that doesn't speak good common  
-`Halbir` lets him join them  
-as sitting around paldins unhappy and asking for something from `Halbir` to do something  
+`Halber` lets him join them  
+as sitting around paldins unhappy and asking for something from `Halber` to do something  
 `Cedric` cooks, but doesn't have quite the right seasonings for recipe  
-`Halbir` takes `Lucy` aside to find out what she did with dead at stone circle before  
+`Halber` takes `Lucy` aside to find out what she did with dead at stone circle before  
 seems she asked mice to do something to bodies  
 
 collar is a slave collar  

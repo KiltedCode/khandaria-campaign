@@ -37,13 +37,13 @@ find second trail
 older that left as combat began  
 nearing 2am  
 
-`Halbir` comes to consult  
+`Halber` comes to consult  
 says his men train as warrior first, paladins second  
 `Qa'dat` says men fought well and strong  
 new strategy of paladins on outside  
 
 party wants to search for creator  
-`Halbir` wants to come with  
+`Halber` wants to come with  
 guards coming with  
 suits to make less noisy  
 

@@ -53,7 +53,7 @@ two city guards out front and a city cleric
 realize he recognizes us as heroes of the city, they're expecting us  
 says we have to wait for the captain, says we'll need to be careful in there  
 `Captain Eldis` returns, half elf  
-says `Guros` said we'd be coming and give us any help we need  
+says `Gurrus` said we'd be coming and give us any help we need  
 
 gives the rundown  
 found winding alley, told to ignore standard entrances and make own points of egress  

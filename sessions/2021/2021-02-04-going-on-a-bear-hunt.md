@@ -3,7 +3,7 @@
 getting ready to leave Stormpeak  
 exiting south exit  
 no sight of enemies, but sure they would know scouts are dead and didn't hide the bodies  
-going to send intel to `Guros`  
+going to send intel to `Gurrus`  
 
 > princes are servants of asmodeus  
 > advisors to nobility  
@@ -34,7 +34,7 @@ come back and poke above trees
 beast drawn wagons, larger than a horse, 4 distinct moving blobs, woolly rhinos  
 to the west of us, from Qubla or castle, heading towards meadow  
 think that could be the natural cut through the mountains we were looking for  
-after about an hour `Guros` appears  
+after about an hour `Gurrus` appears  
 
 > Instituting security protocol.  
 > First word each way is sender's last assigned watchword,  
@@ -77,7 +77,7 @@ see castle way in the distance guarding the road
 see another supply caravan  
 `Pylia` also casts **hide from animal** (for roc)  
 
-Message from `Guros`  
+Message from `Gurrus`  
 > Confirmed. Justice.  
 > Second army located, from Khanhold.  
 > Huge animals, hill giants, conscript troops, undead.   

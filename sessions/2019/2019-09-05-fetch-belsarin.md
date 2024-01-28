@@ -40,7 +40,7 @@ underground battle had been getting more intense leading up to coronation, but n
 
 Nurse shoos us away  
 priestess of Saranrae  
-asks about next in line, she thinks `Melvin` is next in seniority  
+asks about next in line, she thinks `Melvyn` is next in seniority  
 not very political  
 
 Head back to lieutenant to tell him about `Endirin` being near `Jin`  
@@ -58,7 +58,7 @@ clearly doesn't seem to want palace guards to hear
 sees someone in high priests robes, which shouldn't be without blessing of Sarenrae  
 would be solstice, equinox, or at minimum a Sunday  
 walks past Me`l`vin who tries to stop her, she says he's disrespectful wearing the robes  
-`Faleor` yells asking for communion, `Melvin` and two junior priests come to eject us  
+`Faleor` yells asking for communion, `Melvyn` and two junior priests come to eject us  
 `Pylia` gets to the back, runs into priest she knows  
 priest she is looking for is outside dealing with family (`Rosnick`)  
 brings up robes being inappropriate, he says may be will of Sarenrae despite not having conclave  

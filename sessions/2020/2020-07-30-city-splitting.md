@@ -5,7 +5,7 @@ Need to talk to `Hadvar` (`the Maestro`)
 - any magic to help locate her?
 - interested in helping recover her
 
-`Faleor` and `Belsaran` traveling to see `Guros`  
+`Faleor` and `Belsaran` traveling to see `Gurrus`  
 
 status report  
 give him status report on what we got out of **scrying**  
@@ -14,7 +14,7 @@ to me, safety of city is bigger priority
 mention using scrolls to try and **message** her, ask if we think it will work  
 if adventurers guild wont supply, he will try and get from palace  
 
-updates from `Guros`  
+updates from `Gurrus`  
 been squeezing `Lonny`  
 apparently `Lonny` wasn't fully trusted because he refused an assassination job  
 instead sent on a lot of raids  
@@ -37,7 +37,7 @@ disgraced priest on Darcelon road (out farmers gate)
 with enough of that powder could eat through  
 `Pylia` is on that  
 
-`Guros` is now Captain of the entire city guard  
+`Gurrus` is now Captain of the entire city guard  
 
 Head over to the Portal Inn to see `Hadvar`  
 he has two doors: private and open for business  

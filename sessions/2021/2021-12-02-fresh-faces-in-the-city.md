@@ -30,7 +30,7 @@ see shiny knights, must be important, hail them
 responds in language he does not understand  
 another man comes up, not as fancy but air of in charge about him  
 another man in silk, under-dressed for this weather  
-meets and talks with `Guros`  
+meets and talks with `Gurrus`  
 a bit of a diplomat, trying to match `Qa'dat`'s mannerisms  
 he has reservations and probably not representative of the entire army, but one of the representatives  
 sits and has sickeningly sweet food and drink  
@@ -68,12 +68,12 @@ back to guys
 claims stone fist are rapists, take children are slaves  
 "Listen here, you know not what of you speak you little man!"  
 guard comes to get both, realizes better to do one at a time  
-`Guros` tells him shape shifter protocol  
+`Gurrus` tells him shape shifter protocol  
 needs to be questioned in zone of truth  
 asks about powers  
 says would be hard to retake town now  
 having trouble finding high level warriors  
-lets loose know about the north, which `Guros` needs to track down  
+lets loose know about the north, which `Gurrus` needs to track down  
 gives token to stay at in, let's him know he could be valuable to help  
 
 `Qa'dat` comes in  

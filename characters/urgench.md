@@ -20,7 +20,7 @@ current Khan, son of `Magnus`
 
 ## Guards / Soldiers
 
-`Guros`  
+`Gurrus`  
 2nd in command of city guard, has been working his way up quickly in Ur'gench, started out as guard in North Worker's district
 has feelings for `Pylia`, trusts the party  
 
@@ -49,11 +49,11 @@ half-elf, guarding thieves guild hideout
 `Lieutenant Leonard`  
 Lieutenant in barracks, ordered to give room to `Qa'dat`, instead `Qa'dat` only wants for talking to spirits, recommended an ok BBQ joint    
 
-`Halbir`  
+`Halber`  
 Head on knights, flashy armor, avatar of his deity, power to damage undead just by being near them    
 
 `Magal`  
-Translator for knights from afar, was scryed on to try and see `Halbir`    
+Translator for knights from afar, was scryed on to try and see `Halber`    
 
 
 ## Church of Sarenrae  
@@ -61,7 +61,7 @@ Translator for knights from afar, was scryed on to try and see `Halbir`
 ~~`Pelchior`~~ 💀  
 Deceased, former head of the Church of Sarenrae in Ur'gench, died during dropping of the Watcher  
 
-`Melvin`  
+`Melvyn`  
 Head of the Church of Sarenrae in Ur'gench, douche cleric who acted as head before vote held  
 
 `Rosnick`  

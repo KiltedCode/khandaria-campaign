@@ -34,12 +34,12 @@ kill mage, several other thugs / archers, 3 got away
 
 Girls all give us "credit" for future, from multiple bordellos  
 
-`Guros` arrives with palace guards  
+`Gurrus` arrives with palace guards  
 "We tried..."  
 take the prisoners and bodies of important ones, not thugs  
 secure the area  
 probably won't get us in on interrogations, but will be very helpful in our standing  
 first want to know if there is more before telling church about the cleric  
-`Guros` walks us home to make sure nothing else happens  
+`Gurrus` walks us home to make sure nothing else happens  
 
 [back to table of contents](/sessions/README.md)

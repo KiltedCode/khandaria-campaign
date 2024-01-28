@@ -32,7 +32,7 @@ go to sleep, except for `Lucy`
 about hour after everyone goes to sleep alchemist comes up  
 the poison would have put them to deep sleep  
 nearly impossible to wake when go to sleep naturally  
-`Lucy` wakes translator to wake `Halbir`  
+`Lucy` wakes translator to wake `Halber`  
 apply salve, **mage armor**  
 after about 3.5 hours hear sentry shout  
 camp is full of black wolves, huge, the size of horses  
@@ -52,7 +52,7 @@ one scout not reporting in
 
 the paladins feel embarrassed  
 they are to be the wall and it was a failure  
-`Halbir` gives a speech and it lifts their spirit  
+`Halber` gives a speech and it lifts their spirit  
 clearly reassured his troops but not himself  
 he is still worried  
 rest of the night is uneventful  

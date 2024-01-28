@@ -1,6 +1,6 @@
 # July 17, 2021 - Forest Party
 
-Send to `Guros`  
+Send to `Gurrus`  
 > Report army moving.  
 > Dwarven avalanche destroyed quarter.  
 > Other party talking to stone giants.  

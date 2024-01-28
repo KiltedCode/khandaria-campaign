@@ -30,7 +30,7 @@ After the worrying discovery, the heroes are sent out to scout out the edges of 
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?  
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halber` and the Paladins strike a blow at the heart of the army? Can they survive?  
 
 ### The Final Countdown
 
@@ -74,7 +74,7 @@ The time has come to party... and attempt to determine if the Khan is the Khan o
 The party attempts to validate what `Shag-nurab` has told them and make a plan on how to determine if the Khan is the Khan... without getting thrown in jail.
 
 [June 29, 2023 - Return of the Pyl-eagle](2023/2023-06-29-return-of-the-pyleagle.md)  
-The party must complete their journey to Ur'gench to find out what `Guros` needs them so urgently for.  
+The party must complete their journey to Ur'gench to find out what `Gurrus` needs them so urgently for.  
 
 [June 15, 2023 - It's not the Fall that Kills You](2023/2023-06-15-its-not-the-fall-that-kills-you.md)  
 Having disarmed the trap (mostly) successfully, the time comes to return to Ur'gench, but the dwarves hear approaching large footsteps.  
@@ -87,7 +87,7 @@ We rejoin our main party in Buildhame, where they have blown the teleportation c
 
 ### The Battle on the Plains
 
-The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halbir` and the Paladins strike a blow at the heart of the army? Can they survive?
+The Qublan army is on the move, slowly approaching the city. Can a new group of heroes learn to operate together? Can they help `Halber` and the Paladins strike a blow at the heart of the army? Can they survive?
 
 [April 20, 2023 - Back in the City Again](2023/2023-04-20-back-in-the-city-again.md)  
 Having lost a few good paladins, the group finishes their journey back to the city, to deliver `Shag-nurab`'s message.
@@ -139,7 +139,7 @@ The party makes their way out to journey out with the army, but what and who awa
 The party tries to devise a plan before then head out to take out a key target and potential artifact.
 
 [January 20, 2022 - Power of the Gods](2022/2022-01-20-power-of-the-gods.md)  
-The newly forming future party is summoned to `Guros` and questioned. But will they be trusted?
+The newly forming future party is summoned to `Gurrus` and questioned. But will they be trusted?
 
 ## 2021
 
@@ -165,7 +165,7 @@ After arriving in Buildhame, the heroes are brought to speak before the council.
 The heroes attempt to monitor the army as they near the dwarven city of Buildhame.  
 
 [August 5, 2021 - Run and Hide](2021/2021-08-5-run-and-hide.md)  
-The heroes check in with Guros and attempt to lay low after their strike on the army.  
+The heroes check in with Gurrus and attempt to lay low after their strike on the army.  
 
 [July 29, 2021 - Look, over there!](2021/2021-07-29-look-over-there.md)  
 The extend heroes ready to try and break and distract the army, with rhinos and fire and spells, oh my!  
@@ -192,13 +192,13 @@ With their plan in motion and discovered, it is time to make an explosive getawa
 The joint hero task force discusses their plan, because time is running out if they want to act.  
 
 [March 4, 2021 - But I want to Attack](2021/2021-03-04-but-i-want-to-attack.md)  
-After a large discover the heroes must decide their next steps and report back to `Guros`.  
+After a large discover the heroes must decide their next steps and report back to `Gurrus`.  
 
 [February 18, 2021 - Lantern Watch](2021/2021-02-18-lantern-watch.md)  
 After rendezvousing with the other heroes, it is time to get a closer look at the castle ahead.  
 
 [February 4, 2021 - Going on a Bear Hunt](2021/2021-02-04-going-on-a-bear-hunt.md)  
-The heroes ready to leave Stormpeak, but first report intel to `Guros`.  
+The heroes ready to leave Stormpeak, but first report intel to `Gurrus`.  
 
 [January 21, 2021 - Dwarven Ruckus](2021/2021-01-21-dwarven-ruckus.md)  
 After their battle, the heroes head to Stormpeak, for rest and hopefully aid.
@@ -224,7 +224,7 @@ The time has come to locate and take down the spy Vilrath.
 After scrying sending them to new revelations, the heroes need to find their next move, for Ur'gench and Khandaria.  
 
 [October 1, 2020 - Palace Scrystyle](2020/2020-10-01-palace-scrystyle.md)  
-The party uncovers deeper secrets when scrying on the thief, and they must warn `Guros` right away.
+The party uncovers deeper secrets when scrying on the thief, and they must warn `Gurrus` right away.
 
 [September 3, 2020 - Shocking Discoveries](2020/2020-09-03-shocking-discoveries.md)
 The heroes continue clearing out the thieves guild, hoping to avoid any more traps.  
@@ -233,10 +233,10 @@ The heroes continue clearing out the thieves guild, hoping to avoid any more tra
 After setting off numerous traps in the thieves guild, the heroes head for air (and spells) before venturing down the stairs.  
 
 [August 6, 2020 - Into the Den](2020/2020-08-06-into-the-den.md)  
-As the heroes continue to try and answer questions about the moss and the location of `Serda`, they receive word from Guros.  
+As the heroes continue to try and answer questions about the moss and the location of `Serda`, they receive word from Gurrus.  
 
 [July 20, 2020 - City Splitting](2020/2020-07-30-city-splitting.md)  
-The heroes continue to work with Guros to get to the bottom of things, while trying to find a way to rescue the adventurer taken by the duergar.  
+The heroes continue to work with Gurrus to get to the bottom of things, while trying to find a way to rescue the adventurer taken by the duergar.  
 
 [July 2, 2020 - Bards and Booms](2020/2020-07-02-bards-and-booms.md)  
 The heros track down other heroes to help with the scry by night operation.    
@@ -245,7 +245,7 @@ The heros track down other heroes to help with the scry by night operation.
 The party decides to take on the work to try and locate the adventurers taken by the duergar.  
 
 [June 4, 2020 - Mail Call](2020/2020-06-04-mail-call.md)  
-Having discovered a duergar letter about their "contract" for what they've done, the heroes know it is vital to report back to Guros with their findings.  
+Having discovered a duergar letter about their "contract" for what they've done, the heroes know it is vital to report back to Gurrus with their findings.  
 
 [May 21, 2020 - Recon Dark Ops](2020/2020-05-21-recon-dark-ops.md)  
 After coming out on top of the ambush, the heroes decide to scout back into the prison for survivors and clues.
@@ -263,7 +263,7 @@ The heroes have located the missing adventurers and guards, albeit by being capt
 While working their way forward towards the checkpoints, the party was ambushed. Can they come out on top or will this cavern become their tomb?  
 
 [January 30, 2020 - Crouching Half Orc, Hidden Duergar](2020/2020-01-30-crouching-half-ord-hidden-duergar.md)  
-The heroes head into the sewers and beyond to assist Guros in the situation below the city.  
+The heroes head into the sewers and beyond to assist Gurrus in the situation below the city.  
 
 [January 16, 2020 - Shopping Montage](2020/2020-01-16-shopping-montage.md)  
 After some interrogation efforts, the party needs a break with shopping therapy from all that loot.  
@@ -279,10 +279,10 @@ Victorious against the gang, it's time for the time honored tradition of looting
 The heroes are trying to stay out of trouble but trouble came yelling.  
 
 [October 17, 2019 - The Whole Truth](2019/2019-10-17-the-whole-truth.md)  
-After investigating the tracks, the heroes return to check the campsite at `Guros`' request.  
+After investigating the tracks, the heroes return to check the campsite at `Gurrus`' request.  
 
 [October 3, 2019 - Trail to Nowhere](2019/2019-10-03-trail-to-nowhere.md)  
-The heroes continue their covert tracking, with `Guros` by their side.
+The heroes continue their covert tracking, with `Gurrus` by their side.
 
 [September 12, 2019 - CSI Watcher](2019/2019-09-12-csi-watcher.md)  
 The heroes have been given new insight into the Watcher, as well as asked for help on a dwarven plan. What will they decide to do next? 

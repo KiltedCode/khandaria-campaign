@@ -1,6 +1,6 @@
 # May 6, 2021 - Naked Recon
 
-other party going to report to `Guros`  
+other party going to report to `Gurrus`  
 reply, cringes a little bit  
 > what? crap. that's progress  
 > honestly. this sending's shot.  
@@ -69,7 +69,7 @@ see no rocs, no caravans, see some goats and a bear
 go until dark, build some lean-tos for shelter  
 
 Start traveling while dark  
-just after spell prepare, sending from `Guros`  
+just after spell prepare, sending from `Gurrus`  
 > Progress report?  
 > Was anyone dominated? 
 > Initial indications army is moving, confirm if possible, top priority. 

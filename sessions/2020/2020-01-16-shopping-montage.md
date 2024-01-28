@@ -11,20 +11,20 @@ Started trial on fixing _rapier of puncturing_
 too hot at first  
 after 3 tries found the right combo of heating + heat metal  
 
-Later in afternoon `Guros` comes by  
+Later in afternoon `Gurrus` comes by  
 we've had a little trouble  
-interrogated `Craddock`'s corpse, `Melvin` lead interrogation  
+interrogated `Craddock`'s corpse, `Melvyn` lead interrogation  
 describe fully the threat to the city:  
 "the poor revolting against the new khan. with no guards defending the street, the will rise and set fire to the city"  
 peasant revolt lead by human, halfling, elf wizard: `Ragnar`, `Derrius`, `Insed`  
-`Melvin` asked about members of cult of sarenrae  
+`Melvyn` asked about members of cult of sarenrae  
 two known: `Wernick` and `Korin`, others were nobody's the reported to ugly priest  
 arrested `Rosnick` for this  
 not done in a **zone of truth**, not sure if he could lie  
-`Guros` wants to know if a high level cleric could avoid telling truth in **zone of truth** (about `Rosnick`)  
+`Gurrus` wants to know if a high level cleric could avoid telling truth in **zone of truth** (about `Rosnick`)  
 `Lonny` is not being cooperative, tried offering him life on road crew but still not talking  
 `Soren` may want to set aside rules of taking harsher measures to get information about threat on city  
-still holding `Rosnick` at `Melvin`'s insistence  
+still holding `Rosnick` at `Melvyn`'s insistence  
 going to interrogate in **circle of truth** again, let him go if nothing new  
 
 Is there anyway we can help?  

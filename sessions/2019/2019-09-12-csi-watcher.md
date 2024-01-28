@@ -51,32 +51,32 @@ barter with wizard, wanted 25% extra to craft
 talked him down to 10%, 6,600 gp  
 takes 4k in gems as partial payment  
 
-want to look for `Guros`  
+want to look for `Gurrus`  
 swing by Embassy Row on way to Justice Hill  
-hear large crowd outside dwarven embassy, held back by city guards, led by `Guros`  
+hear large crowd outside dwarven embassy, held back by city guards, led by `Gurrus`  
 behind the gate are some dwarven guards  
 give **urban grace** to `Pylia`, `Belsaran` redirects some people, gets one to throw up  
-`Guros` spots us, waves us through the guards  
+`Gurrus` spots us, waves us through the guards  
 crowd angry at this  
 `Pylia` moves through crowd restoring drunk people  
 finds a fighter who seems instigator  
 `Pylia` tries to **hold person**, he draws sword, sets off peace bond  
 guards come forward, `Belsaran` leaps from light post and confronts him  
 he attacks `Belsaran`, gets tripped, grappled, pinned  
-`Guros` grabs the guy and yells "Who are you?!"  
+`Gurrus` grabs the guy and yells "Who are you?!"  
 tries to say `Belsaran` attacked him  
 more guard attracted by the noise, crowd getting nervous and dispersing  
-`Guros` puts on the handcuffs that go through wrists  
+`Gurrus` puts on the handcuffs that go through wrists  
 notice guard doesn't say anything, just rips tape off to get it to stop  
-`Guros` sends guards to break up remaining crowd  
-`Guros` will be going back to Justice Hill, will have some guards on this section of Embassy Row  
+`Gurrus` sends guards to break up remaining crowd  
+`Gurrus` will be going back to Justice Hill, will have some guards on this section of Embassy Row  
 
 Walk back with him on way to Justice Hill  
-`Guros` says it's been a nightmare: push underground, mood of the city after Watcher incident  
-`Guros` gives `Pylia` a friendly look, she winks in return  
+`Gurrus` says it's been a nightmare: push underground, mood of the city after Watcher incident  
+`Gurrus` gives `Pylia` a friendly look, she winks in return  
 realize `Z` will grow again and prepares to recast **reduce animal**  
 `Z `annoyed at being re-shrunk  
-`Guros` was with crowd outside palace and not even watching screen at the time  
+`Gurrus` was with crowd outside palace and not even watching screen at the time  
 He's been promoted to City Warden, captain of guard and one of high level controllers of the city  
 not much left up at the Watcher, no trace of contingent of city guard (6 men)  
 found some hoof prints, suggestion may have been attackers  
@@ -85,18 +85,18 @@ offer up ranger abilities and spells to help with tracks
 lost trail, not sure if magically erased or just lost over rocks  
 very smooth face, almost like a knife, dwarves said most likely mining explosives to get that  
 **detect magic** for "overwhelming aura" that deflected our portal  
-`Guros` might be able to use some pull, but heard about our screw up with `Soren`  
-`Guros` said you might not have been wrong, rumors about `Kulug the Cruel`  
+`Gurrus` might be able to use some pull, but heard about our screw up with `Soren`  
+`Gurrus` said you might not have been wrong, rumors about `Kulug the Cruel`  
 Warns that `Soren` is less tolerant about a lot of things than `Magnus` was  
 
-`Guros` leads us to palace, talks to `Pellum` about spell  
-decides to send us with `Guros`  
+`Gurrus` leads us to palace, talks to `Pellum` about spell  
+decides to send us with `Gurrus`  
 takes us to back of palace grounds  
 at base of cliff are contingent of guards and wizards  
 cast **fly** on the guard, goes up and everyone just watching  
 then he flies out and in a circle  
 we all get **fly** and go up, a bunch of archers up there  
-`Captain Baron` in charge up here from palace guard, `Guros`  
+`Captain Baron` in charge up here from palace guard, `Gurrus`  
 when mention previous `Khan`, he remembers we were tight and shaken a little  
 let's me **detect magic** and find overwhelming magic trace, mage confirms  
 abjuration spells that must have been very strong  
@@ -108,14 +108,14 @@ rotated guards 4 days before, one had magic, could have detected if had tried
 discuss Asmodeus in connection as well, Sarenrae in Eclipse  
 asks if anything else, because "this is a secured area"  
 `Pylia` jumps, **feather fall**, fall, feather fall, fall...  
-we fly down with `Guros`  
-`Guros` surprised as well that he doesn't want us to cast **residual tracking** or know result  
-`Guros` wonders if problem in palace guard, really wants to know and get me up there  
-`Guros` suggest go up tomorrow night, he's going to look into _goggles of night_  
+we fly down with `Gurrus`  
+`Gurrus` surprised as well that he doesn't want us to cast **residual tracking** or know result  
+`Gurrus` wonders if problem in palace guard, really wants to know and get me up there  
+`Gurrus` suggest go up tomorrow night, he's going to look into _goggles of night_  
 going to use boat with chains, **ant haul** with **overland flight** from ring  
 
 Meet just before nightfall  
-`Guros` gives out _goggles of night_  
+`Gurrus` gives out _goggles of night_  
 two guards row us quickly upstream  
 they are trustworthy - watched over `Belsaran` when thought old gang was following him  
 set up `Belsaran` Blimp  

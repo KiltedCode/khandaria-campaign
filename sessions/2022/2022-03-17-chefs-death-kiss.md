@@ -28,19 +28,19 @@ decide to go out Farmer's gate
 influx of refugees is higher than when arrived and was already pretty full then  
 find paladins on other side of out coming  
 they're in a nice square, space around them as well  
-`Halbir` there, with second in command  
+`Halber` there, with second in command  
 translator `Magal` wearing armor that clearly doesn't fit him  
 fill him in on talking with spirits  
 by time finishing all the translating army is out  
 a very slow pace  
 make jokes about speed, could have come late and caught up  
-`Qa'dat` picks up that `Halbir` thinks that would have been unprofessional  
+`Qa'dat` picks up that `Halber` thinks that would have been unprofessional  
 a light snow comes down as the day progresses  
 `Cedric` talking to `Magal`, can tell something is wrong  
 says weather, the sky doesnt fall   
 but `Qa'dat` knows it is not the weather  
 asks about the armor, can tell he's afraid, he's not a fighter  
-`Qa'dat` tells him to leave the fighting to us so we can keep understanding `Halbir`  
+`Qa'dat` tells him to leave the fighting to us so we can keep understanding `Halber`  
 then offers him jerky  
 `Lucy` goes and gathers herbs and stuff  
 
@@ -70,14 +70,14 @@ stops after 8 minutes
 
 `Lucy` tracks the blood  
 find body of acolyte dead, under a cot  
-go into tent with `Halbir`, `Magal`, and Lieutenant  
+go into tent with `Halber`, `Magal`, and Lieutenant  
 tell about acolyte  
 also tell them about sensor on `Magal`  
-`Halbir` is unsurprised and unconcerned  
+`Halber` is unsurprised and unconcerned  
 come out of tent, realize acolyte is gone  
 `Lucy` finds tracks  
 find cut in the track that makes it unique  
-tell `Magal` we are going, `Halbir` steps up and so does 4 Paladins  
+tell `Magal` we are going, `Halber` steps up and so does 4 Paladins  
 get paladins to stay behind  
 `Lucy` goes mouse  
 `Qa'dat` follows trail, but doesn't see `Lucy` (mouse at night)  

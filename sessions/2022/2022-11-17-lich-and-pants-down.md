@@ -25,11 +25,11 @@ but t-rex is deafened and nauseated
 partially open, but not undone  
 `Paladins` ride towards `Lich` taking attacks of opportunities  
 all channel and hurt `Lich` badly  
-`Halbir` leaps onto the dino  
+`Halber` leaps onto the dino  
 `Prince of Earth` keeps reading  
 rolls it up, hands back  
 some disagreement about the scroll, no idea what will happen next  
-`Lich` attempts **word of recall**, `Halbir` hits with aoo  
+`Lich` attempts **word of recall**, `Halber` hits with aoo  
 `Qa'dat` casts **storm of blades**  
 kills the `Lich` that disintigrates before it hits the ground  
 sense the aura is gone  

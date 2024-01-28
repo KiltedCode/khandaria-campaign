@@ -32,11 +32,11 @@ identify items
 
 Go out to talk to guards  
 tell them him the crazy story, take him down to see everything  
-thinks this is important enough to take uniform to `Guros` now  
+thinks this is important enough to take uniform to `Gurrus` now  
 consider all the loot ours, take it all with us  
 pass guards coming in as we're going out  
 
-Talk to `Guros`  
+Talk to `Gurrus`  
 give him the uniform  
 words muttering means nothing to peace bonding, only need to be wearing a sergeant's uniform  
 means they know how this works and get around peace bonding  
@@ -146,7 +146,7 @@ was holding a _rod_ that extends the range of spells that aren't always
 could be anywhere in the city  
 also stolen was a _ring of invisibility_  
 
-need to get to `Guros` and warn him immediately  
+need to get to `Gurrus` and warn him immediately  
 
 > **LEVEL UP!**
 

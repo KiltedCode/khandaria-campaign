@@ -44,7 +44,7 @@ come back to share
 agree on teleportation  
 `Mel` remembers this symbol for teleportation circle in Ur'gench  
 
-Sending from `Guros`  
+Sending from `Gurrus`  
 > Hi `Pylia`.  
 > Khan renewed dwarven contract.  
 > Rendezvous dwarves.  
