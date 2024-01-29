@@ -103,6 +103,7 @@ suggest killing `Shag'nurab` as soon as possible
 `Lucy` going to help take it out in crazy pattern for confusion of direction goes  
 
 end of council  
+Ask `Gurrus` about _Belt of Thunderous Charging_ for `Pawtrick`  
 go to rest and sleep  
 wake up and heal  
 
