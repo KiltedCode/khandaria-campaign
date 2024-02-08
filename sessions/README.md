@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[February 7, 2024 - Camping and Chaos](2024/2024-02-07-camping-and-chaos.md)  
+On the eve of battle the heroes consider causing some chaos while the enemy camps on the cliff side.  
+
 [January 18, 2024 - War Council](2024/2024-01-18-war-council.md)  
 The heroes head to the palace to consult with the Khan on the evening of war.  
 

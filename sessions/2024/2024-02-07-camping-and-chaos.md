@@ -1,4 +1,4 @@
-# February 7, 2024 - 
+# February 7, 2024 - Camping and Chaos
 
 When wake up, immediately briefed  
 arrive with gifts  
