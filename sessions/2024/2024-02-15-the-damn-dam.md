@@ -1,4 +1,4 @@
-# February 15, 2024 - 
+# February 15, 2024 - The Damn Dam
 
 realized working to drop cliff on palace  
 the party going to try and knock out river flow  
@@ -40,30 +40,30 @@ walk out to second
 `Pylia` look at magic, transmutation spell    
 `Faleor` and `Belsaran` feel locking on second as well  
 
-distrubance all the way out to third wheel  
+disturbance all the way out to third wheel  
 third wheel has clamp  
 magic is come from right here  
 clamp looks untouched, old ice on it  
-adamantium clamp  
+adamantine clamp  
 `Belsaran` breaking the ice  
-`Faleor` realizes that's why adamantium, so can break ice and not damage  
+`Faleor` realizes that's why adamantine, so can break ice and not damage  
 pull clamp off  
 try and can't move  
 realize clamp was to keep it from moving on own  
-shaft has _soverign glue_ on it  
-but `Faleor` has _univeral solvent_  
+shaft has _sovereign glue_ on it  
+but `Faleor` has _universal solvent_  
 ninja attacks `Faleor`  
 attempts to grab vial and fails  
 vanishes  
 `Faleor` 5ft step back, draws bow and hands off vial  
-`Pylia` starts applying glue with vine  
+`Pylia` starts applying _universal solvent_ with vine  
 `Belsaran` hears something, small bag with fuse between all  
 `Belsaran` throws it away  
 explodes in 10ft cloud  
 `Faleor` calls `Pawtrick` closer  
 `Belsaran` tries smog pellet  
 _faerie fire_ to try and find ninja fails  
-
+ninja must be to side or behind us  
 
 
 [back to table of contents](/sessions/README.md)

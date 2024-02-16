@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[February 15, 2024 - The Damn Dam](2024/2024-02-15-the-damn-dam.md)  
+The heroes must move quickly to try and cut off the water to slow the plan to drop the cliff side on the palace so the attack can mobilize.
+
 [February 7, 2024 - Camping and Chaos](2024/2024-02-07-camping-and-chaos.md)  
 On the eve of battle the heroes consider causing some chaos while the enemy camps on the cliff side.  
 
