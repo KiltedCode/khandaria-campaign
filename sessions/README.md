@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[February 29, 2024 - Damn Dam 2: Dam Harder](2024/2024-02-29-damn-man-2-dam-harder.md)  
+With a sticky wicket and ninja problem on the dam, the heroes must find a way to get the damn open.. and fast!
+
 [February 15, 2024 - The Damn Dam](2024/2024-02-15-the-damn-dam.md)  
 The heroes must move quickly to try and cut off the water to slow the plan to drop the cliff side on the palace so the attack can mobilize.
 
