@@ -1,4 +1,4 @@
-# March 7, 2024 - 
+# March 7, 2024 - Here Comes the Boom
 
 Buffing Plan on way to battle:
 - **blur** (via spirits gift): 10 min (`Pawtrick`)
@@ -57,8 +57,7 @@ another hits and grabs `Faleor`
 `Belsaran` kills the roc  
 `Pawtrick` kills a hobgoblin  
 `Faleor` draws his rapier, drains 5 points of con  
-
-
+`Z` attacks spider  
 
 
 [back to table of contents](/sessions/README.md)
