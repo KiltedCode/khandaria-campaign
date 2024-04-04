@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[March 7, 2024 - Here Comes the Boom](2024/2024-03-07-here-comes-the-boom.md)  
+Having opened the damn the heroes turn their focus to the army and the attack that is just starting.  
+
 [February 29, 2024 - Damn Dam 2: Dam Harder](2024/2024-02-29-damn-man-2-dam-harder.md)  
 With a sticky wicket and ninja problem on the dam, the heroes must find a way to get the damn open.. and fast!
 
