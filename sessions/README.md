@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[April 4, 2024 - It's _Not_ Just a Phase](2024/2024-04-04-its-not-just-a-phase.md)  
+The heroes find themselves in the middle of their own fight of hobgoblins and phase spiders. Will they succeed or will they be spider food?
+
 [March 7, 2024 - Here Comes the Boom](2024/2024-03-07-here-comes-the-boom.md)  
 Having opened the damn the heroes turn their focus to the army and the attack that is just starting.  
 

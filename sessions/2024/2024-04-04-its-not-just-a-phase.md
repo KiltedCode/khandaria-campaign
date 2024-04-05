@@ -1,4 +1,4 @@
-# April 4, 2024
+# April 4, 2024 - It's _Not_ Just a Phase
 
 `Faleor` and `Pawtrick` Buffs:
 - **blur** (via spirits gift): 10 min (`Pawtrick`)
@@ -67,7 +67,6 @@ dump items onto carpet
 feel the channel between the bag and the heart  
 drag to draw a portal, bag disintegrates  
 take carpet through  
-
 
 
 
