@@ -1,4 +1,4 @@
-# May 2, 2024 - 
+# May 2, 2024 - Ethereal Phone Home
 
 `Pylia` is unconscious  
 failed stabilization roll  
@@ -154,8 +154,9 @@ gate opens and pile through
 nod to giant, lets us keep anchor  
 realize it is like all the elements of the material plane combined together  
 
-
-
+about 2am  
+could try to rest for wall  
+or could try ninja crew  
 
 
 [back to table of contents](/sessions/README.md)
