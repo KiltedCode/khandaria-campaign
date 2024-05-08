@@ -48,7 +48,7 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
-[May 2, 2024 - Ethereal, Phone Home](2024/2024-05-02-ethereal-phone-home.md)  
+[May 2, 2024 - Living in an Ethereal World, and I am a Material Girl](2024/2024-05-02-ethereal-world-material-girl.md)  
 While the main battle against the spiders is over, `Faleor` and `Belsaran` enter the ethereal plane in an attempt to bring `Pylia` home. Will the party be reunited or will they be forever broken?  
 
 [April 4, 2024 - It's _Not_ Just a Phase](2024/2024-04-04-its-not-just-a-phase.md)  

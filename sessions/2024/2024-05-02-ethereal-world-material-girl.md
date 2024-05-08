@@ -1,4 +1,4 @@
-# May 2, 2024 - Ethereal Phone Home
+# May 2, 2024 - Living in an Ethereal World, and I am a Material Girl
 
 `Pylia` is unconscious  
 failed stabilization roll  
