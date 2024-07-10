@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[June 20, 2024 - Party Swap](2024/2024-06-20-party-swap.md)  
+The time has come to mix things up. It's a battle for the city against and army seen and ninjas unseen.  
+
 [May 2, 2024 - Living in an Ethereal World, and I am a Material Girl](2024/2024-05-02-ethereal-world-material-girl.md)  
 While the main battle against the spiders is over, `Faleor` and `Belsaran` enter the ethereal plane in an attempt to bring `Pylia` home. Will the party be reunited or will they be forever broken?  
 
