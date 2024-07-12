@@ -48,6 +48,10 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[July 11, 2024 - To the Wall](2024/2024-07-11-to-the-wall.md)  
+As one party heads into the desert it is time for the other to ascend the wall in defense of Ur'gench.  
+
+
 [June 20, 2024 - Party Swap](2024/2024-06-20-party-swap.md)  
 The time has come to mix things up. It's a battle for the city against and army seen and ninjas unseen.  
 
