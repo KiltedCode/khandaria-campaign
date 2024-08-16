@@ -40,6 +40,9 @@ inquisitor of the city, questioned `Belsaran` in the past, questioned `Korin` af
 ~~`General Tullius`~~ 💀  
 general in charge of fight with duergar below the city in the tunnels, killed in battle outside the underground prison  
 
+`General Corvo`  
+new general in charge of Khandarian Armies  
+
 `Colonel Gaius`  
 guard at the front check point under the city  
 
