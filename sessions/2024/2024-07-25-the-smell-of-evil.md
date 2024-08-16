@@ -1,4 +1,4 @@
-# July 25, 2024 - 
+# July 25, 2024 - The Smell of Evil
 
 Magic off:  
 Divination, Evocation, Conjuration  
