@@ -48,6 +48,12 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+[August 15, 2024 - Pyleagle the Planner](2024/2024-08-15-pyleagle-the-planner.md)  
+Back to the wall adventurers itch to attack while others look for a plan.  
+
+[July 25, 2024 - The Smell of Evil](2024/2024-07-25-the-smell-of-evil.md)  
+As the party readies to head towards the desert and Paladins, a smell hangs in the air.  
+
 [July 11, 2024 - To the Wall](2024/2024-07-11-to-the-wall.md)  
 As one party heads into the desert it is time for the other to ascend the wall in defense of Ur'gench.  
 
