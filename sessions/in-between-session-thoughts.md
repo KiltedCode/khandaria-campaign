@@ -2,6 +2,8 @@
 
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
+How did ninjas see invisible without divination?  
+
 ## Before the final battle
 
 speech from `Faleor`:  

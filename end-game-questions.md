@@ -17,6 +17,7 @@ Below are questions that have come up during the course of the campaign. These a
 1. Is there connection between the silver raven figurine from `Craddock`'s loot with command word of _agna_, and `Agna` the fighter, works with `Serda` who got captured?
 1. Was there really a plan to replace the Khan or was it just a red herring?
 1. What was rogue scent in the under construction house?
+1. How did ninjas see invisibility without divination
 
 
 ## Random Thoughts
