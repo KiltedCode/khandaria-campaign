@@ -1,4 +1,4 @@
-# November 7, 2024 - 
+# November 7, 2024 - Relic Keep Away
 
 ROUND COUNTER: |||  
 dire collar and no smell round 1  
