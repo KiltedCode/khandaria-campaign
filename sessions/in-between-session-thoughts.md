@@ -2,7 +2,9 @@
 
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
-How did ninjas see invisible without divination?  
+`Pawtrick` to charge to `Faleor`  
+`Faleor` haste shots with miss chance  
+
 
 ## Before the final battle
 
