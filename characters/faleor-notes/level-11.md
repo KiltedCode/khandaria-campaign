@@ -31,7 +31,7 @@ Skill: 6+2
 Spell short list  
 - aid (+1 morale on attacks plus temp HP)
 - ally across time (duplicate in space to threaten and aid)
-- blistering incentive (intimidate for fire damage)
+- _blistering invective_ (intimidate for fire damage)
 - boneshaker (5d6 bone damage)
 - detect thoughts
 - flames of the faithful (flaming property)
@@ -39,7 +39,7 @@ Spell short list
 - invisibility
 - perceive cues (+5 perception and sense motive)
 - restoration, lesser
-- see invisibility
+- _see invisibility_
 - shared training (share teamwork)
 - silence
 - whispering wind
