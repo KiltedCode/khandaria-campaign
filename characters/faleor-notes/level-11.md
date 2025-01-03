@@ -2,7 +2,7 @@
 
 ## Faleor
 
-Inquisitor: Level 5  
+Inquisitor: Level 4  
 d8: x+2 HP  
 BAB +1  
 Fort +1  
