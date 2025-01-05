@@ -48,6 +48,13 @@ _(reverse chronological order)_
 
 The Qublan army approaches Ur'gench from the mountains and the plains. Both have suffered loses but they continue their march. Will this be the final countdown for our heroes? Will it lead to glory or only death?
 
+
+[December 19, 2024 - Khandaria Hills Ninja](2024/2024-12-19-khandaria-hills-ninja.md)  
+As the heroes fight in the smoke and silence, can they keep the ninjas from the relic and vanishing without a trace?
+
+[November 7, 2024 - Relic Keep Away](2024/2024-11-07-relic-keep-away.md)  
+In a moment of surprise, the ninjas attack! Can the heroes protect the relic or will the ninjas plan succeed?  
+
 [October 17, 2024 - Camping is a Legitimate Strategy](2024/2024-10-17-camping-is-a-legitimate-strategy.md)  
 Back in the snowy desert, the heroes find their way to camp, where they find surprising progress.  
 

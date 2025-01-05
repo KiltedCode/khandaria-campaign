@@ -1,4 +1,4 @@
-# December 19, 2024 - 
+# December 19, 2024 - Khandaria Hills Ninja
 
 ROUND COUNTER: |||||-  
 dire collar and no smell round 1  
