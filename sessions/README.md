@@ -42,6 +42,15 @@ The Qublan army approaches Ur'gench from the mountains and the plains. Both have
 
 _(reverse chronological order)_  
 
+## 2025
+
+## The Final Countdown
+
+The remaining Qublan army has arrived at Ur'gench from the plains. The final battle is at hand. Will our heroes be able to protect the city or will this be the end for Khandaria?
+
+[February 6, 2025 - Hooollllllddddd](2025/2025-02-06-hooollllllddddd.md)  
+The heroes look on as the trebuchets launch. Will they be able to hold, as commanded or is now the time to fight?
+
 ## 2024
 
 ### The Final Countdown
