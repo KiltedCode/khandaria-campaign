@@ -2,8 +2,8 @@
 
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
-`Pawtrick` to charge to `Faleor`  
-`Faleor` haste shots with miss chance  
+drew scroll of deeper darkness, stone to drop into howda  
+shadow trex 2 since slow cant move  
 
 
 ## Before the final battle
