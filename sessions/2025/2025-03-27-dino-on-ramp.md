@@ -1,4 +1,4 @@
-# March 27, 2025 - 
+# March 27, 2025 - Dino On Ramp
 
 boiling down combat to our portion  
 **call lightning storm** active for `Qa'dat`  

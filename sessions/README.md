@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The remaining Qublan army has arrived at Ur'gench from the plains. The final battle is at hand. Will our heroes be able to protect the city or will this be the end for Khandaria?
 
+[March 27, 2024 - Dino On Ramp](2025/2025-03-27-dino-on-ramp.md)  
+The heroes launch into battle, face-to-face with tyrannical dino foes.  
+
 [February 6, 2025 - Hooollllllddddd](2025/2025-02-06-hooollllllddddd.md)  
 The heroes look on as the trebuchets launch. Will they be able to hold, as commanded or is now the time to fight?
 
