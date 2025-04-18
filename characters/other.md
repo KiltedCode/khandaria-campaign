@@ -53,6 +53,9 @@ half-elven cleric of some Elven goddess, prim woman, hair up in librarian bun, p
 `Valdrin`  
 tall, rather dour human fighter, seems vaguely irritated at all times, part of team to scout castle  
 
+`Addvar the Archer`  
+archer on the wall that `Pylia` selected to buff, took down a mighty t-rex with a single arrow
+
 
 ## General  
 
