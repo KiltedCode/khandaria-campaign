@@ -38,7 +38,7 @@ archers fire, one hits `Qa'dat`
 `Qa'dat` calls down a **lighting bolt** and draws a scroll  
 kills one archer and hurts rex  
 `Katla` waits  
-`Aiya` attempts to **dominate animal** again  
+`Eiya` attempts to **dominate animal** again  
 successful on rex 4 and orders it to attack rex 1  
 brings it to one HP  
 `Addvar the Archer` takes rex down  
