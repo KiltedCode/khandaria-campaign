@@ -3,7 +3,7 @@
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
 drew scroll of deeper darkness, stone to drop into howda  
-shadow trap trex 2 since slow cant move  
+give scroll of baleful polymorph to `Eiya`  
 
 
 ## Before the final battle
