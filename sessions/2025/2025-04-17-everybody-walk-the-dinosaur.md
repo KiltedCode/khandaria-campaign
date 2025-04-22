@@ -1,4 +1,4 @@
-# April 17, 2025 -
+# April 17, 2025 - Everybody Walk the Dinosaur
 
 **call lightning storm** active for `Qa'dat`  
 used: ||  of 10  
