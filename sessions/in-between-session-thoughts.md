@@ -2,8 +2,9 @@
 
 Just a random place for thoughts between sessions or for future sessions to hold onto until they become relevant.
 
-drew scroll of deeper darkness, stone to drop into howda  
-give scroll of baleful polymorph to `Eiya`  
+give scroll of baleful polymorph to `Eiya`?  
+drop some lightning bolts on U  
+give fly and / or Fortune to `Caedric`?  
 
 
 ## Before the final battle
