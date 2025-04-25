@@ -54,7 +54,7 @@ half-elven cleric of some Elven goddess, prim woman, hair up in librarian bun, p
 tall, rather dour human fighter, seems vaguely irritated at all times, part of team to scout castle  
 
 `Addvar the Archer`  
-archer on the wall that `Pylia` selected to buff, took down **two** mighty t-rexes with single arrows
+archer on the wall that `Pylia` selected to buff, took down **three** mighty t-rexes with single arrows
 
 
 ## General  
