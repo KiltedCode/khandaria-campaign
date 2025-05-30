@@ -6,6 +6,8 @@ give scroll of baleful polymorph to `Eiya`?
 drop some lightning bolts on U  
 give fly and / or Fortune to `Caedric`?  
 
+Spiritual Ally to go after U1
+
 
 ## Before the final battle
 
