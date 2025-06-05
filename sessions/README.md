@@ -48,6 +48,9 @@ _(reverse chronological order)_
 
 The remaining Qublan army has arrived at Ur'gench from the plains. The final battle is at hand. Will our heroes be able to protect the city or will this be the end for Khandaria?
 
+[May 29, 2025 - Undead Rumble](2025/2025-05-29-undead-rumble.md)  
+The battle against the undead rumbles on as the reach our heroes on the wall.
+
 [April 24, 2025 - Vargoyle Kissing Booth](2025/2025-04-24-vargoyle-kissing-booth.md)  
 As the undead approach, can the heroes of the wall hold fast.  
 
