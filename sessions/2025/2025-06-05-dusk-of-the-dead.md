@@ -1,4 +1,4 @@
-# June 5, 2025 - 
+# June 5, 2025 - Dusk of the Deadß
 
 **call lightning storm** active for `Qa'dat`  
 used: |||  of 10  
@@ -6,7 +6,7 @@ used: |||  of 10
 **spiritual ally**  
 |||| of 10  
 
-
+ß
 `Caedric` looks at U1  
 it is a bhuta  
 known for bleeding, makes you bleed then sucks your blood  
