@@ -6,7 +6,10 @@ give scroll of baleful polymorph to `Eiya`?
 drop some lightning bolts on U  
 give fly and / or Fortune to `Caedric`?  
 
-Spiritual Ally to go after U1
+qa'dat evil eye for AC  
+chant to extend  
+or just stand and chant to extend  
+or crawl then chant?   
 
 
 ## Before the final battle
