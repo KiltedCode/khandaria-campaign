@@ -1,4 +1,4 @@
-# June 19, 2025 - 
+# June 19, 2025 - I Feel the Earth Move Under my Feet
 
 **call lightning storm** active for `Qa'dat`  
 used: |||  of 10  
@@ -120,7 +120,7 @@ drops on `Caeric` to get all of them
 he's immune to fire, evasion and takes no damage at all  
 S7 dies, S6 hurting, `Shogun` unfazed  
 `Eiya` casts **false life** on `Caedric`  
-`Addvar the Archer` misses  ßß
+`Addvar the Archer` misses  
 
 
 [back to table of contents](/sessions/README.md)
