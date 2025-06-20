@@ -6,7 +6,6 @@ used: |||  of 10
 **spiritual ally**  
 |||| of 10  
 
-ß
 `Caedric` looks at U1  
 it is a bhuta  
 known for bleeding, makes you bleed then sucks your blood  
