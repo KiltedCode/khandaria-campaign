@@ -9,7 +9,8 @@ give fly and / or Fortune to `Caedric`?
 qa'dat evil eye for AC  
 chant to extend  
 or just stand and chant to extend  
-or crawl then chant?   
+or crawl then chant?  
+could move towards Mel to get out of 20ft reach    
 
 
 ## Before the final battle
