@@ -163,3 +163,19 @@ Skills: 4+1+1
 4. Sense Motive
 5. Stealth
 6. Knowledge Arcana
+
+
+## Level 11
+
+HP: 8 + 3
+Favored class option: Stealth
+BAB +1 
+1 6th level spell slot (+1 for wisdom)
+
+Skills: 4+1+1  
+1. Perception
+2. Spellcraft
+3. Sense Motive
+4. Survival
+5. Diplomacy
+6. Knowledge Local
