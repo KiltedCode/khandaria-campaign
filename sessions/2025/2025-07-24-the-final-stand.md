@@ -90,12 +90,13 @@ not going to attack in winter
 will be time before army goes north  
 
 Option 1: asked to join the army as high level adventurers  
-two powerful to be normal army, special forces ops  
+too powerful to be normal army, special forces ops  
 missions like "clear this castle" or "recon here"  
-likely first asked to subue the Purple Men villages  
+likely first asked to subdue the Purple Men villages  
 will gain a cohort  
 size inverse with level  
 ie. level 1 == 50, level 6 == 6, level 9 = 3  
+split among us, so we could each have a second level 9 character as a cohort  
 
 Option 2: diplomatic mission into Qubla  
 body guards to them, but also spies, assassins as well  
@@ -103,7 +104,8 @@ secretive missions, Mission Impossible style heists
 mission to demand reparations of 30m gold (easy), 30k gold / year as tribute (hard), and appology from invisible emperor (expected to be impossible)  
 if succeed can prevent war  
 
-Option 3: become evident that gods themselves are interested in this  
+Option 3: planar detectives  
+become evident that gods themselves are interested in this  
 `Pylia` seen `Asmodeus` twice, Sarenrae in Eclipse, Paladins with avatar of a god  
 Gods don't usually get involved, just give spells  
 church wants someone to investigate  
