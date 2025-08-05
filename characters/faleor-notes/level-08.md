@@ -29,6 +29,7 @@ Skill: 6+2 + 7 for int increase
     1. survival  
 
 ## Pawtrick
+
 +1 HD  
 +1 BAB  
 +1 Skill (intimidate)  

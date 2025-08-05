@@ -30,6 +30,7 @@ Skill: 6+2
 8. umd
 
 ## Pawtrick
+
 HD +1  
 BAB +1  
 Fort +1  
