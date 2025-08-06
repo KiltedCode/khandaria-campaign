@@ -86,6 +86,10 @@ Weapon:
 - longsword
     - one handed to make drinking easier
     - 1d8, 19-20/x2 crit, slashing
+- bastard sword
+    - 1d10, 19-20/x2 6 lbs
+    - two handed, exotic for one hand
+    - probably only worth it if invest feat to use one handed, otherwise greatsword is better
 - bludgeoning weapon
     - named bone crusher
     - "This weapon is infused with my magic to crush the bones of my enemies."
@@ -120,6 +124,7 @@ Magic Gear:
 - elixir of thundering voice (250)
 - spellsight bracers (2100) mostly RP reasons
 - tankard of drunken hero (5,300)
+- scabbard of many blades (5,000) 4 two handed weapons
 
 
 Potions
@@ -152,7 +157,7 @@ Racial Traits
 - tenacious: re-roll fortitude save, will save, or constitution check once per day, instead of orc ferocity
 
 Feats
-- power attack, cleave, surprise follow-through
+- power attack, cleave, surprise follow-through, quick draw (can get from rage power)
 - intimidating prowess
 - improved critical: double crit range of greatsword to 17-20
 - fire god's blessing: heal 1 hp when dealing fire damage, good with flaming weapon or elemental stance
