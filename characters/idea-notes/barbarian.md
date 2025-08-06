@@ -122,9 +122,11 @@ Magic Gear:
 - amulet of natural armor (2k/8k)
 - level 0 wand - spark (375)
 - elixir of thundering voice (250)
-- spellsight bracers (2100) mostly RP reasons
+- spellsight bracers (2,100) mostly RP reasons
+- bonebreaker bracers
 - tankard of drunken hero (5,300)
 - scabbard of many blades (5,000) 4 two handed weapons
+- eyes of the eagles (2,500) +5 perception
 
 
 Potions
