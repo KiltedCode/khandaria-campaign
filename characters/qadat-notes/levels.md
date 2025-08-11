@@ -172,6 +172,10 @@ Favored class option: Stealth
 BAB +1 
 1 6th level spell slot (+1 for wisdom)
 
+Feat: Extra Hex?  
+Hex: Shapeshift  
+The shaman transforms herself into another form for a number of minutes per day equal to her level, as alter self. This duration does not need to be consecutive, but must be spent in 1-minute increments. Changing form (including changing back) is a standard action that doesn’t provoke an attack of opportunity. At 8th level, this ability works as beast shape I. At 12th level, this ability works as beast shape II. At 16th level, this ability works as beast shape III. At 20th level, this ability works as beast shape IV.  
+
 Skills: 4+1+1  
 1. Perception
 2. Spellcraft
