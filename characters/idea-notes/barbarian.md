@@ -123,9 +123,9 @@ Magic Gear:
 - level 0 wand - spark (375)
 - elixir of thundering voice (250)
 - spellsight bracers (2,100) mostly RP reasons
-- bonebreaker bracers
-- tankard of drunken hero (5,300)
 - scabbard of many blades (5,000) 4 two handed weapons
+- bonebreaker braces (6,000)
+- tankard of drunken hero (5,300)
 - eyes of the eagles (2,500) +5 perception
 
 
