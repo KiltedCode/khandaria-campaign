@@ -100,3 +100,10 @@ headband slot
 _4,800 gp_  
 
 Amulet that can go into like Magnus had  
+
+
+## Qa'dat
+
+[Rod of Grasping Hexes](https://aonprd.com/MagicRodsDisplay.aspx?FinalName=Rod%20of%20Grasping%20Hexes)    
+_11,000 gp_  
+
