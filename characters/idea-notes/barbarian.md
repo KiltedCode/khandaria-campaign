@@ -37,6 +37,26 @@ Dayrunner
 Orcs refuse to yield to any foe, including the sun. Some spend hour upon hour glaring at the sun until their ruined eyes acclimatize to bright light. Orcs with this racial trait take a –2 penalty on all ranged attack rolls. This racial trait replaces light sensitivity.  
 
 
+Could go Half-orc  
+Still could be from nomadic tribe in desert  
+Subrace: Desert Half-Orcs (Sandkin)  
+
+Racial Trait:  
+
+maybe Acute Darkvision  
+darkvision 90 ft  
+replaces orc ferocity  
+seeing at night in desert with need to operate without the heat  
+
+or Sacred Tattoo  
++1 luck on saving  
+replaces orc ferocity  
+from being raised by wizard, gave him this magic tattoo  
+
+if escape from slavery in Qubla  
+Chain Fighter  
+dire flais or spiked chains as martial  
+replaces weapon familiarity  
 
 
 ## Worship
@@ -103,6 +123,7 @@ Weapon:
 - longsword
     - one handed to make drinking easier
     - 1d8, 19-20/x2 crit, slashing
+    - sword of life stealing (+2 longsword, negative level / 1d6 temp HP on crit)
 - bastard sword
     - 1d10, 19-20/x2 6 lbs
     - two handed, exotic for one hand
@@ -113,6 +134,12 @@ Weapon:
     - heavy flail, 1d10, 19-20/x2, 10 lbs
     - earth breaker, 2d6, x3, 14 lbs
     - lucerne hammer, 1d12, x2, brace / reach, 12 lbs
+    - warhammer, 1d8, x2, one handed, 5lbs
+- piercing?
+    - shortspear, 1d6, x2, 3 lbs
+    - ankus, 1d8, x2, disarm, trip
+    - spiked chain, 2d4, x2, two handed, disarm, trip
+        - exotic but can get through half-orc trait
 - javelin x2
     - 1d6, x2, 30ft
     - for use as his "magic missiles"
