@@ -21,6 +21,23 @@ cooks over fire using magic javelin stabbed into ground at angle
 hangs teapot on end  
 masterwork teapot  
 
+## Race
+
+Orc  
+nomadic orc tribe  
+scrub desert that lies west of Khandaria  
+or  
+the hostile badlands that lie west of Qubla  
+how could be here from Qubla? in way that hate Qubla  
+ousted from tribe for being too weak, was really just short, but very strong now  
+thats when living on streets, bullied, adopted, raised to be wizard, failed, but became barbarian adventurer   
+
+Racial Trait:  
+Dayrunner  
+Orcs refuse to yield to any foe, including the sun. Some spend hour upon hour glaring at the sun until their ruined eyes acclimatize to bright light. Orcs with this racial trait take a –2 penalty on all ranged attack rolls. This racial trait replaces light sensitivity.  
+
+
+
 
 ## Worship
 
