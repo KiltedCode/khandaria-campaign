@@ -17,3 +17,39 @@ Option 2 is less our normal style as players in the campaign but I think we have
 Option 3 is definitely the more out there option. Not sure how equipped we are or aren't for the planes. I've haven't done much plan traveling as a player so could be cool. As a player I have a LOT of end of campaign questions around this side of things for Marcus, but I'm ok leaving them for him.
 
 
+Qublan warrior warning.
+Special warriors in all black.
+Can vanish at will.
+Attack from unseen.
+Use poison in air and on weapons.
+Fortify your bodies.
+
+Qublans can control others with collar.
+Have controller with collar or rod.
+Cannot resist.
+Cannot remove.
+Can free if leader dead. 
+Others can regain control.
+
+Victory at wall.
+Prince killed.
+Troops stopped.
+Controlled troops seem free but continue caution.
+Army defeated.
+Look to raise tribe with Khan.
+Looking for tribesmen.
+
+
+Look to Kiva'ral.
+Wait for opportunity.
+Observe town.
+Strike as ready to leave.
+Or when Khandrians approach.
+Limit risk but take advantage.
+Remember hidden warriors.
+
+3 3 3 2
+11
+5 4
+
+
