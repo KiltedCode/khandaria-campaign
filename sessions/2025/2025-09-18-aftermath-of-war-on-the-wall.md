@@ -1,4 +1,4 @@
-# September 18, 2025
+# September 18, 2025 - The Aftermath of War on the Wall
 
 all conscripts are now claiming to be free  
 they want in  
