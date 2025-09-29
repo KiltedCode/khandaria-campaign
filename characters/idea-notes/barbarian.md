@@ -55,7 +55,7 @@ from being raised by wizard, gave him this magic tattoo
 
 if escape from slavery in Qubla  
 Chain Fighter  
-dire flais or spiked chains as martial  
+dire flails or spiked chains as martial  
 replaces weapon familiarity  
 
 
@@ -185,16 +185,32 @@ Potions
 ### Build Powers
 
 Rage Powers (for drunken brute):  
-- internal fortitude, staggering drunk
-- boasting taunt, liquid courage
+- internal fortitude
+    - While raging, the barbarian is immune to the sickened and nauseated conditions. A barbarian must be at least 8th level before selecting this rage power.
+- staggering drunk
+    - While raging, a barbarian gains a +1 dodge bonus to AC against attacks of opportunity for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.
+- Good for What Ails You
+    - While raging, the barbarian who takes a drink of alcohol may attempt a new saving throw against one of the following conditions that may be affecting her: blinded, confused, dazzled, deafened, exhausted, fatigued, frightened, nauseated, panicked, shaken, or sickened. If she succeeds at the save, the effect is suppressed for the duration of the rage. She also may attempt a new saving throw if poisoned; a successful save counts against those required for a cure, but a failed save has no ill effect. 
+- boasting taunt
+    -  While raging, the barbarian can incite a creature to attack her by making an Intimidate check to demoralize. If the check succeeds, the target is also shaken as long as the barbarian is visible and raging or until it makes a melee attack against the barbarian. The barbarian receives a +2 circumstance bonus on this check for every alcoholic drink she has consumed during this rage. This is a language-dependent mind-affecting effect, and it relies on audible components. The barbarian must be at least 6th level to select this power.
+- liquid courage
+    -  While raging, the barbarian increases her morale bonus on saving throws against mind-affecting effects by +1 for each alcoholic drink she consumes during her rage, to a maximum of +1 increase per four barbarian levels. 
 - roaring drunk
+    - While raging, the barbarian gains a +1 morale bonus on Intimidate checks and to the save DC of any fear effects she creates for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.
 
 General Rage Powers:
 - intimidating glare, increased damage reduction
-- superstition, witch hunter, terrifying howl, eater of magic
+- superstition
+    - The barbarian gains a +2 morale bonus on saving throws made to resist spells, supernatural abilities, and spell-like abilities. This bonus increases by +1 for every 4 levels the barbarian has attained. While raging, the barbarian cannot be a willing target of any spell and must make saving throws to resist all spells, even those cast by allies.
+- witch hunter, terrifying howl
+- eater of magic
+    -  Once per rage, when a barbarian fails a saving throw against a spell, supernatural ability, or spell-like ability, she can reroll the saving throw against the effect (this is not an action). If she succeeds at the second saving throw, she is not affected by the spell, supernatural ability, or spell-like ability and gains a number of temporary hit points equal to the effect’s caster level (in the case of spell or spell-like abilities) or the CR of the effect’s creator (in the case of supernatural abilities). These temporary hit points last until damage is applied to them or 1 minute, whichever occurs first. A barbarian must have the superstition rage power and be at least 10th level before selecting this rage power.
+- Mighty Swing
+    - The barbarian automatically confirms a critical hit. This power is used as an immediate action once a critical threat has been determined. A barbarian must be at least 12th level before selecting this power. This power can only be used once per rage.
 
 Stance
-- accurate stance (offset power attack) vs
+- accurate stance (offset power attack)
+    - The barbarian can focus her strikes. She gains a +1 competence bonus on melee attack rolls and thrown weapon attack rolls. This bonus increases by 1 for every 4 levels the barbarian has. This is a stance rage power.
 - elemental stance (energy damage) vs
 - regenerative stance (get back hp since front line)
 
@@ -203,14 +219,23 @@ Racial Traits
 - tenacious: re-roll fortitude save, will save, or constitution check once per day, instead of orc ferocity
 
 Feats
-- power attack, cleave, surprise follow-through, quick draw (can get from rage power)
+- power attack
+    - You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is increased by half (+50%) if you are making an attack with a two-handed weapon, a one handed weapon using two hands, or a primary natural weapon that adds 1-1/2 times your Strength modifier on damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and every 4 points thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+- cleave, surprise follow-through, quick draw (can get from rage power)
+- combat reflexes
+    - You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus. With this feat, you may also make attacks of opportunity while flat-footed.
 - intimidating prowess
-- improved critical: double crit range of greatsword to 17-20
-- fire god's blessing: heal 1 hp when dealing fire damage, good with flaming weapon or elemental stance
+    - Add your Strength modifier to Intimidate skill checks in addition to your Charisma modifier.
+- improved critical
+    - double crit range of greatsword to 17-20
+- fire god's blessing
+    - heal 1 hp when dealing fire damage, good with flaming weapon or elemental stance
 - gore fiend: confirm crit adds round of rage, good with falchion
-- drunken brawler: drink gets -2 reflex, temporary hp == character level, +2 fortitude and will, needs endurance
-
-
+- drunken brawler
+    - drink gets -2 reflex, temporary hp == character level, +2 fortitude and will, needs endurance
+- bullying blow
+    - As a standard action, you may make a melee attack with a –2 penalty on the attack roll. If the attack damages your opponent, you may make an Intimidate check to demoralize that opponent as a free action.
+    - only if orc
 
 
 
