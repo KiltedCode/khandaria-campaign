@@ -48,6 +48,15 @@ _(reverse chronological order)_
 
 The remaining Qublan army has arrived at Ur'gench from the plains. The final battle is at hand. Will our heroes be able to protect the city or will this be the end for Khandaria?
 
+[September 25, 2025 - Between a Rock and a Stone Fist](2025/2025-09-25-between-a-rock-and-a-stone-fist.md)  
+As all the heroes are back together, Qa'dat gets summoned to the Khan.  
+
+[September 18, 2025 - Aftermath of War on the Wall](2025/2025-09-18-aftermath-of-war-on-the-wall.md)  
+The battle is won, but what comes next?  
+
+[July 24, 2025 - The Final Stand](2025/2025-07-24-the-final-stand.md)  
+The battle reaches it's culmination. Can the heroes stop the Prince of Earth or where there be a crushing defeat?  
+
 [May 29, 2025 - Undead Rumble](2025/2025-05-29-undead-rumble.md)  
 The battle against the undead rumbles on as the reach our heroes on the wall.
 
