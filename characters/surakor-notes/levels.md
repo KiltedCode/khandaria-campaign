@@ -23,7 +23,6 @@ Could go Half-orc
 Subrace: Desert Half-Orcs (Sandkin)  
 
 Racial Trait:  
-
 Sacred Tattoo  
 +1 luck on saving  
 replaces orc ferocity  
@@ -64,7 +63,7 @@ Favored class option: Extra skill
 Feat: Intimidating Prowess
 
 Skill: 4 - 1
-1. Linguistics (Common)
+1. Linguistics (Common - Khandaria)
 2. Intimidate (MAX)
 3. Perception
 4. Survival
