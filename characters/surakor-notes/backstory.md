@@ -2,6 +2,7 @@
 
 > He is a dumb barbarian that believes he is a wizard.
 
+Introduction:  
 > Hello. I am Surakor the Strong. Wizard of the Nethysian Order. Breaker of the Badlands. Freer of chains.
 
 `Surakor` was once a member of a wandering Orc tribe in the badlands of Qubla. At some point when young, was taken to be a slave. _FILL IN DETAILS WITH MARCUS_. After some time with the rough life as a slave in Qubla, he was bought by the friendly old wizard to free him. That is when he began his training to be a wizard. The kindly wizard, `Riku the Resourceful`, had pity on `Surakor` but also his ego believed he could teach anyone to be a wizard. Ultimately, he was proven wrong, despite the devoted and enthusiastic efforts and hours upon hours of work daily. `Riku` did love his adopted son and didn't have the heart to tell him his efforts had failed.
@@ -16,9 +17,8 @@ He also carries a magical warhammer he refers to as "Bone Crusher".
 
 > "This weapon is infused with my magic to crush the bones of my enemies."
 
-He often unleashes his magic staff as a "magic missile", hurling the javelin with great strength. It also serves him well, as is has a small notch that allows him to stake it into the ground and hand his teapot over the fire. He is wrapped in his wizard robes, that are a Robe of Infinite Twine, a gift from his father.
+He often unleashes his magic staff as a "magic missile", hurling the javelin with great strength. It also serves him well, as is has a small notch that allows him to stake it into the ground and hand his teapot over the fire. He is wrapped in his wizard robes, that are a _Robe of Infinite Twine_, a gift from his father.
 
-He worships both Nethys from his father, the All Seeing eye and god of magic, and Cayden Cailean, the Accidental God from his desire of freedom after his time as a slave.
+He worships both Nethys from his father - the All Seeing eye and god of magic - and Cayden Cailean - the Accidental God - from his desire of freedom after his time as a slave.
 
 I'm not sure what makes the most sense for getting him to Khandaria. I don't want him to be a willing member of the Qublan army but maybe if the rest works he was force into the army with a collar (that John hopes there will be a way to remove). Or perhaps he followed the army hoping to stop it and he can get caught up in some other way? I feel like him being Qublan will give some trepidation for him no matter what, which I'm ok with.
-
