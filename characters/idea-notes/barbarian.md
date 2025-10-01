@@ -30,12 +30,11 @@ or
 the hostile badlands that lie west of Qubla  
 how could be here from Qubla? in way that hate Qubla  
 ousted from tribe for being too weak, was really just short, but very strong now  
-thats when living on streets, bullied, adopted, raised to be wizard, failed, but became barbarian adventurer   
+thats when living on streets, bullied, adopted, raised to be wizard, failed, but became barbarian adventurer  
 
 Racial Trait:  
 Dayrunner  
 Orcs refuse to yield to any foe, including the sun. Some spend hour upon hour glaring at the sun until their ruined eyes acclimatize to bright light. Orcs with this racial trait take a –2 penalty on all ranged attack rolls. This racial trait replaces light sensitivity.  
-
 
 Could go Half-orc  
 Still could be from nomadic tribe in desert  
@@ -57,7 +56,6 @@ if escape from slavery in Qubla
 Chain Fighter  
 dire flails or spiked chains as martial  
 replaces weapon familiarity  
-
 
 ## Worship
 
@@ -81,7 +79,6 @@ bull strength: enters rage
 fire ball: chakram / dagger with flaming, alchemist fire, necklace of fireball  
 haste: yells "haste" if he double moves or runs, maybe on a charge  
 
-
 ## Build
 
 drunken brute archetype  
@@ -103,6 +100,7 @@ melee fighter: low int, high str
 ### Gear
 
 Armor:
+
 - Rhino Hide armor for charge (+6, check -1) (5,165 gp)
 - +2 mithral shirt (+6, check 0, light) (5,100 gp)
 - +1 mithral breastplate (+7, check -1, light) agile climb and acrobatic check 0, (5,400 gp)
@@ -113,6 +111,7 @@ Armor:
 - Lucky Drunk's Mail: +1 chainmail (+7, check -4), +1 luck to saves
 
 Weapon:  
+
 - greatsword
     - named "the spark of fury"
     - "My sword with filled with arcane anger of generation of wizards before me, that I unleash on my enemies."
@@ -141,7 +140,7 @@ Weapon:
     - spiked chain, 2d4, x2, two handed, disarm, trip
         - exotic but can get through half-orc trait
 - javelin x2
-    - 1d6, x2, 30ft
+- 1d6, x2, 30ft
     - for use as his "magic missiles"
     - +1 returning (8,001 gp)
 
