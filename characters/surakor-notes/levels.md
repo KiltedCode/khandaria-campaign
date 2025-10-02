@@ -88,7 +88,7 @@ Skill: 4 - 1
 ## Level 5
 
 HP: 4 + 4  
-Favored class option: Extra Rage  
+Favored class option: Bonus HP  
 
 Feat: Combat Reflexes
 
@@ -101,7 +101,7 @@ Skill: 4 - 1
 ## Level 6
 
 HP: 6 + 4  
-Favored class option: Extra skill  
+Favored class option: Extra Skill  
 
 Rage Power: Intimidating Glare
 
@@ -115,7 +115,7 @@ Skill: 4 - 1
 ## Level 7
 
 HP: 8 + 4  
-Favored class option: Extra rage  
+Favored class option: Extra Skill  
 
 Feat: Hurtful
 
@@ -124,6 +124,7 @@ Skill: 4 - 1
 1. Intimidate (MAX)
 2. Perception
 3. Survival
+4. Knowledge Arcana
 
 ## Level 8
 
