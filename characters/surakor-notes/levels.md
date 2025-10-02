@@ -30,7 +30,7 @@ from being raised by wizard, gave him this magic tattoo
 ## Level 1
 
 HP: 6 + 3  
-Favored class option: Skill  
+Favored class option: Extra Skill  
 
 Feat: Power Attack
 
@@ -44,7 +44,7 @@ Skill: 4 - 1
 ## Level 2
 
 HP: 10 + 3  
-Favored class option: Extra rage  
+Favored class option: Extra Rage  
 
 Rage Power: Accurate Stance
 
@@ -57,7 +57,7 @@ Skill: 4 - 1
 ## Level 3
 
 HP: 2 + 3  
-Favored class option: Extra skill  
+Favored class option: Extra Skill  
 
 Feat: Intimidating Prowess
 
@@ -71,7 +71,7 @@ Skill: 4 - 1
 ## Level 4
 
 HP: 6 + 4  
-Favored class option: Extra skill  
+Favored class option: Extra Skill  
 
 Ability Score: CON  
 3 more HP  
