@@ -9,7 +9,7 @@ Boost Str and Con
 _10,000 gp_  
 
 [Stagger Proof Boots](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stagger-Proof%20Boots)  
-Stand without AOO, immediate move  
+Stand without AOO, immediate move, CC    
 _2,000 gp_  
 
 [Helm of fearsom Mien](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Helm%20of%20Fearsome%20Mien)  
@@ -21,6 +21,21 @@ _5,000 gp_
 boost will save  
 _4,000 gp_
 
+### Neck
+
+[Talisman (Greater) Freedom](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Talisman%20(Greater)Freedom)  
+Freedom of Movement once / day  
+_9,000 gp_  
+
+[Talisman (Greater) Warrior's Courage](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Courage)  
+Fear effect it casts remove fear, once / day  
+_4,500 gp_  
+
+[Amulet of Courage](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Talisman%20(Greater)Warrior%27s%20Courage)  
+Frightened or panicked becomes shaken, once / day  
+_4,500 gp_  
+
+
 ## Weapons
 
 Returning Javelin  
@@ -28,7 +43,7 @@ make his "magic missile" stronger by returning to his hand
 
 ## AC
 
-Not super important as a barbarian, but slots are empty
+AC is not usually a priority as a barbarian, but slots are empty so boosts aren't bad
 
 [Amulet of Natural Armor +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Natural%20Armor2)  
 need at least +2 as familiar gives +1 NA  
