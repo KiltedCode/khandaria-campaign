@@ -21,4 +21,6 @@ He often unleashes his magic staff as a "magic missile", hurling the javelin wit
 
 He worships both Nethys from his father - the All Seeing eye and god of magic - and Cayden Cailean - the Accidental God - from his desire of freedom after his time as a slave.
 
+Imagine during time adventuring reconnected with tribe (unless they sold him) which is where he learned to advance some of his rage powers. It is also why he has an Orc Skull Ram (mundane weapon).
+
 I'm not sure what makes the most sense for getting him to Khandaria. I don't want him to be a willing member of the Qublan army but maybe if the rest works he was force into the army with a collar (that John hopes there will be a way to remove). Or perhaps he followed the army hoping to stop it and he can get caught up in some other way? I feel like him being Qublan will give some trepidation for him no matter what, which I'm ok with.
