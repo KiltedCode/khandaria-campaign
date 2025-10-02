@@ -76,7 +76,7 @@ Favored class option: Extra Skill
 Ability Score: CON  
 3 more HP  
 
-Rage Power: Good for What Ails You
+Rage Power: Good for What Ails You  
 
 Skill: 4 - 1  
 
@@ -90,7 +90,8 @@ Skill: 4 - 1
 HP: 4 + 4  
 Favored class option: Bonus HP  
 
-Feat: Combat Reflexes
+Feat: Extra Rage Power  
+Rage Power: Superstition  
 
 Skill: 4 - 1  
 
