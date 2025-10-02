@@ -59,6 +59,10 @@ Sacred Colors: Black, Yellow
     - This tiny dagger has a black leather hilt and a gold-inlaid pattern of stripes and sharp angles on its steel blade. It can transform into a delicate necklace or ornate finger-ring at the wearer’s command. The wearer gains a +3 competence bonus on Perception checks while the item is carried or worn. The wearer can also use it to cast ghost sound once per day.
     - If Calistria is the wearer’s patron, once per day the wearer may speak a command word to use fox’s cunning. As a standard action, the wearer can prick her finger with the dagger and swear an oath on her own blood to avenge herself against a particular named creature; the wearer gains a +1 competence bonus on her next attack roll within 1 minute against that creature. Speaking a new vengeance-oath removes the old one, whether or not the wearer has achieved her vengeance
     - 4,500 gp
+- Vanishing Sheath
+    - This small sheath attaches to the wrist with a leather strap. The sheath can accommodate any single light weapon, wand, or piece of ammunition weighing no more than 5 pounds. While sheathed, the weapon is hidden in an extradimensional space and is weightless. As a swift action, the wearer can flex her wrist, ejecting the weapon into her hand. If her hand is not empty, the weapon remains sheathed. Stowing a weapon in the sheath requires a move action. The wearer gains a +4 bonus on any Sleight of Hand check to oppose the Perception check of someone observing or frisking the wearer in search of a weapon in the sheath.
+    - Vanishing sheaths can be worn in pairs—one on each arm. A person wearing two vanishing sheaths can eject either or both weapons with a single swift action.
+    - 5,000 gp
 
 
 # Unique Spell Rules - Calistra
