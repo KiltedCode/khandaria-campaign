@@ -33,6 +33,10 @@ _5,000 gp_
 3x / day roll twice on concentration checks  
 _5,000 gp_  
 
+[Gloves of Elvenkind](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Gloves%20of%20Elvenkind)  
++5 competence on Spellcraft and concentration checks  
+_7,500 gp_  
+
 [Rod of Grasping Hexes](https://www.aonprd.com/MagicRodsDisplay.aspx?FinalName=Rod%20of%20Grasping%20Hexes)  
 doubles ranges of hexes  
 _11,000 gp_  

@@ -21,6 +21,10 @@ _5,000 gp_
 boost will save  
 _4,000 gp_
 
+[Gloves of Arrow Snaring](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Gloves%20of%20Arrow%20Snaring)  
+Snatch arrows feat  
+_4,000 gp_  
+
 ### Neck
 
 [Talisman (Greater) Freedom](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Talisman%20(Greater)Freedom)  
