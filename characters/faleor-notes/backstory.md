@@ -35,4 +35,6 @@ His favorite food is a nice roasted venison, turned over an open fire, and a sid
 
 Most of his gear is earthy tones: green, brown, greys. Leather straps, buckles, pouches where needed, many crafted over the years from his own kills. He wears a kilt as part of this gear. He has the efficient quiver on his back, an old beaten ax on his right leg that was his father’s, and his rapier on his belt on the other side. He has a cloak of resistance on his shoulder. He just got the boots of elvenkind. Also has a pair of boots of friendly terrain, that he keeps for if / when the return to the mountains. He wears studded leather armor, not from a trophy animal but taken from the gang the party defeated. It may not always be visible, as he used to always wear something over his mithral chain shirt. His clothes aren’t raggedy, as he takes good care of them and invests in more durable garments, but they’re definitely not high end. There are probably stitches patching up tears periodically. I imagine he has a pair of “nice” clothes, but they’re still tough, a leather coat perhaps, maybe the Khandarian version of a woolrich shirt or dickies brand.  
 
+![Faleor kitted out with his new Stag's Helm](/assets/faleor-stag.webp)
+
 [back to characters](/characters/README.md#faleor-)

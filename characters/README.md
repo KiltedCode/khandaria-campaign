@@ -19,7 +19,7 @@ Her father was discovered to be an Orc Chieftan, who had attacked the town that 
 
 ## Faleor 🏹  
 
-Half-elf Ranger (7) / Sacred Huntsmaster Inquisitor of Erastil (3)  
+Half-elf Ranger (7) / Sacred Huntsmaster Inquisitor of Erastil (4)  
 
 ![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp)
 
@@ -65,7 +65,7 @@ came long way to investigate an "imbalance"
 
 ## Qa'dat 🪨   
 
-human shaman (10) of stone fist tribe  
+human shaman (11) of stone fist tribe  
 
 ![Qa'dat, shaman of the Stone Fist Tribe](/assets/qadat.webp)
 
@@ -74,6 +74,32 @@ human shaman (10) of stone fist tribe
 `Qa'dat` has an armadillo familiar known as `Ra'tar`. He doesn't know the common word for "armadillo" so he calls it a "turtle rabbit" as the best translation he has (meta: this is what Aztec word for armadillo translates to). He is 2 feet 7 inches long, weighing only roughly 10 pounds. He enjoys eating insects, grubs, earthworms,  and termites. He is not picky so will eat mushrooms, fruits, seeds, and eggs as well.
 
 Learn more about his history and the tribe through [Qa'dat's backstory](/characters/qadat-notes/backstory.md).  
+
+# The Cohorts
+
+## Sin the Breaker ⛓️‍💥
+
+Fighter (11)
+
+TBD, Sunder specialist
+
+## Marc's Cleric 🔆
+
+Cleric (11)
+
+TBD, buffer, healer, friend
+
+## Surakor the Strong 🧙
+
+Drunken Brute "Wizard" Barbarian (11)
+
+![Surakor the Strong, "wizard"](/assets/surakor-staff.webp)
+
+`Surakor` is the combination of a complicated history full of lows and highs. He believes himself to be a wizard of the Nethysian Order, breaker of the Badlands and freer of chains. He was born to an Orc tribe in the badlands, served years as a slave while young to the Qublans, then was freed by his adopted father who taught him to be a wizard. However, to many his arcane powers look more like those of a barbarian. His "staff" is _clearly_ a javelin, his companion - `Gemmas the Goat` - appears to have no magical abilities common with a familiar, and the fact that in battle he screams and swings a longsword are just several of the clues.
+
+However you look at it, he now finds himself about to join up with our heroes as a cohort and member of the special ops team for the Khandarian Army.
+
+Learn more about his history through [Surakor's backstory](/characters/surakor-notes/backstory.md).  
 
 # Former Party Members
 
