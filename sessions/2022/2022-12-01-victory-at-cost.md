@@ -13,14 +13,14 @@ tells mage to cast spell
 `Paladins` form up shield wall  
 mage attempts scroll of **mass invisibility**  
 `Qa'dat` realizes very hard spell for cleric  
-`Cedric` realizes he could cast it easily  
+`Caedric` realizes he could cast it easily  
 `Prince of Earth` stands up and pulls up pants  
 angry talk at `Prince of Air`  
 `Qa'dat` lays down **thorny entanglement**  
 `Prince of Air` talks to `Prince of Earth`  
 the paladin with mace is turning to stone  
-other grabs amulet and gets on `Cedric`'s back  
-`Cedric` flies to `Halber`  
+other grabs amulet and gets on `Caedric`'s back  
+`Caedric` flies to `Halber`  
 casts **mass invisibility** on all in `Paladin` group except `Lucy`  
 enemies converge but all miss  
 `Lucy` wants to warn guards about collars  
@@ -29,7 +29,7 @@ but conscripts are overrunning them
 `Prince of Earth` fixes pants and moves forward  
 cant find the `Paladins`  
 `Qa'dat` flies to wagons, gets down to their level  
-`Cedric` flies up and over to the wagons  
+`Caedric` flies up and over to the wagons  
 `Paladins` moving towards carts (see footprints)  
 large numbers of dragons fly over the battlefield  
 focused on animals with carts  

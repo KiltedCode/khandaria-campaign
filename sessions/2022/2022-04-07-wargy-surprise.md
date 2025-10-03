@@ -39,7 +39,7 @@ camp is full of black wolves, huge, the size of horses
 clearly they are going for the horses  
 they are wargs  
 `Qa'dat` calls down lightning  
-`Cedric` uses fire breath  
+`Caedric` uses fire breath  
 Wargs charge into horses, paladin horse kills one  
 clearly they won't be able to hold off on their own  
 in the end, save 3 downed horses, only 2 died  
@@ -57,7 +57,7 @@ clearly reassured his troops but not himself
 he is still worried  
 rest of the night is uneventful  
 
-`Cedric` decides to get warg steaks  
+`Caedric` decides to get warg steaks  
 `Qa'dat` helps some, preserves 20 steaks (20 pounds) 2x preserve spell  
 
 [back to table of contents](/sessions/README.md)

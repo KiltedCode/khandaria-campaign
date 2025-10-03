@@ -18,7 +18,7 @@ always one looking at her at one time
 the entire army seems to sleep in, in the morning  
 not all up until about 10:30  
 `Qa'dat` cast **detect scrying** from from scroll  
-`Qa'dat` gives `Lucy` and `Cedric` **delay poison** (10 hours)  
+`Qa'dat` gives `Lucy` and `Caedric` **delay poison** (10 hours)  
 
 paladins are planning to do spell to communicate telepathically  
 can attempt to concentrate on it, or sacrifice spell slot (4 or 5)  

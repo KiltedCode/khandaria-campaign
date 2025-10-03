@@ -51,7 +51,7 @@ talk about skills
 would need place nearby to hide to cast as well before becoming animal  
 `Belsaran` worries about **detect plants and animals**  
 `Qa'dat` would rather `Lucy` than him as doesn't want to hurt this tribe's standing  
-`Cedric` sees her as party member and doesn't want to see her carted away  
+`Caedric` sees her as party member and doesn't want to see her carted away  
 
 `Gurrus` comes back and has scroll of **blood biography**  
 investigators have it as part of their kit  

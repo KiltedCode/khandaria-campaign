@@ -197,7 +197,7 @@ With trouble sleeping the party discovers the ground is desecrated and another a
 With the alarm raised, the party and paladins are starring down a zombie horde at their campsite.
 
 [April 4, 2022 - Scrying and Undying](2022/2022-04-21-scrying-and-undying.md)  
-Recovering from the attack, `Cedric` carves up meat and Qa'dat has that feeling that someone is watching.
+Recovering from the attack, `Caedric` carves up meat and Qa'dat has that feeling that someone is watching.
 
 [April 7, 2022 - Wargy Surprise](2022/2022-04-07-wargy-surprise.md)  
 The party corners a ninja, but that isn't the only surprise the night holds.  

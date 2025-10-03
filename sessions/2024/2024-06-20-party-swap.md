@@ -5,7 +5,7 @@ go find `Z`
 `Belsaran` has a planar anchor now  
 have two hearts from phase spiders  
 knows he could preserve them somehow but not sure how
-`Cedric` knows **preserve** is common for food stuffs  
+`Caedric` knows **preserve** is common for food stuffs  
 time sleep  
 find ninjas late  
 go back to Justice Hill  
@@ -50,7 +50,7 @@ targets they could take out
 `Guros` is in Justice Hill, downplays his importance  
 `Faleor` says it would be disruptive and not to downplay himself  
 also guarding high priests as could hurt morale  
-`Cedric` brings up gates, `Lucy` says there are always 4 and everyone stares at her  
+`Caedric` brings up gates, `Lucy` says there are always 4 and everyone stares at her  
 harder to open and take down  
 but what about still sabataging them  
 single most effective thing they could do would be retrieve artifact and bring it back  
@@ -60,7 +60,7 @@ wanted to give opportunity to do what wanted to do
 `Lucy` wants to go after ninjas with here **see invisibility** gift  
 `Qa'dat` says he will fight from the wall, he is prepared for battle  
 he will show the `Prince of Earth` the power of stone  
-`Cedric` on the wall  
+`Caedric` on the wall  
 `Belsaran` to put a hurting on the ninjas  
 `Faleor` offers `Pawtrick`'s nose and his tracking  
 `Guros` wonders if protect `Halbir` or follow invisible  

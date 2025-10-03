@@ -34,8 +34,8 @@ near S in Merchants on map
 just to northern edge of Rose Gate troops  
 
 `Qadat` applies salve, casts **magic vestments** and **overland flight**  
-`Qadat` casts **false life** for all and **stoneskin** on `Pylia` and `Cedric`  
-`Cedric` casts **mage armor** on `Qadat`  
+`Qadat` casts **false life** for all and **stoneskin** on `Pylia` and `Caedric`  
+`Caedric` casts **mage armor** on `Qadat`  
 
 Flashback:  
 `Faleor` gave speech to `Mel` to give on the wall  

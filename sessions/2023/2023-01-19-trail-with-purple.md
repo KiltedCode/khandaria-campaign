@@ -28,12 +28,12 @@ invisibility gone
 grove is ideal for hiding  
 not sure if can make another spot before night  
 `Lucy` goes to be a tree and heal  
-`Cedric` goes and lands in grove  
+`Caedric` goes and lands in grove  
 `Qa'dat` falling behind so catches up leaving some trail  
 making plan  
 see dino at far grove and other people around  
 false trail has confused them  
-`Halber` **neutralizes poison** on `Cedric`  
+`Halber` **neutralizes poison** on `Caedric`  
 heal up with wand  
 scout in tree that heading our way  
 people on foot are behaving oddly  
@@ -69,7 +69,7 @@ detects evil and is not evil
 purple man picks up that doesn't speak good common  
 `Halber` lets him join them  
 as sitting around paldins unhappy and asking for something from `Halber` to do something  
-`Cedric` cooks, but doesn't have quite the right seasonings for recipe  
+`Caedric` cooks, but doesn't have quite the right seasonings for recipe  
 `Halber` takes `Lucy` aside to find out what she did with dead at stone circle before  
 seems she asked mice to do something to bodies  
 

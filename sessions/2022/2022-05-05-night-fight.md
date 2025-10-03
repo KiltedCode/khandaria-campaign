@@ -1,6 +1,6 @@
 # May 5, 2022 - Night Fight
 
-`Qa'dat` fireballs, cedric fire breath, `Lucy` pounce and burn  
+`Qa'dat` fireballs, Caedric fire breath, `Lucy` pounce and burn  
 `Halber` channels energy and takes down swarm  
 channel also takes down zombies on ground  
 eventually take out rest  

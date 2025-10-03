@@ -72,7 +72,7 @@ asks us to head back to `Gurrus` and tell him `Khan` wants to see him with `Lord
 `Faleor` tries to smooth over some, doesn't get good read if it worked or not  
 `Belsaran` can tell that `Soren` knew what `Faleor` was trying to do  
 
-arrive to Justice Hill to see `Qa'dat`, `Cedric`, and dire tiger  
+arrive to Justice Hill to see `Qa'dat`, `Caedric`, and dire tiger  
 talk briefly, say need to deliver message to `Gurrus` first  
 tells us `Lord Addara` is an elven ambassador  
 pick up animals and rejoin the others  

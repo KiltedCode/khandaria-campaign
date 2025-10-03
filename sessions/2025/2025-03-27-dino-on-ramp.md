@@ -14,7 +14,7 @@ two archers and one driver
 driver seems to be in charge, slightly nicer  
 
 magma elemental vomits lava  
-`Cedric` summons another, that vomits as well  
+`Caedric` summons another, that vomits as well  
 `Valdrin` moves up to wall  
 t-rex advance and archers shoot  
 `Qa'dat` cast **air geyser** on driver  
@@ -26,7 +26,7 @@ rexy not happy
 `Mel` puts **deep slumber** on driver of t-rex 5  
 end of round 1  
 
-`Cedric` casts **slow**  
+`Caedric` casts **slow**  
 gets two rexes and 4 orcs  
 `Valdrin` unloads on rex  
 it bites back but misses  

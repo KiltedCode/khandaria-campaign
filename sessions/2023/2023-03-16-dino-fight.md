@@ -14,13 +14,13 @@ t-rexes start to charge forward, humans scatter
 rexes shake off the cloud, so `Qa'dat` brings the fire  
 `Lucy` flies up and over, finds the mage with a collar  
 rexes charge and attacks `Shag-nurab`  
-`Cedric` summons a wooly rhino to attack a rex  
+`Caedric` summons a wooly rhino to attack a rex  
 Paladins charge in  
 `Shag-nurab` confuses hobgoblins and t-rex  
 `Qa'dat` cast fear, gets slaves and a t-rex  
 `Lucy` pounces mage  
 mage dimension doors onto running away  
-`Cedric` slows some  
+`Caedric` slows some  
 hobgoblins ready to start killing anyone including humans  
 `Shag-nurab` confuses more  
 `Qa'dat` tries to dominate mage with scroll, but fails  
@@ -33,7 +33,7 @@ kills sticks
 `Halber` commands to protect humans  
 `Qa'dat` stabilizes dying human  
 `Halber` gets swallowed whole  
-`Cedric` kills rex  
+`Caedric` kills rex  
 `Halber` rips way out  
 
 2 cure light  

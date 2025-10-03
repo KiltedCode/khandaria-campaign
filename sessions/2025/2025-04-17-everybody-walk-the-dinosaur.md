@@ -3,7 +3,7 @@
 **call lightning storm** active for `Qa'dat`  
 used: ||  of 10  
 
-`Cedric` puts **mad monkeys** into t-rex 4 howda  
+`Caedric` puts **mad monkeys** into t-rex 4 howda  
 city guard form up to charge the t-rex once it gets up the wall  
 `Valdrin` moves in on t-rex 3, avoids AOO and hits it  
 t-rex 2 slowly walks up and through lava  
@@ -22,7 +22,7 @@ mad monkeys take a bow and throw over side and all the arrows from the other
 `Mel` casts **rainbow pattern** on T5 and it is fascinated  
 end of round 3  
 
-`Cedric` moves and ready's a **slow** when T5 loses fascination  
+`Caedric` moves and ready's a **slow** when T5 loses fascination  
 `town guards` ready to charge but hold off  
 `Valdrin` activates _boots of speed_ and attacks 4 times    
 4 hits, one is a crit (75pts)  
@@ -48,7 +48,7 @@ orc lands and squashes lizard
 `Mel` swoops in and makes `Valdrin` invisible  
 end of round 4  
 
-`Cedric` summons a bralani that casts **lightning bolt** on T2 and T4  
+`Caedric` summons a bralani that casts **lightning bolt** on T2 and T4  
 the city guard charge towards T4 and protect `Eiya`  
 `Valdrin` falls back and drinks a potion  
 T2 tries to bite town guard and fails because can't get clos enough  

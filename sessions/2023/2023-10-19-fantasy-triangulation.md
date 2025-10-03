@@ -39,7 +39,7 @@ was there when `Belsaran` got jumped by gang members
 
 plan is `Belsaran` and `Pylia` go across to Unagi Gate  
 `Faleor` and `Pawtrick` south along river  
-`Cedric` and `Qa'dat` head across to Farmers or Rose Gate  
+`Caedric` and `Qa'dat` head across to Farmers or Rose Gate  
 
 `Faleor` starts across from River and Docks, dead  
 starts going south west, eventually pings  
@@ -60,8 +60,8 @@ not fully good natured, more of just a bit of a jerk
 but very competant  
 `Pellum` takes to a big conference room with large beautiful map  
 
-`Cedric` and `Qa'dat` head towards 
-`Cedric` casts **Phantom Steed**  
+`Caedric` and `Qa'dat` head towards 
+`Caedric` casts **Phantom Steed**  
 `Qa'dat` casts **Overland Flight**  
 but also runs for speed  
 across Embassy Row then down High Road to Rose Gate  
@@ -74,7 +74,7 @@ not really recognized by the guard
 still a line going in, probably going to need to wait  
 guard warns not to travel the roads as Qublan army is attacking  
 `Qa'dat` says "I know. I fought them. With the Paladins. For your city."  
-`Cedric` mentions that trying to find edges and need to get back into `Gurrus`  
+`Caedric` mentions that trying to find edges and need to get back into `Gurrus`  
 diplomacy to sell them on adventurers  
 they will let us back in if they come to them  
 get a hit a couple minutes down the rose road  
@@ -86,7 +86,7 @@ Identify area near Temple Row and North Workers district
 get 6 guards (like level 6)  
 fairly experienced city guards  
 `Lucy` goes dire tiger form  
-`Cedric` mediates and becomes a dragon  
+`Caedric` mediates and becomes a dragon  
 `Faleor` getting a little tired (failed the Wisdom check) 
 `Faleor` uses **heightened awareness**  
 guards and o.g. from north  

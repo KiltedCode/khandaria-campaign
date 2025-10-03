@@ -58,8 +58,8 @@ discussions talk that if can hit from there
 mellows the positive from the armies  
 
 adveturers looking to attack  
-`Qa'dat` and `Cedric` try to talk down  
-`Cedric` effective and tells them they'd be waiting for adventurers as ambush  
+`Qa'dat` and `Caedric` try to talk down  
+`Caedric` effective and tells them they'd be waiting for adventurers as ambush  
 
 `Qa'dat` calls spirit of a bat `Bartok`  
 most army is idle behind trebugets  

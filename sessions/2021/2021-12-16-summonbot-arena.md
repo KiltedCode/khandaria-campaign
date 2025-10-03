@@ -16,11 +16,11 @@ arena type areas set up, table with a judge
 both waved over to a table  
 `Qa'dat` talk about abilities and spells  
 send over to punch at a target, crushes the wooden "breastplate"  
-`Cedric` talks about being a summoner with a eidolon  
+`Caedric` talks about being a summoner with a eidolon  
 can merge with it  
-want `Qa'dat` to call in his elemental to fight with `Cedric`'s eidolon  
+want `Qa'dat` to call in his elemental to fight with `Caedric`'s eidolon  
 wont call eidolon but they clearly seem to think exaggerating power  
-`Cedric` calls a larger dragon without wings type thing  
+`Caedric` calls a larger dragon without wings type thing  
 everyone impressed and interested  
 `Qa'dat` summons 3 owlbears  
 now everyone is at ring  
@@ -54,7 +54,7 @@ asks about new khan in the circle
 good man, not as powerful, wise, competent, handling everything well, honor to work for him  
 asks for place to be a tree, to sleep  
 
-`Cedric` gets dinner  
+`Caedric` gets dinner  
 asks to see the chef, to give notes  
 ends up mixing up at the table and shares with proprietor  
 brings cook out and talks  

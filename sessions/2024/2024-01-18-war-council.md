@@ -52,7 +52,7 @@ essentially a council of war
 3 Battlehardened  
 `Rosnik`, `Melvyn`, `Pylia`  
 3 City Representitives  
-`Belsaran`, `Cedric`, `Halber`  
+`Belsaran`, `Caedric`, `Halber`  
 3 City Representatives  
 `Gurrus`, `Darius`, `Faleor`  
 3 Regular Army  

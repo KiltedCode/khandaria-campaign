@@ -14,13 +14,13 @@ tries to wild empathy it
 
 Get on the move  
 `Qa'dat` gives everyone **pass with trace** and 3 **endure elements**  
-`Cedric` also gives 2 **endure elements**  
+`Caedric` also gives 2 **endure elements**  
 `Qa'dat` casts **detect scrying**  
 
 `Lucy` sleeping in `Qa'dat's` bag  
-`Cedric` leading, realizes parallel to the Rose Road  
+`Caedric` leading, realizes parallel to the Rose Road  
 giffons approaching in the air  
-`Qa'dat` ready for a fight but `Cedric` says they are from Khandaria  
+`Qa'dat` ready for a fight but `Caedric` says they are from Khandaria  
 they thought we were all dead  
 `Qa'dat` given some weird looks  
 says about 4 hours to city  

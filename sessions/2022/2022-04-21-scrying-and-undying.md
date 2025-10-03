@@ -1,6 +1,6 @@
 # April 21, 2022 - Scrying and Undying
 
-`Cedric` doesn't rest, just cut steaks  
+`Caedric` doesn't rest, just cut steaks  
 but not fatigued  
 detect scrying later in the morning  
 try to bluff "the eyes of the morning are upon us"  

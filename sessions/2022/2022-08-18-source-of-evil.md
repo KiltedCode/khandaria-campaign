@@ -23,7 +23,7 @@ heal up
 decide to look for source still  
 hustle and run ahead to track  
 scent of revenant overwhelming to `Lucy`  
-`Cedric` sees a large bat fly past moon  
+`Caedric` sees a large bat fly past moon  
 `Qa'dat` sees something on the horizon  
 `Lucy` realizes smell might mask her being able to find other   
 path is going up a hill  
@@ -34,15 +34,15 @@ they are the flying head things
 `Qa'dat` summons large fire elemental - 60 hp dr 5/-  
 paladins putting in earplugs  
 `Lucy` pounces and kills 1 immediately  
-`Cedric` brings in elementals  
+`Caedric` brings in elementals  
 move in and shriek  
 paralyzed 2 rounds on fail  
 one tries to kiss a paladin  
 fire elemental drops some  
 ones that land on `Lucy` get toasted  
 `Lucy` gets poisoned by kiss  
-`Cedric` gets paralyzed  
-`Cedric` couldnt be healed without check, `Qa'dat` does it with wand  
+`Caedric` gets paralyzed  
+`Caedric` couldnt be healed without check, `Qa'dat` does it with wand  
 `Lucy` had disease to turn into one of them  
 `Qa'dat` breaks out remove disease scroll and cures her  
 

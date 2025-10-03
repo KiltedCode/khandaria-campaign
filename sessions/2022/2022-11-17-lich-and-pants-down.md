@@ -5,7 +5,7 @@ casts **spiritual blight**
 `Qa'dat` casts **carrying wind** to fly faster, 40' up  
 enemy whirls into wind, bows to `Prince of Earth`  
 perhaps he is `Prince of Wind`  
-`Cedric` casts **surge eidolon**  
+`Caedric` casts **surge eidolon**  
 gets fast flight  
 offers to carry knights  
 `Lucy` becomes and owl then mouse to go down `Prince of Earth's` pants  
@@ -13,12 +13,12 @@ offers to carry knights
 spends full round talking  
 being respectful but basically you should not be here  
 `Prince of Air` is hard to read but being very formal  
-`Lich` casts **flame strike** at `Cedric` and `Qa'dat`    
+`Lich` casts **flame strike** at `Caedric` and `Qa'dat`    
 `Qa'dat` casts **flame strike** back at the `Lich`  
 advances, 70' up  
 `Prince of Air` hands fancy scroll to `Prince of Earth`  
-`Cedric` picks up a paladin, that climbs up  
-`Cedric` casts **mad monkeys** but they get scared and flee  
+`Caedric` picks up a paladin, that climbs up  
+`Caedric` casts **mad monkeys** but they get scared and flee  
 but t-rex is deafened and nauseated  
 `Lucy` goes to open belt  
 `Prince of Air` sees her  
@@ -34,7 +34,7 @@ some disagreement about the scroll, no idea what will happen next
 kills the `Lich` that disintigrates before it hits the ground  
 sense the aura is gone  
 dont know what `Prince of Air` does, as `Lucy` is hiding, does not talk  
-`Cedric` flies up to gear, fails to cast defensively  
+`Caedric` flies up to gear, fails to cast defensively  
 `Paladins` jump off to check  
 find a _+2 spiked breast plate_  
 hobgoblins start attacking, killing horses  

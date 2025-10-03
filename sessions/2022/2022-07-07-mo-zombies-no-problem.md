@@ -18,12 +18,12 @@ drop **burning entanglement** + wall of shields keeps it back
 `Lucy` tracks into boxes  
 **flame strike**  
 batter and breach a small hole in line  
-`Cedric` trying to snatch a zombie  
+`Caedric` trying to snatch a zombie  
 ninja appears at attacks `Lucy` the mouse, but sucks and misses  
 drop rocks on them to slow down zombies more  
 `Lucy` destroys ninja  
 paladins finish off revenant  
-`Cedric` poisoned from chewing on ninja  
+`Caedric` poisoned from chewing on ninja  
 
 cleric goes to get someone to do greater detect magic  
 - _+2 leather armor of extra sneakiness_

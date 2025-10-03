@@ -36,7 +36,7 @@ a very slow pace
 make jokes about speed, could have come late and caught up  
 `Qa'dat` picks up that `Halber` thinks that would have been unprofessional  
 a light snow comes down as the day progresses  
-`Cedric` talking to `Magal`, can tell something is wrong  
+`Caedric` talking to `Magal`, can tell something is wrong  
 says weather, the sky doesnt fall   
 but `Qa'dat` knows it is not the weather  
 asks about the armor, can tell he's afraid, he's not a fighter  
@@ -51,7 +51,7 @@ probably bountiful harvest at harvest time
 nothing moving, no signs of life anywhere, snows getting heavier  
 setting up for dinner, smells like beef stew  
 a lot of action going on  
-`Cedric` cooks for `Qa'dat`  
+`Caedric` cooks for `Qa'dat`  
 as he does taste stew  
 sweet like apricots  
 uses `Doo'doot` to add stuff to make taste better  
@@ -88,7 +88,7 @@ tracks a little further then track ends in deep snow
 makes no sense  
 use overland flight and circle around the area to look for if short jump  
 not finding anything  
-`Cedric` notices an odd scuff  
+`Caedric` notices an odd scuff  
 stone in ground  
 detects magic, strong magic  
 out pops a ninja  

@@ -3,7 +3,7 @@
 `Qa'dat` shares what he sees of conscripts  
 `Qa'dat` spots target in the back  
 **evil eyes** a mage (saving throws -4)  
-`Cedric` cast slow up ahead  
+`Caedric` cast slow up ahead  
 `Halber` commands knights to heal as soon as out of cloud  
 skeletons start to charge in, disintegrate into dust  
 other skeletal ones don't seem effected completely  
@@ -26,7 +26,7 @@ adventurers take out 4 t-rex but lose adventurers
 `Prince` starts moving towards paladin group  
 `Qa'dat` draws a scroll of **blindness** and blinds a forward mage  
 wooly rhino gores another mage  
-`Cedric` goes into eidolon form  
+`Caedric` goes into eidolon form  
 see wave through skeletons and they move away  
 see leaving higher level undead and hobgoblin troops  
 adventurers start to retreat  

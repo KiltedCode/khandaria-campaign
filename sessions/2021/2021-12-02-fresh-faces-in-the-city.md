@@ -41,16 +41,16 @@ Marc's character half-elf, riding a horse-ish creature
 rides up, asks for who is in charge  
 says needs to talk to who is in charge, Khanhold has fallen  
 they say needs to go to Justice Hill  
-name is `Cedric Tavanel`  
+name is `Caedric Tavanel`  
 guard recognizes the name, and had a restaurant in Ur'gench previously  
-`Cedric` says he went to Khanhold to set up place there  
+`Caedric` says he went to Khanhold to set up place there  
 taken to Justice Hill  
 find out doing well in north against Qublan army  
 finds out there is word of a shape shifter so being careful  
 
 brought and sit next to `Qa'dat`  
 have disagreements about Stone Fist and Black Feathers  
-`Cedric` believes Stone Fist are no good, from what he's been told  
+`Caedric` believes Stone Fist are no good, from what he's been told  
 
 Jump to Cat, as a tree  
 gardener comes up, confused, knows something is wrong  
@@ -81,7 +81,7 @@ says not to believe that liar
 questions in zone of truth to be sure not shapeshifter  
 talks about power but was not in the palace  
 would love to have him fight and help as high level warrior after asking about what magic he has  
-token for inn, but direct away from where `Cedric` will be  
+token for inn, but direct away from where `Caedric` will be  
 
 Back to Cat's character (`Lucy`)    
 going around listening, sees people kicked off university grassy areas trying to set up tents  
