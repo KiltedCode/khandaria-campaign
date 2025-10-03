@@ -16,7 +16,7 @@ Belsaran, Pylia, Faleor. The names of (soon to be) legends. Meet the adventurers
 Marc
 - `Belsaran`: human unchained monk (11)
 - `Cedric`: human summoner synthesist (11)
-- `Unknown`: ? cleric of ? (11)
+- `Unknown`: ? cleric of ? (9)
 
 Cat
 - `Pylia`: half-orc cleric of Sarenrae / druid
