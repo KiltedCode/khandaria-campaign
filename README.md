@@ -29,7 +29,7 @@ John
     - `Pawtrick Stewart`: dire wolf animal companion of Faleor
 - `Qa'dat`: human shaman (11) of stone fist tribe
     - `Ra'tar`: armadillo familar of Qa'dat
-- `Surakor the Strong`: half-orc drunken brute "wizard" barbarian (11)
+- `Surakor the Strong`: half-orc drunken brute "wizard" barbarian (9)
     - `Gemmas the Goat`: goat "familiar" of Surakor
 
 For more details about the player characters as well as NPCs, have a look at the [characters section](/characters/).

@@ -38,7 +38,7 @@ Learn more about his history and meeting `Pawtrick` through [Faleor's backstory]
 
 ### Pawtrick Stewart 🐺
 
-Wolf animal companion (10) of Faleor, size large  
+Wolf animal companion (11) of Faleor, size large  
 
 ![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp)
 
