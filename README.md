@@ -14,19 +14,23 @@ The best place to start is in the beginning . So why not start with a brief hist
 Belsaran, Pylia, Faleor. The names of (soon to be) legends. Meet the adventurers, read their stories, meet their companions.
 
 Marc
-- `Belsaran`: human unchained monk (10)
-- `Cedric`: human summoner synthesist (10)
+- `Belsaran`: human unchained monk (11)
+- `Cedric`: human summoner synthesist (11)
+- `Unknown`: ? cleric of ? (11)
 
 Cat
 - `Pylia`: half-orc cleric of Sarenrae / druid
     - `Z`: grass cat animal companion of Pylia
-- `Lucy`: human shifter (10)
+- `Lucy`: human shifter (11)
+- `Sin the Breaker`: ? fighter (9)
 
 John
-- `Faleor`: half-elf ranger (7) / inquisitor (3) of Erastil
+- `Faleor`: half-elf ranger (7) / inquisitor (4) of Erastil
     - `Pawtrick Stewart`: dire wolf animal companion of Faleor
-- `Qa'dat`: human shaman (10) of stone fist tribe
+- `Qa'dat`: human shaman (11) of stone fist tribe
     - `Ra'tar`: armadillo familar of Qa'dat
+- `Surakor the Strong`: half-orc drunken brute "wizard" barbarian (11)
+    - `Gemmas the Goat`: goat "familiar" of Surakor
 
 For more details about the player characters as well as NPCs, have a look at the [characters section](/characters/).
 
