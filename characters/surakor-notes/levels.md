@@ -14,7 +14,7 @@ Half-Orc
 | Stat | Mod | Stat | Mod | Stat | Mod |
 |------|-----|------|-----|------|-----|
 | Str  | 16  | Dex  | 13  | Con  | 15  |
-| Int  | 8   | Wis  | 10  | Cha  | 12  |
+| Int  | 8   | Wis  | 12  | Cha  | 10  |
 
 ## Race
 
