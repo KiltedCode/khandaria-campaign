@@ -211,18 +211,20 @@ Potions
     - The barbarian is immune to the shaken and frightened conditions (but not the panicked condition). A barbarian must be at least 12th level to select this rage power.
 - sharpened accuracy
     - While in the accurate stance, the barbarian ignores the miss chance for concealment and treats total concealment as concealment. She also ignores cover penalties except those from total cover. A barbarian must have the accurate stance rage power and be at least 8th level to select this rage power.
-- internal fortitude
-    - While raging, the barbarian is immune to the sickened and nauseated conditions. A barbarian must be at least 8th level before selecting this rage power.
 - staggering drunk
     - While raging, a barbarian gains a +1 dodge bonus to AC against attacks of opportunity for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.
-- boasting taunt
-    -  While raging, the barbarian can incite a creature to attack her by making an Intimidate check to demoralize. If the check succeeds, the target is also shaken as long as the barbarian is visible and raging or until it makes a melee attack against the barbarian. The barbarian receives a +2 circumstance bonus on this check for every alcoholic drink she has consumed during this rage. This is a language-dependent mind-affecting effect, and it relies on audible components. The barbarian must be at least 6th level to select this power.
+- Disruptive Rage
+    - When raging, the barbarian gains Disruptive as a bonus feat. The barbarian must have the superstition rage power to select this rage power. A barbarian must be at least 8th level to select this rage power.
 - liquid courage
     -  While raging, the barbarian increases her morale bonus on saving throws against mind-affecting effects by +1 for each alcoholic drink she consumes during her rage, to a maximum of +1 increase per four barbarian levels. 
 - increased damage reduction
     - The barbarian’s damage reduction increases by 2/— whenever she is raging. A barbarian can select this rage power up to three times. Its effects stack. A barbarian must be at least 8th level to select this rage power.
 - Renewed Vigor
     - As a standard action, the barbarian heals 1d8 points of damage + her Constitution modifier. For every 4 levels the barbarian has beyond 4th, the amount healed increases by 1d8 (to a maximum of 5d8 at 20th level). This ability can be used only once per day. The barbarian must be at least 4th level to select this rage power.
+- Eclipsing Rage
+    - While the barbarian is raging, the light level within 10 feet of her lowers by one step. She can’t decrease the light level below normal darkness with this ability. Multiple barbarians with this rage power don’t further reduce the light level. A barbarian must be at least 6th level to choose this rage power.
+- No Escape
+    - The barbarian can move up to double her base speed as an immediate action. She can use this ability only when an adjacent foe uses a withdraw action to move away from her. She must end her movement adjacent to the enemy that used the withdraw action. The barbarian provokes attacks of opportunity as normal during this movement.
 
 ### Feats
 
