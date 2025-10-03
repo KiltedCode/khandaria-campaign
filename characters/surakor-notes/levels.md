@@ -14,7 +14,7 @@ Half-Orc
 | Stat | Mod | Stat | Mod | Stat | Mod |
 |------|-----|------|-----|------|-----|
 | Str  | 16  | Dex  | 13  | Con  | 15  |
-| Int  | 8   | Wis  | 10  | Cha  | 12  |
+| Int  | 8   | Wis  | 12  | Cha  | 10  |
 
 ## Race
 
@@ -59,7 +59,8 @@ Skill: 4 - 1
 HP: 2 + 3  
 Favored class option: Extra Skill  
 
-Feat: Intimidating Prowess
+Feat: Extra Rage Power  
+Rage Power: Intimidating Glare
 
 Skill: 4 - 1  
 
@@ -76,7 +77,7 @@ Favored class option: Extra Skill
 Ability Score: CON  
 3 more HP  
 
-Rage Power: Good for What Ails You
+Rage Power: Good for What Ails You  
 
 Skill: 4 - 1  
 
@@ -90,7 +91,8 @@ Skill: 4 - 1
 HP: 4 + 4  
 Favored class option: Bonus HP  
 
-Feat: Combat Reflexes
+Feat: Extra Rage Power  
+Rage Power: Superstition  
 
 Skill: 4 - 1  
 
@@ -103,7 +105,7 @@ Skill: 4 - 1
 HP: 6 + 4  
 Favored class option: Extra Skill  
 
-Rage Power: Intimidating Glare
+Rage Power: Battle Roar
 
 Skill: 4 - 1  
 
@@ -133,7 +135,7 @@ Favored class option: Bonus HP
 
 Ability Score: DEX
 
-Rage Power: Internal Fortitude
+Rage Power: Roaring Drunk
 
 Skill: 4 - 1  
 
