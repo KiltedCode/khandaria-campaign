@@ -51,21 +51,21 @@ Grass cat animal companion (5) of `Pylia`, size medium
 
 # The Second Party
 
-## Cedric 🐲
+## Caedric 🐲
 
-human summoner synthesist (10)  
+Human Summoner Synthesist (11)  
 
-formerly in Ur'gench, sold everything and moved to Khanhold to start restaurant, had a black feather helper, came to city and fighting after village was overrun
+`Caedric` formerly lived in Ur'gench working as a chef. He sold everything and moved to Khanhold to start restaurant in the growing town, working with a black feather sous-chef. After the town was overrun by the Qublan army, he came back to the city and decided to fight in order to get his home and restaurant back.
 
 ## Lucy 🐯 🐭  
 
-human shifter (10)  
+Human Shifter (11)  
 
-came long way to investigate an "imbalance"  
+`Lucy` came long way to investigate an "imbalance" she felt. After arriving in the city, she snuck into places she shouldn't be, eventually being noticed as an additional tree in the palace. She joined the army in hopes of getting a more permanent position working for the Khan to use her shifting abilities to their fullest.
 
 ## Qa'dat 🪨   
 
-human shaman (11) of stone fist tribe  
+Human Shaman (11) of Stone Fist tribe  
 
 ![Qa'dat, shaman of the Stone Fist Tribe](/assets/qadat.webp)
 
@@ -79,19 +79,19 @@ Learn more about his history and the tribe through [Qa'dat's backstory](/charact
 
 ## Sin the Breaker ⛓️‍💥
 
-Fighter (11)
+Fighter (9)
 
 TBD, Sunder specialist
 
 ## Marc's Cleric 🔆
 
-Cleric (11)
+Cleric (9)
 
 TBD, buffer, healer, friend
 
 ## Surakor the Strong 🧙
 
-Drunken Brute "Wizard" Barbarian (11)
+Drunken Brute "Wizard" Barbarian (9)
 
 ![Surakor the Strong, "wizard"](/assets/surakor-staff.webp)
 
