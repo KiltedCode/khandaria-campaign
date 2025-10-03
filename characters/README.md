@@ -81,7 +81,11 @@ Learn more about his history and the tribe through [Qa'dat's backstory](/charact
 
 Fighter (9)
 
+![Sin the Breaker](/assets/sin.webp)
+
 TBD, Sunder specialist
+
+![Sin the Breaker, armored up](/assets/sin-armor.webp)
 
 ## Marc's Cleric 🔆
 
