@@ -59,7 +59,8 @@ Skill: 4 - 1
 HP: 2 + 3  
 Favored class option: Extra Skill  
 
-Feat: Intimidating Prowess
+Feat: Extra Rage Power  
+Rage Power: Intimidating Glare
 
 Skill: 4 - 1  
 
@@ -104,7 +105,7 @@ Skill: 4 - 1
 HP: 6 + 4  
 Favored class option: Extra Skill  
 
-Rage Power: Intimidating Glare
+Rage Power: Battle Roar
 
 Skill: 4 - 1  
 
@@ -134,7 +135,7 @@ Favored class option: Bonus HP
 
 Ability Score: DEX
 
-Rage Power: Internal Fortitude
+Rage Power: Roaring Drunk
 
 Skill: 4 - 1  
 

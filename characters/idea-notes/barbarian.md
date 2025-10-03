@@ -199,6 +199,8 @@ Rage Powers (for drunken brute):
 
 General Rage Powers:
 - intimidating glare, increased damage reduction
+- battle roar
+    - sonic if demoralize
 - superstition
     - The barbarian gains a +2 morale bonus on saving throws made to resist spells, supernatural abilities, and spell-like abilities. This bonus increases by +1 for every 4 levels the barbarian has attained. While raging, the barbarian cannot be a willing target of any spell and must make saving throws to resist all spells, even those cast by allies.
 - witch hunter, terrifying howl
