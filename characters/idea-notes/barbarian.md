@@ -205,6 +205,10 @@ Potions
 - Deadly Accuracy
     - good for confirming critical with my 17-20 longsword
     - If the barbarian scores a critical threat while in the accurate stance, she applies double the accurate stance’s bonus when rolling to confirm the critical. A barbarian must have the accurate stance rage power and be at least 4th level to select this rage power.
+- Summer Rage
+    - The barbarian channels the heat of late summer, making the air around her hot and oppressive. A creature within the barbarian’s reach becomes fatigued as long as it remains within the barbarian’s reach unless it succeeds at a Fortitude save (DC = 10 + half the barbarian’s level + her Constitution modifier) to become immune for 24 hours. A barbarian can have only one season-themed rage power, choosing between spring, summer, autumn, or winter rage.
+- Fearless Rage
+    - The barbarian is immune to the shaken and frightened conditions (but not the panicked condition). A barbarian must be at least 12th level to select this rage power.
 - sharpened accuracy
     - While in the accurate stance, the barbarian ignores the miss chance for concealment and treats total concealment as concealment. She also ignores cover penalties except those from total cover. A barbarian must have the accurate stance rage power and be at least 8th level to select this rage power.
 - internal fortitude
@@ -216,6 +220,9 @@ Potions
 - liquid courage
     -  While raging, the barbarian increases her morale bonus on saving throws against mind-affecting effects by +1 for each alcoholic drink she consumes during her rage, to a maximum of +1 increase per four barbarian levels. 
 - increased damage reduction
+    - The barbarian’s damage reduction increases by 2/— whenever she is raging. A barbarian can select this rage power up to three times. Its effects stack. A barbarian must be at least 8th level to select this rage power.
+- Renewed Vigor
+    - As a standard action, the barbarian heals 1d8 points of damage + her Constitution modifier. For every 4 levels the barbarian has beyond 4th, the amount healed increases by 1d8 (to a maximum of 5d8 at 20th level). This ability can be used only once per day. The barbarian must be at least 4th level to select this rage power.
 
 ### Feats
 
