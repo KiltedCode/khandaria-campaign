@@ -91,7 +91,7 @@ _goggles of night_
 blistercap spore poison
 
 boss gear
-- _sword of subtly_ 
+- _sword of subtlety_ 
 - _ring of protection +2_ to `Lucy`
 - _dex +4_ keep to sell  
 - _headband of charisma +4_ to paladins
@@ -101,7 +101,7 @@ boss gear
 - _wand of lead plating_ to `Faleor`
 
 
-LEVEL UPß
+LEVEL UP
 
 
 [back to table of contents](/sessions/README.md)
