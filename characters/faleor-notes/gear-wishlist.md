@@ -4,9 +4,12 @@ List of items on `Faleor`'s wishlist.
 
 Highest wants (balanced with prices)
 - ~~Stag's Helm~~
+- need another cure light wounds wand as backup
 - Enhanced buckler
-- Lens of Detection
+- Human Bane (arrows or add to bow)
 - Amulet to store Pawtrick
+- Vest of Vengeful Tracker
+- Lens of Detection
 - Quick Block Buckler
 - Wands
 
@@ -34,6 +37,16 @@ _+3,750 gp_
 +3 total cost  
 _18,000 gp_  
 
+Add Human Bade to Ohm Bow  
+encounter a lot in Qubla  
++3 against humans, 2d6 damage  
+_10,000 gp_
+
+Human bane arrows  
++3 against humans, 2d6 damage  
+price per 50  
+_8,000 gp_
+
 Add Thundering to Ohm Bow  
 2d8 on crit + save for permanent deaf  
 probably not actually worth the extra cost  
@@ -45,7 +58,7 @@ i.e. corrosive or frost or distance (220 ft distance for range increment)
 
 ## Skill
 
-[Lens of Detection](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Lens%20of%20Detection)  
+[Lenses of Detection](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Lenses%20of%20Detection)  
 eye slot, +5 Perception, +5 Survival for tracking    
 _3,500 gp_  
 
@@ -73,6 +86,10 @@ _4,000 gp_
 
 [Silver Nocking Point](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Silver%20Nocking%20Point)  
 _3,150 gp_  
+
+[Vest of Vengful Tracker](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Vest%20of%20the%20Vengeful%20Tracker)  
+situational in bonus if tracked someone, but unused slot  
+_6,000 gp_  
 
 [Neverspill Goblet](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Neverspill%20Goblet)  
 for whiskey  
