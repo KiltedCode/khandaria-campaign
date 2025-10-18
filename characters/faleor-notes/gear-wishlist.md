@@ -62,9 +62,10 @@ i.e. corrosive or frost or distance (220 ft distance for range increment)
 eye slot, +5 Perception, +5 Survival for tracking    
 _3,500 gp_  
 
-[Ring of Sacred Mistletoe](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Sacred%20Mistletoe)  
-+2 handle animal, knowledge nature, wild empathy, and woodland stride ability  
-_6,000 gp_  
+~~[Ring of Sacred Mistletoe](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Sacred%20Mistletoe)  
++2 handle animal, knowledge nature, wild empathy, and woodland stride ability   
+_6,000 gp_~~  
+pretty set on 3 rings to rotate for 2 slots  
 
 
 ## Wands
