@@ -14,6 +14,9 @@ Stand without AOO, immediate move, CC
 FEET  
 _2,000 gp_  
 
+[Deliquescent Gloves](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Deliquescent%20Gloves)  
+1d6 acid with melee, also gives weapon corrosive  
+
 [Helm of fearsom Mien](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Helm%20of%20Fearsome%20Mien)  
 gives Intimidating Glare rage power  
 could then retrain it out  
