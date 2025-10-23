@@ -12,3 +12,5 @@ What guidance did he perhaps get from spirits in time spent communing with them?
 probably asking for direction to preserve tribe, even if doesn't mean fully favorable like previous goal  
 
 Once we get to know cohorts, consider giving _wand of silence_ to Marc's cleric as they may have more opportunity to cast it than Faleor and is on Cleric spell list  
+
+`Qa'dat` start to work on scribing scrolls. 2-3 scrolls of sending for `Pylia` and have two level 6 spells lined up to scroll, depending on number of days we have downtime.  
