@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## The Aftermath
 
+[October 23, 2025 - Flashing the Khan](2025/2025-10-23-flashing-the-khan.md)  
+We open on a flashback, then move forward with all being summoned before the Khan.  
+
 [October 16, 2025 - My Ros in a Box](2025/2025-10-16-my-ros-in-a-box.md)  
 The party starts a new day after partying and run into a `Rosnick` in need.
 
