@@ -7,6 +7,8 @@ Happy to have second chance for tribe however not sure if they can change their 
 Part of their way of life, so doesn't see it inherently wrong. Not to horrible ways of teh Qublans and their collars.  
 Wonders what the back up plan is if they choose not to join.  
 
+Happy with Ioun Stones. Don't want bracers. Pauldrons are cool but not sure if helpful to his character in shoulder slots.
+
 Once we get to know cohorts, consider giving _wand of silence_ to Marc's cleric as they may have more opportunity to cast it than Faleor and is on Cleric spell list  
 
 `Qa'dat` start to work on scribing scrolls. 2-3 scrolls of sending for `Pylia` and have two level 6 spells lined up to scroll, depending on number of days we have downtime.  
