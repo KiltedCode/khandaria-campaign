@@ -27,3 +27,5 @@ Sending tomorrow
 > Ask for reinforcements and troops to help.
 > I will go.  
 > Balance is due to them.
+
+Need to take bracers to `Guros`. Information more important than keep stuff it comes to it. Let Faleor take the lead on it.  
