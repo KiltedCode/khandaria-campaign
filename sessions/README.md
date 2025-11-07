@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## The Aftermath
 
+[November 6, 2025 - How to Get Ahead in Ur'gench](2025/2025-11-06-how-to-get-ahead-in-urgench.md)  
+The heroes receive invitations to the Coliseum, but this is no ball. The attend while deciding what job offer to take.  
+
 [October 23, 2025 - Flashing the Khan](2025/2025-10-23-flashing-the-khan.md)  
 We open on a flashback, then move forward with all being summoned before the Khan.  
 
