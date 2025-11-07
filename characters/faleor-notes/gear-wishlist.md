@@ -37,6 +37,18 @@ _+3,750 gp_
 +3 total cost  
 _18,000 gp_  
 
+[Oathbow](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Oathbow)  
+oath to slay gives +5 enhancement and 2d6 dmg  
+_25,600 gp_  
+
+[Starbow](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Starbow)  
++3 longbow, trail of silvery light, 3x / day cone of 5d8, double undead  
+_30,400 gp_  
+
+[Thornbow](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Thorn%20Bow)  
++2 lesser designating composite longbow, 1x / day target and create wall of thorns  
+_59,700 gp_  
+
 Add Human Bade to Ohm Bow  
 encounter a lot in Qubla  
 +3 against humans, 2d6 damage  
@@ -109,6 +121,10 @@ _10,000 gp_
 
 [Cloak of Resistance +3](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Cloak%20of%20Resistance3)  
 _9,000 gp_  
+
+[Hunter's Cloak](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Hunter%27s%20Cloak)  
+change into animal native to favored terrain  
+_7,500 gp_  
 
 
 ## Pawtrick Stewart
