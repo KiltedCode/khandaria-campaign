@@ -87,11 +87,13 @@ TBD, Sunder specialist
 
 ![Sin the Breaker, armored up](/assets/sin-armor.webp)
 
-## Marc's Cleric 🔆
+## Silvia 🔆
 
 Cleric (9)
 
 TBD, buffer, healer, friend
+
+![Silvia](/assets/silvia.webp)
 
 ## Surakor the Strong 🧙
 
