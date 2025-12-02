@@ -63,7 +63,7 @@ symbol of `Irori` on all sides and top
 
 hand on top in center  
 
-> "I reject the path of luxury and self indulgence"  
+> "I reject the Path of Luxury and Self-Indulgence"  
 
 `Belsaran` strips of gear, touches and feels the magic potential under his hand  
 realizes he can "**detect magic**" with hand as supernatural ability  
@@ -73,7 +73,7 @@ puts on boots and fades
 
 20 minutes, another altar but with left hand  
 
-> "I embrace the path of harmony and unity."  
+> "I embrace the Path of Harmony and Unity."  
 
 magic into hand, white dot on other pinky  
 tracing symbol on the top, the engraving depths are different  
@@ -85,7 +85,7 @@ spot blue flying creature near tree line
 not moving like a bird, irregularly  
 right hand, line on ring finger  
 
-> "I understand the discipline is the root of power."  
+> "I understand that Discipline is the root of Power."  
 
 deeper line points up the mountain, but not to ruins  
 seems like maybe point to next altar, seems like last pointed here  
@@ -95,7 +95,7 @@ decide to follow the line
 20 minutes, next altar right in front of us  
 left hand, line on ring finger  
 
-> "I understand that chaos is ultimately self-defeating."  
+> "I understand that Chaos is ultimately self-defeating."  
 
 pointing more towards temple  
 
@@ -107,7 +107,7 @@ still far away
 20 minutes, next altar  
 right hand, square on finger  
 
-> "I understand that mixing chaos and law diminishes the power of either."  
+> "I understand that mixing Chaos and Law diminishes the power of either."  
 
 90 degrees away from the temple  
 
@@ -146,7 +146,7 @@ wind is now BRUTAL
 20 minutes, see the ruins of the temples close  
 altar right in the middle of a split path  
 
-> "I accept that integrity is the pinnacle of traits, the hardest to maintain."  
+> "I accept that Integrity is the pinnacle of traits; the hardest to maintain, but the greatest reward."  
 
 points straight up rock wall  
 breaking out the pitons  
