@@ -7,7 +7,7 @@ The city of Ur'gench is the captial city of the Khandaria empire.
 ~~`Magnus`~~ 💀  
 Deceased, former Khan, united Khandaria after civil war, died saving his son `Soren` as the Watcher was dropped during his coronation
 
-![A young Magnus](/assets/magnus-young.webp)
+![A young Magnus](/assets/magnus-young.webp "A young Magnus")
 
 ~~`Endirin`~~ 💀  
 Deceased, advisor to `Khan Magnus`, died during dropping of the Watcher  
@@ -15,7 +15,7 @@ Deceased, advisor to `Khan Magnus`, died during dropping of the Watcher
 `Soren`  
 current Khan, son of `Magnus`  
 
-![A teenage Soren](/assets/soren-teenage.webp)
+![A teenage Soren](/assets/soren-teenage.webp "A teenage Soren")
 
 ~~`Kulug the Cruel`~~ 💀  
  great-great-great-great-great-grandfather of `Magnus`, Khan that had the Watcher created, killed and exiled dwarves from Khandaria  
@@ -59,7 +59,7 @@ Lieutenant in barracks, ordered to give room to `Qa'dat`, instead `Qa'dat` only 
 `Halber`  
 Head on knights, flashy armor, avatar of his deity, power to damage undead just by being near them    
 
-![The symbol of the Paladins](/assets/paladin-symbol.webp)
+![The symbol of the Paladins](/assets/paladin-symbol.webp "The holy symbol of the Paladins")
 
 `Magal`  
 Translator for knights from afar, was scryed on to try and see `Halber`    
@@ -109,7 +109,8 @@ gang thug
 
 `Vilrath` 🔒  
 connected to gang? had pictures throughout the guild he can see and hear through, stole magic items from `Hadvar`, appears to be working with Qubla, in custody  
-[image of Vilrath used for spying](/assets/hidden-face.webp)  
+
+![image of Vilrath used for spying](/assets/hidden-face.webp "The image of Vilrath used to look through with magic.")  
 
 `Drovor` 🔒  
 warrior with dreadlocks, seen protecting `Vilrath` as he entered images to spy, heavy built, dreadlocks, great sword, in custody  
