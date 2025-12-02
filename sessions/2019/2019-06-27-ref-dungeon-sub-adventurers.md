@@ -28,6 +28,30 @@ starts speaking like robot, to confirm speak common, names
 see metal coming down on us  
 run into room  
 ask for place to rest, activates recording from `Beragon`  
+
+> Greetings fellow travelers. My name is Beregond the Bard, speaking to you through whatever nameless modron happens to be standing in front of you.  
+Welcome to Mechanus, one of the planes of pure law.  
+From what I can tell, there are 4,096 laws that govern Mechanus, and breaking any one of them is punishable by instant death.  
+Not that the modrons are going to do anything, of course, they're completely harmless.  
+No, breaking a law here results in death because you're likely to get crushed, sliced, melted, beheaded, incinerated, or any number of equally gruesome fates, by all the ridiculous dangerous machinery that fills this plane.  
+The modrons know all the laws by heart and are never in danger, so, the safest place to be is following along behind one.  
+Needless to say this place is not really my cup of tea.  
+In fact, I and my whole party were quite shocked when we got here, in that we were a little bit surprised and a whole lot fried by lightning.  
+Tad and I were the only survivors of that, but we got fingers from the rest, and when I finally get home I'll get them all resurrected.  
+Piece of advice: if a modron tries to explain something to you, figure out what it's talking about and move before it finishes, because sometimes they're too late.  
+That's what happened to Tad.  
+They're a weird little race. Apparently they have a very heirarchical society based on the number of sides they have, so, if you're talking to one of the little pyramid-shaped dudes, you should ask to talk to someone with more sides, because the pyramid-shaped dudes are morons.  
+I'm still not clear if they get more sides as they age, or what... I haven't seen anything that would qualify as a modron child.  
+It takes some doing to understand their language, even when they say they're speaking common.  
+Once I got decent at it, they asked if I could record an orientation for any later travelers who might come along. (That's you.)  
+Mostly, the modrons don't want travelers getting killed by the machinery because it leaves a gummy mess that they have to clean up.  
+Modrons are not motivated by altruism or hospitality so if you want them to help you out, you'll need to do something for them.  
+My service is recording this message, up to their standards, which are pretty exacting as I'm on take 15 and they still haven't agreed yet.  
+But when they do, they say they'll open a portal for me to get home, so I'm gonna keep trying.  
+Good luck to you in your journeys in Mechanus.  
+Oh and by the way, whatever you do, do not ever hurt a modron or they will stop giving you warnings about the machinery and you need those.  
+> Good luck.  
+
 plane of pure law, 4,086 laws, breaking one results in death by dangerous machinery  
 larger modrons seem to have more power  
 they only care about you not dying to not gum up machinery  
