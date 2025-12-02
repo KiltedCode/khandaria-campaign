@@ -12,7 +12,7 @@ Belsaran is a flowing monk that annoys the enemies as much with punches to the f
 
 Half-orc Cleric of Sarenrae (5) / Druid (5)  
 
-![Pylia, the cleric of Sarenrae and druid of the green](/assets/pylia.webp)
+![Pylia, the cleric of Sarenrae and druid of the green](/assets/pylia.webp "Pylia, the cleric of Sarenrae and druid of the green")
 
 Pylia served first as a cleric of Saranrae, believing in the opportunity of redemption. She later learned the power of nature, gaining powers from nature as a druid.  
 Her father was discovered to be an Orc Chieftan, who had attacked the town that would become Khanhold.  
@@ -21,7 +21,7 @@ Her father was discovered to be an Orc Chieftan, who had attacked the town that 
 
 Half-elf Ranger (7) / Sacred Huntsmaster Inquisitor of Erastil (4)  
 
-![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp)
+![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp "Faleor, the ranger and sacred huntmaster inquisitor of Erastil")
 
 Faleor is pretty tall, around 6’3”. He’s not a rail, more on the lean side. Given he’s a ranger, he's always about the mountains and forest hiking, building survival things, etc, so he has some muscle but it's more toned than bulk. Red hair, sort of shoulder length. More Aragorn than Legolas. He usually has it just down or pulled back if necessary. Never in a man bun. Fair skin and face, you can see more of his elf heritage there. No facial hair. His ears are quite pointy, showing the elf heritage again. They generally show, even when his hair is down. He makes no effort to hide them.  
 
@@ -40,7 +40,7 @@ Learn more about his history and meeting `Pawtrick` through [Faleor's backstory]
 
 Wolf animal companion (11) of Faleor, size large  
 
-![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp)
+![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp "Pawtrick Stewart, dire wolf animal companion of Faleor")
 
 Formerly known as `Wolf Dog` until with a speak with animals `Faleor` learned he prefers to go by `Pawtrick Stewart`. He has grown to large size. He is currently about 8' long and weighs about 650 lbs. His fur is largely shades of gray with some white mixed in. He has **magic fang** cast with **permanency**. He recently acquired a _dire collar_, allowing him to grow via the **animal growth** spell. This will yield a `Pawtrick` twice his size and eight times his weight.
 
@@ -67,7 +67,7 @@ Human Shifter (11)
 
 Human Shaman (11) of Stone Fist tribe  
 
-![Qa'dat, shaman of the Stone Fist Tribe](/assets/qadat.webp)
+![Qa'dat, shaman of the Stone Fist Tribe](/assets/qadat.webp "Qa'dat, shaman of the Stone Fist Tribe")
 
 `Qa'dat` came from the Stone Fist tribe to Ur'gench, believing Ur'gench winning their ward and being on good terms with the city has the best possibilities of outcomes allowing for their tribal way of life to thrive. He is motivated for this tribe's way of life. He believed he could help retake Kiva-ral, the village now know has Khanhold to get in good with the Khan, and believe those from the city would be better partners to do so, and put the Stone Fist tribe on the top of tribal relations. He came to see if city had more tricks up their sleeves like the dragon that came to the village and looking to gather support, and got swept up into helping the Khandarian army. He continues in hope of freeing his brethren and to raise up his tribe.
 
@@ -79,27 +79,26 @@ Learn more about his history and the tribe through [Qa'dat's backstory](/charact
 
 ## Sin the Breaker ⛓️‍💥
 
-Fighter (9)
+Human Fighter (9)  
+Sunder specialist
 
-![Sin the Breaker](/assets/sin.webp)
+![Sin the Breaker](/assets/sin.webp "Sin the Breaker, without her armor on")
 
-TBD, Sunder specialist
-
-![Sin the Breaker, armored up](/assets/sin-armor.webp)
+![Sin the Breaker, armored up](/assets/sin-armor.webp "Sin the Breaker, armored up and ready to battle")
 
 ## Silvia 🔆
 
-Cleric (9)
+Human Cleric (9)
 
-TBD, buffer, healer, friend
+buffer, healer, friend
 
-![Silvia](/assets/silvia.webp)
+![Silvia](/assets/silvia.webp "Silvia")
 
 ## Surakor the Strong 🧙
 
-Drunken Brute "Wizard" Barbarian (9)
+Drunken Brute "War Mage" ~~Barbarian~~ (9)
 
-![Surakor the Strong, "wizard"](/assets/surakor-staff.webp)
+![Surakor the Strong, war mage](/assets/surakor-staff.webp "Surakor the Strong, War Mage with staff and mug in hand")
 
 `Surakor` is the combination of a complicated history full of lows and highs. He believes himself to be a wizard of the Nethysian Order, breaker of the Badlands and freer of chains. He was born to an Orc tribe in the badlands, served years as a slave while young to the Qublans, then was freed by his adopted father who taught him to be a wizard. However, to many his arcane powers look more like those of a barbarian. His "staff" is _clearly_ a javelin, his companion - `Gemmas the Goat` - appears to have no magical abilities common with a familiar, and the fact that in battle he screams and swings a longsword are just several of the clues.
 

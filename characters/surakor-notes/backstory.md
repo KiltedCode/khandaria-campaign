@@ -5,7 +5,7 @@
 Introduction:  
 > Hello. I am Surakor the Strong. Wizard of the Nethysian Order. Breaker of the Badlands. Freer of chains.
 
-![Surakor the Strong, "wizard"](/assets/surakor-staff.webp)
+![Surakor the Strong, War Mage](/assets/surakor-staff.webp "Surakor the Strong, War Mage with staff and mug in hand")
 
 `Surakor` was once a member of a wandering Orc tribe in the badlands of Qubla. At some point when young, was taken to be a slave. _FILL IN DETAILS WITH MARCUS_. After some time with the rough life as a slave in Qubla, he was bought by the friendly old wizard to free him. That is when he began his training to be a wizard. The kindly wizard, `Riku the Resourceful`, had pity on `Surakor` but also his ego believed he could teach anyone to be a wizard. Ultimately, he was proven wrong, despite the devoted and enthusiastic efforts and hours upon hours of work daily. `Riku` did love his adopted son and didn't have the heart to tell him his efforts had failed.
 
@@ -15,7 +15,7 @@ From there, his life as an adventurer did lead to growth in his "magic", though 
 
 > "My sword is with filled with the arcane anger of generation of wizards before me, that I unleash on my enemies."
 
-![Surakor the Strong, in an arcane rage](/assets/surakor-rage.webp)
+![Surakor the Strong, in an arcane rage](/assets/surakor-rage.webp "Surakor the Strong, lost to an arcane rage of power")
 
 He also carries a magical warhammer he refers to as "Bone Crusher".
 

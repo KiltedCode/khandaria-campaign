@@ -1,6 +1,6 @@
 # Faleor's Backstory
 
-![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp)
+![Faleor, the ranger and sacred huntmaster inquisitor of Erastil](/assets/faleor-lvl-10.webp "Faleor, the ranger and sacred huntmaster inquisitor of Erastil")
 
 ## Family and early life
 
@@ -17,7 +17,7 @@ He learned to shoot bow from his "cousin" `Vicben` who is a half elf as well. `F
 
 ## Meeting Pawtrick
 
-![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp)  
+![Pawtrick Stewart, dire wolf](/assets/pawtrick.webp "Pawtrick Stewart, dire wolf animal companion of Faleor")  
 
 As `Faleor`'s skills as a ranger grew, so did is connection to the animal world. While roaming the mountains of Khandaria, he felt drawn by a supernatural force. He followed that pull until he approached a small brook trickling down the mountain from the snow above. As he crossed he misjudged the stability of some of the rocks that started to roll, causing Faleor to fall into the water and down the slope about 50 feet. As he gathered himself, he saw a small but powerful wolf approach with a low growl. His knee was pretty hurt, so he couldn't immediately stand. As he reached his hand slowly towards his hatchet he keeps on his hip, but then felt that it wasn't needed. As they locked eyes both could feel a connection made. The wolf lowered his head, almost as in a nod, and approached `Faleor`, laying next to him to warm him from the cold of falling in the brook. `Faleor` pulled some meat from his pack to share, that the wolf was grateful for. He was able to wrap his knee enough to get around and build a fire to keep them warmer until he was ready to move on in a day or two. From that moment the two were joined by an unspoken and supernatural bond. `Faleor` stated by referring to him as `Wolf Dog`, but would later learn through **speak with animals** that he prefers the name `Pawtrick Stewart`.
 
@@ -35,6 +35,6 @@ His favorite food is a nice roasted venison, turned over an open fire, and a sid
 
 Most of his gear is earthy tones: green, brown, greys. Leather straps, buckles, pouches where needed, many crafted over the years from his own kills. He wears a kilt as part of this gear. He has the efficient quiver on his back, an old beaten ax on his right leg that was his father’s, and his rapier on his belt on the other side. He has a cloak of resistance on his shoulder. He just got the boots of elvenkind. Also has a pair of boots of friendly terrain, that he keeps for if / when the return to the mountains. He wears studded leather armor, not from a trophy animal but taken from the gang the party defeated. It may not always be visible, as he used to always wear something over his mithral chain shirt. His clothes aren’t raggedy, as he takes good care of them and invests in more durable garments, but they’re definitely not high end. There are probably stitches patching up tears periodically. I imagine he has a pair of “nice” clothes, but they’re still tough, a leather coat perhaps, maybe the Khandarian version of a woolrich shirt or dickies brand.  
 
-![Faleor kitted out with his new Stag's Helm](/assets/faleor-stag.webp)
+![Faleor kitted out with his new Stag's Helm](/assets/faleor-stag.webp "Faleor at the ready, representing his deity Erastil with his Stag's Helm")
 
 [back to characters](/characters/README.md#faleor-)
