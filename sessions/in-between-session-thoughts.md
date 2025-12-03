@@ -10,19 +10,8 @@ Wonders what the back up plan is if they choose not to join.
 
 Once we get to know cohorts, consider giving _wand of silence_ to Marc's cleric as they may have more opportunity to cast it than Faleor and is on Cleric spell list  
 
-`Qa'dat` start to work on scribing scrolls. 2-3 scrolls of sending for `Pylia` (1 done) and have two level 6 spells lined up to scroll, depending on number of days we have downtime.  
 
-Need to finalize shopping before leave  
-
-Finalize what `Faleor` is doing. Maybe call from `Erastil`  
-many rural communities would have been effected  
-maybe some small community have issues after war, monster problem that he and `Pawtrick` could handle  
-maybe something larger, hooking into planes storyline  
-
-Sending for tomorrow?  
-> If get chance will ask khan  
-> but not likely.  
-> Has limited view of slavery.  
-> Leaving to Purple Men tomorrow.  
-> We can start there with Khan.  
+How to deal with swamp?  
+on short term, water walk (level 3 cleric and shaman) 10 min / level  
+water walk communal (level 2 cleric) but 10 min increments  
 
