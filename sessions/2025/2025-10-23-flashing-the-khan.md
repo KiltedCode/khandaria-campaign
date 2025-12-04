@@ -1,6 +1,6 @@
 # October 23, 2025 - Flashing the Khan
 
-Music Mood: [Flash by Queen](https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur?si=e6a96e9494c94a33)
+🎶 Music Mood: [Flash by Queen](https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur?si=e6a96e9494c94a33)
 
 FLASHBACK    
 `Qa'dat` looting the `Prince of Earth`  

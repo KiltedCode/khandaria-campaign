@@ -1,6 +1,6 @@
 # December 2, 2025 - You say "Goodbye" and I say "Hello, hello, hello"
 
-Music Mood: [Hello, Goodbye by The Beatles](https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M?si=5156efb69c444fb4)
+🎶 Music Mood: [Hello, Goodbye by The Beatles](https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M?si=5156efb69c444fb4)
 
 Early shopping  
 trying to find _bestial rags_  
