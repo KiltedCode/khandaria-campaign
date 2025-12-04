@@ -15,3 +15,9 @@ How to deal with swamp?
 on short term, water walk (level 3 cleric and shaman) 10 min / level  
 water walk communal (level 2 cleric) but 10 min increments  
 
+Sending to tribe during downtime  
+> Khan sending wagon of glassworks.  
+Sign of benefits of working with Khan.  
+Helping with Purple Men will raise tribe further.  
+However renouncing slavery obsidian line.  
+
