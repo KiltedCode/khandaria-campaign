@@ -1,5 +1,7 @@
 # December 2, 2025 - You say "Goodbye" and I say "Hello, hello, hello"
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0hqjsgWRfMBf2s8xsvRq1M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Early shopping  
 trying to find _bestial rags_  
 none, one who can make it but backed up for a month  
