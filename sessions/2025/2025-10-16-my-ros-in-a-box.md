@@ -1,6 +1,6 @@
 # October 16, 2026 - My Ros in a Box
 
-🎶 Music Mood: [Dick in a Box by The Lonely Island](https://open.spotify.com/track/60VtX59NsRINDnObbDtH7G?si=c5dec08e548c4705)]
+🎶 Music Mood: [Dick in a Box by The Lonely Island](https://open.spotify.com/track/60VtX59NsRINDnObbDtH7G?si=c5dec08e548c4705)
 
 next day  
 city is awash  
