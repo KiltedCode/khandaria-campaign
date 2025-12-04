@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## The Aftermath
 
+[December 1, 2025 - You say "Goodbye" and I say "Hello, hello, hello"](2025/2025-12-01-goodbye-hello.md)  
+It's time to say goodbye to some and hello to others. How will the adventurers move forward?  
+
 [November 6, 2025 - How to Get Ahead in Ur'gench](2025/2025-11-06-how-to-get-ahead-in-urgench.md)  
 The heroes receive invitations to the Coliseum, but this is no ball. The attend while deciding what job offer to take.  
 

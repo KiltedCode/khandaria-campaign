@@ -1,4 +1,4 @@
-# December 2, 2025 - 
+# December 2, 2025 - You say "Goodbye" and I say "Hello, hello, hello"
 
 Early shopping  
 trying to find _bestial rags_  
