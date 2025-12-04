@@ -44,3 +44,7 @@ _11,000 gp_
 [Blazing Robe](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Blazing%20Robe)  
 fire resistance 5, increase caster levels for fire by +1  
 _11,000 gp_  
+
+[Pale Ruby Ioun Stone](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Ruby%20Trillian)  
++5 compentance on stealth  
+_5,000 gp_  
