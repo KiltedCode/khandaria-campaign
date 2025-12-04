@@ -1,6 +1,6 @@
 # November 6, 2025 - How to Get Ahead in Ur'gench
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2u9A9W6UmnBzjWvhnziOyf?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Music Mood: [How to Succeed by Daniel Radcliffe from How to Succeed in Business Without Really Trying](https://open.spotify.com/track/2u9A9W6UmnBzjWvhnziOyf?si=690f9a6a566d47f3)
 
 meeting with the khan  
 positive for `Qa'dat`  
