@@ -108,7 +108,7 @@ un-alter self to get recognized to come in
 get to skip the queue  
 three people in the antechamber  
 a fighter looking half orc, a darker skinned cleric, thin but muscular woman with HUGE weapon   
-`Faleor` approaches with _bracers of durance vile_ to `Guros`  
+`Faleor` approaches with _shackles of durance vile_ to `Guros`  
 explains that they act as **dominate person**  
 `Qa'dat` confirms they were from the body  
 confirm we don't remember if Water or Fire had bracers or not  
