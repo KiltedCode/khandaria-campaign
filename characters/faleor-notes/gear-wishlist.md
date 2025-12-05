@@ -3,9 +3,6 @@
 List of items on `Faleor`'s wishlist.
 
 Highest wants (balanced with prices)
-- ~~Stag's Helm~~
-- need another cure light wounds wand as backup
-- Enhanced buckler
 - Human Bane (arrows or add to bow)
 - Amulet to store Pawtrick
 - Vest of Vengeful Tracker
@@ -16,19 +13,9 @@ Highest wants (balanced with prices)
 
 ## AC
 
-Enhance buckler as +1  
-_1,000 gp_  
-
-[+3 Buckler](https://www.aonprd.com/Rules.aspx?Name=Magic%20Armor&Category=Magic%20Items)  
-Darkwood would be nice just cause fits the ranger motif   
-_9,000 gp_  
-
 [Quick Block Buckler](https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Quick%20Block%20Buckler)  
 +3 arrow deflection buckler  
 _36,155 gp_  
-
-Enhance armor with [Shadow property](https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Shadow)  
-_+3,750 gp_  
 
 
 ## Attack
@@ -49,7 +36,7 @@ _30,400 gp_
 +2 lesser designating composite longbow, 1x / day target and create wall of thorns  
 _59,700 gp_  
 
-Add Human Bade to Ohm Bow  
+Add Human Bane to Ohm Bow  
 encounter a lot in Qubla  
 +3 against humans, 2d6 damage  
 _10,000 gp_
@@ -73,11 +60,6 @@ i.e. corrosive or frost or distance (220 ft distance for range increment)
 [Lenses of Detection](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Lenses%20of%20Detection)  
 eye slot, +5 Perception, +5 Survival for tracking    
 _3,500 gp_  
-
-~~[Ring of Sacred Mistletoe](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Sacred%20Mistletoe)  
-+2 handle animal, knowledge nature, wild empathy, and woodland stride ability   
-_6,000 gp_~~  
-pretty set on 3 rings to rotate for 2 slots  
 
 
 ## Wands
