@@ -67,9 +67,6 @@ _3,500 gp_
 [Gravity Bow](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gravity%20Bow)  
 _750 gp_  
 
-[Residual Tracking](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Residual%20Tracking)  
-_750 gp_  
-
 [Wand of Ironskin](https://www.aonprd.com/Rules.aspx?Name=Wands&Category=Magic%20Items)    
 _6,000 gp_  
 
