@@ -10,7 +10,7 @@ Belsaran is a flowing monk that annoys the enemies as much with punches to the f
 
 ## Pylia ☀️  
 
-Half-orc Cleric of Sarenrae (5) / Druid (5)  
+Half-orc Cleric of [Sarenrae](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Sarenrae) (5) / Druid (5)  
 
 ![Pylia, the cleric of Sarenrae and druid of the green](/assets/pylia.webp "Pylia, the cleric of Sarenrae and druid of the green")
 
@@ -82,17 +82,21 @@ Learn more about his history and the tribe through [Qa'dat's backstory](/charact
 Human Fighter (9)  
 Sunder specialist
 
-![Sin the Breaker](/assets/sin.webp "Sin the Breaker, without her armor on")
+![Sin the Breaker](/assets/sin.webp "Sin the Breaker, without her armor on")  
+
+`Sin` has shared that she tends to be a traveler. She specializes in demolition and has a preference in bringing down houses.
 
 ![Sin the Breaker, armored up](/assets/sin-armor.webp "Sin the Breaker, armored up and ready to battle")
 
 ## Silvia 🔆
 
-Human Cleric (9)
+Human Cleric of [Shelyn](https://www.aonprd.com/DeityDisplay.aspx?ItemName=Shelyn) (9)
 
 buffer, healer, friend
 
-![Silvia](/assets/silvia.webp "Silvia")
+![Silvia](/assets/silvia.webp "Silvia")  
+
+`Silvia` is a cleric of Shelyn and has lived her life in Ur'gench. 
 
 ## Surakor the Strong 🧙
 
