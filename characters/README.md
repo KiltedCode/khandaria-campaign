@@ -6,6 +6,8 @@
 
 Human monk (11)  
 
+aka. Commander Belsaran  
+
 Belsaran is a flowing monk that annoys the enemies as much with punches to the face as with his trips and stealing weapons from their hands. Speaking of hands, his can crackle with electricity as well as destroy altars. Belsaran was trained in the ways of the monk by `Jin`, later discovered to be a former master of the guard in Ur'gench.  
 
 ## Pylia ☀️  

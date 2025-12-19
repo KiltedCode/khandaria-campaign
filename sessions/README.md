@@ -44,6 +44,12 @@ _(reverse chronological order)_
 
 ## 2025
 
+## Purple Take Down
+
+[December 18, 2025 - Commander Belsaran](2025/2025-12-18-commander-belsaran.md)  
+It's time to meet the troops to prepare for heading out on our excursion.  
+
+
 ## The Aftermath
 
 [December 1, 2025 - You say "Goodbye" and I say "Hello, hello, hello"](2025/2025-12-01-goodbye-hello.md)  
