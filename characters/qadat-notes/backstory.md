@@ -4,6 +4,9 @@
 
 `Qa'dat` has an armadillo familiar known as `Ra'tar`. He doesn't know the common word for "armadillo" so he calls it a "turtle rabbit" as the best translation he has (meta: this is what Aztec word for armadillo translates to). He is 2 feet 7 inches long, weighing only roughly 10 pounds. He enjoys eating insects, grubs, earthworms,  and termites. He is not picky so will eat mushrooms, fruits, seeds, and eggs as well.
 
+Born in Dur'gal'sek, why hates Black Feathers so much  
+Currently lives in Crags Run.  
+
 ## Name
 
 Naming is important to the Stone Fist tribe. The name is made of half of parent's name plus own addition. The most influential of the tribe _earn_ a third syllable. `Qa'dat` is striving to earn his third syllable through advancing the tribes place and influence with Khandaria. `Qa` means spirit and `dat` means everywhere.
