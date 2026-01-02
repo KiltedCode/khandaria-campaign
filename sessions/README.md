@@ -42,6 +42,14 @@ The Qublan army approaches Ur'gench from the mountains and the plains. Both have
 
 _(reverse chronological order)_  
 
+## 2026
+
+## Purple Take Down
+
+[January 1, 2026 - Solstice and Slavery](2026/2026-01-01-solstice-and-slavery.md)  
+The party celebrates the solstice and readies to head out with their troops.  
+
+
 ## 2025
 
 ## Purple Take Down

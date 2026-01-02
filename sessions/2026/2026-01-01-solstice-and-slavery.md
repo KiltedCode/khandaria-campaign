@@ -1,4 +1,4 @@
-# January 1, 2026 - 
+# January 1, 2026 - Solstice and Slavery
 
 Winter Solstice tonight  
 Christmas and New Years wrapped into one  
@@ -65,6 +65,7 @@ if dies as martyr to try and prevent war, between countries and gods, good way t
 > Purple Man fight is big request.
 > Ask Khan is that enough?
 
+Reply  
 > Khan sending wagon of glassworks.  
 > Sign of benefits of working with Khan.  
 > Helping with Purple Men will raise tribe further.  
