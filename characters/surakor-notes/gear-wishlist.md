@@ -71,7 +71,6 @@ make his "magic missile" stronger by returning to his hand
 AC is not usually a priority as a barbarian, but slots are empty so boosts aren't bad
 
 [Amulet of Natural Armor +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Natural%20Armor2)  
-need at least +2 as familiar gives +1 NA  
 _4,000 gp_  
 
 [Ring of Protection +2](https://www.aonprd.com/MagicRingsDisplay.aspx?FinalName=Ring%20of%20Protection2)  
