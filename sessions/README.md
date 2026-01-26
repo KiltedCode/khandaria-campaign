@@ -46,6 +46,12 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[January 22, 2026 - Dino Derby](2026/2026-01-22-dino-derby.md)  
+The party has no choice but to investigate the farm currently occupied by raptors and ninjas. Hopefully they don't run into ninja raptors.  
+
+[January 8, 2026 - On the Road Again](2026/2026-01-08-on-the-road-again.md)  
+It is time for the party and their army to head out on their journey towards the Purple Men.  
+
 [January 1, 2026 - Solstice and Slavery](2026/2026-01-01-solstice-and-slavery.md)  
 The party celebrates the solstice and readies to head out with their troops.  
 
