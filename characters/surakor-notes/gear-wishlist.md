@@ -70,6 +70,11 @@ make his "magic missile" stronger by returning to his hand
 
 AC is not usually a priority as a barbarian, but slots are empty so boosts aren't bad
 
+[Effortless Armor](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Effortless%20Armor) [Permeanency](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Permanency)  
+remove speed penalty for his armor while letting him keep +6 AC and 2d6 on charge  
+estimate 5,000 as level 2 spell and that is same as darkvision or see invisibility  
+_5,000 gp_  
+
 [Amulet of Natural Armor +2](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Natural%20Armor2)  
 _4,000 gp_  
 
