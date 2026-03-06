@@ -25,5 +25,5 @@ Slavery still off table.
 Not good if refuse.
 
 
-Enter Accurate Stance as move action to offset power attack penalty  
+
 

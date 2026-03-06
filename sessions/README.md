@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[March 5, 2026 - Showdown at the Khandar Corral](2026/2026-03-05-showdown-at-the-khandar-corral.md)  
+As the party discovers the ninjas have taken prisoners, can the heroes find away to save them all?  
+
 [January 22, 2026 - Dino Derby](2026/2026-01-22-dino-derby.md)  
 The party has no choice but to investigate the farm currently occupied by raptors and ninjas. Hopefully they don't run into ninja raptors.  
 

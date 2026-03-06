@@ -1,4 +1,4 @@
-# March 5, 2026 - 
+# March 5, 2026 - Showdown at the Khandar Corral
 
 ninja 4 hold: |||
 ninja 4 -4 AC 9 rounds: |||
