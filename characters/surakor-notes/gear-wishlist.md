@@ -14,14 +14,22 @@ Stand without AOO, immediate move, CC
 FEET  
 _2,000 gp_  
 
+[Boots of Striding and Springing](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Boots%20of%20Striding%20and%20Springing)  
+Base land speed +10, +5 on Acrobatics jump   
+offset the penalty from his armor to speed  
+FEET  
+_5,500 gp_  
+
 [Deliquescent Gloves](https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Deliquescent%20Gloves)  
 1d6 acid with melee, also gives weapon corrosive  
+HANDS  
+_8,000 gp_  
 
 [Helm of fearsom Mien](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Helm%20of%20Fearsome%20Mien)  
 gives Intimidating Glare rage power  
 could then retrain it out  
 HEAD  
-_5,000 gp_  
+_5,000 gp_   
 
 [Headband of Inspired Wisdom](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Headband%20of%20Inspired%20Wisdom2)  
 boost will save  
