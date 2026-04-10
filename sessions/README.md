@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[April 9, 2026 - Mind the Gap](2026/2026-04-09-mind-the-gap.md)  
+Victorious, at nearly a great cost, the party must continue onward.  
+
 [March 5, 2026 - Showdown at the Khandar Corral](2026/2026-03-05-showdown-at-the-khandar-corral.md)  
 As the party discovers the ninjas have taken prisoners, can the heroes find away to save them all?  
 
