@@ -116,12 +116,6 @@ come back with crew of 6 with axes
 then bring the bridges ahead  
 `Sin` is breaking her half much faster than the 7 guys on other side  
 as clears out, troops starting to arrive  
-`Sin` swims to other side to help  
-`Lucy` still suspicious and watching  
-newly set up camp, some building timbers  
-well behaved Qublan conscripts  
-take down other half and floats towards `Qa'dat` who floats over and asks about the fire wood  
-`Sin` turns around and notices one is a Purple Man  
 
 `Qa'dat` has a plan  
 can make half bridge on east bank to rock  
@@ -129,6 +123,14 @@ then partial to put the portables to
 `Sin` says should work but not long term  
 have soldiers pull instead of horses for weight purposes  
 will take 4 castings  
+
+
+`Sin` swims to other side to help  
+`Lucy` still suspicious and watching  
+newly set up camp, some building timbers  
+well behaved Qublan conscripts  
+take down other half and floats towards `Qa'dat` who floats over and asks about the fire wood  
+`Sin` turns around and notices one is a Purple Man  
 
 
 [back to table of contents](/sessions/README.md)
