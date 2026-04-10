@@ -15,15 +15,8 @@ How to deal with swamp?
 on short term, water walk (level 3 cleric and shaman) 10 min / level  
 water walk communal (level 2 cleric) but 10 min increments  
 
-
-Sending for road  
-> Leaving for Khiva'Ral  
-expect 10 days  
-then bringing gift to Dur'gat'sek.
-Purple Men after.
-Slavery still off table.
-Not good if refuse.
-
-
+Bridging with Wall of Stone  
+maybe wood shape tree into bridge portions?  
+Stone Shape help?  
 
 
