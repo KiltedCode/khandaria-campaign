@@ -1,4 +1,4 @@
-# April 16, 2026 - 
+# April 16, 2026 - Questioning the Color Purple
 
 `Qa'dat` flies over shouting "restrain that man"  
 `Lucy` leaps out as tiger  

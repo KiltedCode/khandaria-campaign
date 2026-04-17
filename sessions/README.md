@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[April 16, 2026 - Questioning the Color Purple](2026/2026-04-16-questioning-the-color-purple.md)  
+The party discover a Purple Man among the work party. Is he another planted traitor? Can Qa'dat even keep a cool head?  
+
 [April 9, 2026 - Mind the Gap](2026/2026-04-09-mind-the-gap.md)  
 Victorious, at nearly a great cost, the party must continue onward.  
 
