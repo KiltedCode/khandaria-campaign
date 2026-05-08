@@ -1,4 +1,4 @@
-# May 7, 2026 - 
+# May 7, 2026 - Building Bridges
 
 next morning `Qa'dat` casts 3 **wall of stone**  
 followed by two from `Sylvia`  
