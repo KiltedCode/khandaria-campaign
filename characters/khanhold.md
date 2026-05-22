@@ -39,6 +39,9 @@ sub lieutenant of the guards
 `Victor`  
 leader of the hoplites  
 
+`Treuch`  
+leading guards when `Bertrim` away to reconstruct bridge, city boy out of place in the country  
+
 ## Tribesfolk  
 
 `Mi'ti`  
