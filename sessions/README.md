@@ -46,6 +46,12 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[May 21, 2026 - Man About Town](2026/2026-05-21-man-about-town.md)  
+The party settles in for Khanhold for a moment to see how they can help only to find more than they bargained for.  
+
+[May 7, 2026 - Builing Bridges](2026/2026-05-07-building-bridges.md)  
+It's time to build a bridge and get answers.  
+
 [April 16, 2026 - Questioning the Color Purple](2026/2026-04-16-questioning-the-color-purple.md)  
 The party discover a Purple Man among the work party. Is he another planted traitor? Can Qa'dat even keep a cool head?  
 

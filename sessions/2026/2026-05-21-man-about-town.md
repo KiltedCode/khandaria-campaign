@@ -1,4 +1,4 @@
-# May 21, 2026 - 
+# May 21, 2026 - Man About Town
 
 `Treuch` is currently in charge of guards at Khanhold  
 while others fixing bridge  
