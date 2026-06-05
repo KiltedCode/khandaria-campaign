@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[June 4, 2026 - Interview with a Purple Man](2026/2026-06-04-interview-with-a-purple-man.md)  
+The party looks to get answers from the spy, one way or another.  
+
 [May 21, 2026 - Man About Town](2026/2026-05-21-man-about-town.md)  
 The party settles in for Khanhold for a moment to see how they can help only to find more than they bargained for.  
 
