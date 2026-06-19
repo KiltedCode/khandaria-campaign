@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[June 18, 2026 - Snow Wagons](2026/2026-06-18-snow-wagons.md)  
+The party gets on the road again, or the wish there was a road.  
+
 [June 4, 2026 - Interview with a Purple Man](2026/2026-06-04-interview-with-a-purple-man.md)  
 The party looks to get answers from the spy, one way or another.  
 
