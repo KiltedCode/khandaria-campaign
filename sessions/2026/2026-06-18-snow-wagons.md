@@ -61,11 +61,15 @@ set up **grove of respite**, **create food and water**
 
 next morning as camp breaking prepare to **speak with soul**  
 warns if spirit is anger be prepared if it calls into this world  
-says was enslaved  
-tried to escaped when collars were dead  
+says in pain, was enslaved  
+killed trying to escape  
 if you would help, find and kill the slave master  
+they were from the villages  
 slave masters serve the city, emperor of hate  
+pretended collars were still working  
 were betrayed when tried to escape  
+`Qa'dat` says those that enslaved them, enslaved his people too  
+will gladly kill them if he finds them  
 asked to be released  
 `Qa'dat` releases the spirit right away  
 
