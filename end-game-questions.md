@@ -19,6 +19,7 @@ Below are questions that have come up during the course of the campaign. These a
 1. What was rogue scent in the under construction house when we were going to protect the relic and concerned on ninjas?
 1. Purple Men + The Great Worm = Purple Worm?!?!
 1. Was `Shag'nurab` undead? Or what was up with negative healing?
+1. What is creating the hot area for Purple Men causing or controlling the rain barrier?
 
 
 ## Random Thoughts
