@@ -15,5 +15,5 @@ How to deal with swamp?
 on short term, water walk (level 3 cleric and shaman) 10 min / level  
 water walk communal (level 2 cleric) but 10 min increments  
 
-Plan to do 3 bountiful feasts tomorrow and invite chief  
+Plan to do 3 bountiful feasts tomorrow and invite chief after return from scouting  
 

@@ -46,6 +46,9 @@ _(reverse chronological order)_
 
 ## Purple Take Down
 
+[July 16, 2026 - Scouting for Swamp](2026/2026-07-16-scouting-for-swamp.md)  
+Having arrived at Bul'ga'tok to a less than warm welcome, the party plans to scout for the swamp before leading everyone in.  
+
 [July 9, 2026 - Journey to Bul'ga'tok](2026/2026-07-09-journey-to-bulgatok.md)  
 The party continues down the journey through snow and rain to Bul'ga'tok.  
 
