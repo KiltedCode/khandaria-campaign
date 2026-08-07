@@ -72,6 +72,10 @@ easier to justify if swap out horses
 head out to see dinos  
 penning up the smaller fighting dinos from ninjas (Allosaur)    
 then also split rail fence with the dinos we're here for (Parasaur)    
+
+[![Pack Animal Dino](/assets/pack-animal-dino.webp)](/assets/pack-animal-dino.webp)  
+_The pack animal dinosaurs penned up outside city_  
+
 `Lucy` able to handle no problem  
 `Belsaran` tries and fails  
 `Surakor` succeeds and finds it like cheek scritches  
