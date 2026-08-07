@@ -21,9 +21,15 @@ Pelachin is a large village not far from the border of Khandaria and the elven k
 
 ### Khanhold
 
-The town of adventurers... ok, the town settled by our Adventurers. Learn more about this growing commuty once under the teachings of Wernick, now loyal to the Khan and settled by the party.  
+The town of adventurers... ok, the town settled by our Adventurers. Learn more about this growing community once under the teachings of Wernick, now loyal to the Khan and settled by the party.  
 
 [Our kind of town](khanhold.md)  
+
+### The Tribal Lands
+
+These lands extend out from the village of Khanhold and are the homes of various tribal peoples.
+
+[The lands of the Tribes](tribal-lands.md)  
 
 ### The Mountain Holds
 
