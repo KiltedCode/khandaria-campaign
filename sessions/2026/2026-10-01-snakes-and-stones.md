@@ -1,4 +1,4 @@
-# October 1, 2026 - 
+# October 1, 2026 - Snakes and Stones
 
 `Bal'tak` has demonstration on how to make repellant  
 clear they don't want to deal with smell as they have enough unless sweeten the deal  
