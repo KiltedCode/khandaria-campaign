@@ -17,6 +17,8 @@ water walk communal (level 2 cleric) but 10 min increments
 
 Plan to do 3 bountiful feasts tomorrow and invite chief after return from scouting  
 
-endure elements for party in morning  
-2 `Sylvia`, 4 `Qa'dat`  
+`Surakor` +2 on next attack thanks to `Sylvia`  
+`Qa'dat` casts **spiritual ally** bringing a spirit to flank with `Belsaran`  
 
+fire wasn't real  
+but believe it was  
