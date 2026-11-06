@@ -14,11 +14,4 @@ Once we get to know cohorts, consider giving _wand of silence_ to Marc's cleric 
 How to deal with swamp?  
 on short term, water walk (level 3 cleric and shaman) 10 min / level  
 water walk communal (level 2 cleric) but 10 min increments  
-
-Plan to do 3 bountiful feasts tomorrow and invite chief after return from scouting  
-
-`Surakor` +2 on next attack thanks to `Sylvia`  
-`Qa'dat` casts **spiritual ally** bringing a spirit to flank with `Belsaran`  
-
-fire wasn't real  
-but believe it was  
+ s
